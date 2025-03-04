@@ -1,7 +1,7 @@
 ---
 title: "Lenovo's New Game-Changer: ThinkPad T14S Unveiled with Longest Battery Life (29 Hours), High-Performance Qualcomm Processor, and Speed-Boosting SSD Storage"
-date: 2024-08-19T02:51:46.085Z
-updated: 2024-08-20T02:51:46.085Z
+date: 2025-03-02T18:31:33.130Z
+updated: 2025-03-04T17:18:22.812Z
 tags:
   - laptop
 categories:
@@ -82,9 +82,6 @@ It's rare that my lasting impression about a laptop is all about style, but here
 | **Weight**                | 3.31 pounds (1.5 kg)                                                                         |
 | **Price (as configured)** | $1,699.99                                                                                    |
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ## Productivity Performance on the Asus Zenbook S16
 
  This review happens to be our first look at AMD's new Ryzen AI 9 HX 370, one of the company's very lengthily-named processors in its "Strix Point" lineup. This chip has four Zen 5 cores and eight Zen 5c cores (for a total of 12 cores). It has a base clock of 2 GHz and a max boost of up to 5.1 GHz. As chip companies attempt to one-up each other on AI, AMD is packing 50 TOPS in its NPU, surpassing the 45 TOPS in the Qualcomm Snapdragon X Elite and X Plus (the chip as a whole goes up to 80 TOPS).
@@ -133,9 +130,6 @@ It's rare that my lasting impression about a laptop is all about style, but here
   
  I also tried a preview of Camo Studio, which uses the NPU to blur backgrounds, though you can already do that with Windows Studio Effects. There are other uses, like AI upscaling in Gigapixel AI, but these are mostly tools for creators. The average person, at the moment, doesn't seem to have a lot of reasons to use local AI features, and should probably focus more on productivity performance and battery life.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Display on the Asus Zenbook S16
 
  The screen on the Zenbook 16 makes a colorful first impression. The 16-inch, 2880 x 1800 OLED touch panel was vivid to my eye, but not as bright as some others. It also goes up to 120 Hz refresh rate.
@@ -150,9 +144,6 @@ It's rare that my lasting impression about a laptop is all about style, but here
 
  At 357 nits, I found the Zenbook 16 to be usable, but competitors do better. The 16-inch MacBook Pro was the brightest at 563 nits, and both the MacBook Air (476.4 nits) and HP Spectre x360 366.2 nits were also brighter.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Keyboard and Touchpad on the Asus Zenbook S16
 
  Despite just 1.1 mm travel, the Zenbook S16’s keyboard is snappy. Don't get me wrong, it's still a membrane keyboard, but it's relatively comfortable and even has a bit of bounce. On monkeytype, I hit 112 words per minute with a 2% error rate, which isn't my best, but is pretty close.
@@ -169,22 +160,10 @@ It's rare that my lasting impression about a laptop is all about style, but here
 
  Asus also includes its Asus Pen 2.0 — a stylus with 4,096 degrees of pressure sensitivity — in the box with the laptop. It's a nice add-on, I suppose. But it’s an odd fit for this clamshell laptop, particularly considering the display doesn't fold flat.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ## Audio on the Asus Zenbook S16
 
  The Zenbook S16 trades volume for detail. Don't get me wrong, it's loud enough, especially if you're sitting right in front of it, but it didn't quite fill an entire meeting room with sound. But when I was listening to Charli XCX's "Von dutch," I was surprised to hear a bit of bass. The speakers, tuned with Dolby Atmos, sounded great when I switched from "balanced" to "detailed," with clear vocals, pounding drums and whirring synths.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ## Upgradeability of the Asus Zenbook S16
 
 There isn't much to upgrade or repair on the Zenbook S16.
@@ -193,25 +172,16 @@ There isn't much to upgrade or repair on the Zenbook S16.
 
 ![Asus Zenbook S16](https://cdn.mos.cms.futurecdn.net/ecmzqwkBMqHc5j2cTa5SPS-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  Once you're in, there are two parts you could replace. The first is the battery, which takes up most of the room inside the system. The other is the SSD. Despite the size of the laptop, there isn't a secondary M.2 slot, so you'll have to replace the drive if you want more storage space. The wireless module and RAM are soldered to the motherboard.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Battery Life on the Asus Zenbook S16
 
  While the Zenbook S16 will likely last you an entire workday, the new Asus device didn't last as long on a charge as competitors based on Arm platforms.
 
 ![Asus Zenbook S16](https://cdn.mos.cms.futurecdn.net/qUjejmtkRBhxMYbsPzPwHT-320-80.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  The AMD-based Zenbook ran for 11 hours and 35 minutes on our battery test, which involves web browsing, OpenGL tests, and video streaming over Wi-Fi with the screen set to 150 nits. Only the Spectre x360, with Intel Core Ultra, did worse at 11:01 (and that's not far behind, especially considering that laptop has a smaller battery than the Zenbook).
@@ -224,9 +194,6 @@ There isn't much to upgrade or repair on the Zenbook S16.
 
  The keyboard hit a warm (but not uncomfortable) 99.5 degrees Fahrenheit, while the touchpad stayed cool at 87.4 F. The hottest point on the top on the grille at 110 F, but that's not usually a place you put your hands. On the bottom, the hottest touchpoint, near the ventilation, was at 116.2 F.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Webcam on the Asus Zenbook S16
 
  There's a 1080p webcam on the Zenbook S16's top bezel. While it's color-accurate, catching the exact shade of green in my shirt and the blue in my mesh office chair, some details, like my hair, came across a bit fuzzy.
@@ -245,9 +212,6 @@ There isn't much to upgrade or repair on the Zenbook S16.
 
  Asus sells the Zenbook S16 with a one-year warranty. A card included in the box offers one free year of accidental damage protection in exchange for registering the laptop.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Asus Zenbook S16 Configurations
 
  We tested the Asus Zenbook S16 with an AMD Ryzen AI 9 HX 370, 32GB of RAM, and a 1TB SSD, which goes for $1,699.99.
@@ -280,8 +244,6 @@ There isn't much to upgrade or repair on the Zenbook S16.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -289,4 +251,23 @@ There isn't much to upgrade or repair on the Zenbook S16.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-go-from-gaming-to-socializing-streaming-xbox-to-fb-live/"><u>[New] 2024 Approved Go From Gaming to Socializing Streaming Xbox to FB Live</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-secret-screengrabs-elusive-methods-for-concealed-photo-taking/"><u>[New] Secret ScreenGrabs Elusive Methods for Concealed Photo-Taking</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Lava Agni 2 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/adaptive3d-joins-desktop-metals-portfolio-company-projects-q1-earnings-at-113m-aims-for-100m-insights-from-zdnet/"><u>Adaptive3D Joins Desktop Metal's Portfolio; Company Projects Q1 Earnings at $11.3M, Aims for $100M - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/class-action-targeting-canon-usa-for-allegedly-defective-printers-lacking-ink-and-scan-functions-zdnet-exclusive/"><u>Class Action Targeting Canon USA for Allegedly Defective Printers Lacking Ink and Scan Functions | ZDNET Exclusive</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-update-resolves-major-flaws-in-over-150-hp-printer-models-by-printing-shellz-zdnet/"><u>Comprehensive Update Resolves Major Flaws in Over 150 HP Printer Models by Printing Shellz | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/consistent-performance-achieved-how-hp-solved-its-printer-woes-according-to-zdnet-exclusive/"><u>Consistent Performance Achieved: How HP Solved Its Printer Woes, According to ZDNet Exclusive</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/expert-insights-choosing-the-best-platforms-for-watching-cricket-live-for-2024/"><u>Expert Insights Choosing the Best Platforms for Watching Cricket LIVE for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/future-fortunes-in-additive-manufacturing-key-players-set-to-thrive-amidst-ongoing-supply-chain-crisis-industry-analysis/"><u>Future Fortunes in Additive Manufacturing: Key Players Set to Thrive Amidst Ongoing Supply Chain Crisis | Industry Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/highlighting-hps-robust-fourth-quarter-achievements-and-optimistic-first-quarter-predictions-silicon-insights/"><u>Highlighting HP's Robust Fourth Quarter Achievements and Optimistic First-Quarter Predictions | Silicon Insights</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Xiaomi Redmi Note 13 Pro+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-honor-magic-5-pro-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Honor Magic 5 Pro with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-realme-12-pro-5g-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Realme 12 Pro 5G Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/step-by-step-guide-seamless-transition-of-images-and-clips-from-iphones-to-computers/"><u>Step-by-Step Guide: Seamless Transition of Images & Clips From iPhones to Computers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-printer-models-expert-reviews-by-zdnet/"><u>Top Rated Printer Models : Expert Reviews by ZDNet</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-oneplus-ace-2-pro-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for OnePlus Ace 2 Pro Users</u></a></li>
+</ul></div>
 

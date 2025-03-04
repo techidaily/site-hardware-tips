@@ -1,7 +1,7 @@
 ---
 title: Innovative Chinese Producer Tryx Unveils Exclusive All-In-One Cooler Featuring a Sleek Curved AMOLED Screen
-date: 2024-08-15T06:31:53.195Z
-updated: 2024-08-16T06:31:53.195Z
+date: 2025-02-28T20:51:44.936Z
+updated: 2025-03-04T16:55:11.972Z
 tags:
   - cooling
 categories:
@@ -55,9 +55,6 @@ DeepCool showed a bunch of new hardware at[Computex 2024](https://www.tomshardwa
 
  LATEST VIDEOS FROM tomshardware Tom's Hardware
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## PC chassis, accessories and new power supplies
 
  Image 1 of 4
@@ -67,9 +64,6 @@ DeepCool showed a bunch of new hardware at[Computex 2024](https://www.tomshardwa
  BTF compatible DeepCool CH560R PC Case  (Image credit: DeepCool)
 
 ![BTF compatible DeepCool CH560R PC Case](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  BTF compatible DeepCool CH560R PC Case  (Image credit: DeepCool)
 
@@ -78,9 +72,6 @@ DeepCool showed a bunch of new hardware at[Computex 2024](https://www.tomshardwa
  DeepCool CH160 MESH ITX Case Series  (Image credit: DeepCool)
 
 ![DeepCool CH170 DIGITAL ITX Case with digital monitoring screen](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  DeepCool CH170 DIGITAL ITX Case with digital monitoring screen  (Image credit: DeepCool)
 
@@ -91,17 +82,10 @@ DeepCool showed a bunch of new hardware at[Computex 2024](https://www.tomshardwa
  Image 1 of 3
 
 ![DeepCool  LP Matrix AIO Series in 240mm and 360mm  variants](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  (Image credit: DeepCool)
 
 ![New DeepCool PSUs complying with Intel ATX 3.1 and PCIe 5.0 Standards](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 
  New DeepCool PSUs complying with Intel ATX 3.1 and PCIe 5.0 Standards  (Image credit: DeepCool)
 
@@ -115,9 +99,6 @@ DeepCool showed a bunch of new hardware at[Computex 2024](https://www.tomshardwa
   
  DeepCool cases and power supplies are designed to be future-ready, with support for the latest motherboards designs and power supply standards. The company has been making PC accessories for a while now and tends to do a good job, and the new ability to customize cases with silicone bits may appeal to a certain demographic. We look forward to seeing the retail products over the coming months.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -126,14 +107,11 @@ DeepCool showed a bunch of new hardware at[Computex 2024](https://www.tomshardwa
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -142,4 +120,18 @@ DeepCool showed a bunch of new hardware at[Computex 2024](https://www.tomshardwa
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/new-syncing-visual-elements-across-platforms/"><u>[New] Syncing Visual Elements Across Platforms</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-unraveling-the-cash-accumulation-through-viewers-attention/"><u>2024 Approved Unraveling the Cash Accumulation Through Viewers' Attention</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/apple-iphone-11-pro-backup-password-never-set-but-still-asking-heres-the-fix-drfone-by-drfone-ios/"><u>Apple iPhone 11 Pro Backup Password Never Set But Still Asking? Heres the Fix | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fix-it-now-enable-your-windows-11-file-sharing-and-backup-functionality/"><u>Fix It Now: Enable Your Windows 11 File Sharing & Backup Functionality</u></a></li>
+<li><a href="https://android-frp.techidaily.com/motorola-moto-g-stylus-5g-2023-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Motorola Moto G Stylus 5G (2023) ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ng-top-10-budget-friendly-video-editing-apps/"><u>Ranking Top 10 Budget-Friendly Video Editing Apps</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-great-reshuffle-how-to-leverage-green-skills-for-sustainable-employment-on-linkedin-insights-by-zdnet/"><u>The 'Great Reshuffle': How to Leverage Green Skills for Sustainable Employment on LinkedIn | Insights by ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-amazing-powers-of-the-lomi-indoor-composter-unveiled-an-in-depth-review-for-eco-conscious-homes-zdnet/"><u>The Amazing Powers of the Lomi Indoor Composter Unveiled - An In-Depth Review for Eco-Conscious Homes | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-environmental-impact-of-your-smartphone-understanding-and-mitigating-its-effects/"><u>The Environmental Impact of Your Smartphone: Understanding and Mitigating Its Effects</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-future-of-note-taking-unveiled-smart-reusable-pads-by-rocketbook-on-zdnet/"><u>The Future of Note Taking Unveiled: Smart Reusable Pads by Rocketbook on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/tired-of-tough-snow-battles-in-cleveland-discover-the-power-of-our-top-rated-electric-snow-thrower/"><u>Tired of Tough Snow Battles in Cleveland? Discover the Power of Our Top-Rated Electric Snow Thrower!</u></a></li>
+</ul></div>
 

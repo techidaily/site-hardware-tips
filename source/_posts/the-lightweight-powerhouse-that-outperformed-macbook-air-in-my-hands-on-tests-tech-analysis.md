@@ -1,7 +1,7 @@
 ---
 title: The Lightweight Powerhouse That Outperformed MacBook Air in My Hands-On Tests | Tech Analysis
-date: 2025-02-11T18:52:29.261Z
-updated: 2025-02-15T18:49:38.188Z
+date: 2025-02-27T19:01:35.364Z
+updated: 2025-03-04T21:29:10.352Z
 tags:
   - laptops
 categories:
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/75e496d7d03af882c809a7273c9e1eb1d9baeae9a
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -86,10 +82,6 @@ I have been integrating Copilot into my workflow as I learn more about how to us
 
 The Surface's battery life has been fantastic, too. I get over 15 hours of use from a single charge, and it has yet to fully deplete to zero by the time I call a benchmarking test. The combination of smart design with meaningful trade-offs is what gives this laptop its marathon battery life, and opens it up for a variety of use cases from a creator or productivity perspective. Basically, this is a laptop you can work remotely with for the whole day without a charger.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## ZDNET's buying advice
 
 I mentioned this before, but the direction that Microsoft took with this laptop is, well, rather uncharacteristic. The [Microsoft Surface Laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMicrosoft-Surface-Touchscreen-Snapdragon-Sapphire%2Fdp%2FB0CXKYTQS2%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Caa440095-ca1f-4419-9cdc-45c43b50b362%7Cdtp&dtb=1) is light, airy, and brings some fun to the Copilot+ line. I would have loved to see this laptop with an OLED display, but the one we get instead is still quite nice, especially with this fantastic battery life. 
@@ -126,22 +118,16 @@ The Surface Laptop is a flagship mid-range device that's well-rounded enough to 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-ideal-strategies-for-noiseless-filming/"><u>[New] Ideal Strategies for Noiseless Filming</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-the-insiders-guide-to-recording-games-in-windows-11/"><u>[Updated] The Insider's Guide to Recording Games in Windows 11</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/affordable-quality-discover-how-beats-latest-solo-earbuds-could-outshine-sub-100-competitors-like-apples-airpods-insights/"><u>Affordable Quality: Discover How Beats' Latest Solo Earbuds Could Outshine Sub-$100 Competitors Like Apple's AirPods – Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-computer-gear-with-tom-an-in-depth-guide/"><u>Exploring Computer Gear with Tom: An In-Depth Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/geometry-meets-quietude-with-eskimo-junior-24-an-appraisal-of-its-uncommon-look-and-moderate-workmanship/"><u>Geometry Meets Quietude with Eskimo Junior 24: An Appraisal of Its Uncommon Look and Moderate Workmanship</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-samsung-galaxy-m34-5g-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Samsung Galaxy M34 5G for Free? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-your-vivo-v30-lite-5g-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Vivo V30 Lite 5G Lock Screen Password</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-lighting-up-dull-iphone-videos-in-3-ways/"><u>In 2024, Lighting up Dull iPhone Videos in 3 Ways</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-sony-xperia-1-v-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Sony Xperia 1 V | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/leading-liquid-cooling-solutions-reviewed-best-picks/"><u>Leading Liquid Cooling Solutions Reviewed - Best Picks</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigate-the-digital-world-with-tips-from-toms-equipment-hub/"><u>Navigate the Digital World with Tips From Tom's Equipment Hub</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/omnicharges-all-in-one-power-bank-the-omni-20-a-detailed-assessment-of-its-versatile-charging-capabilities-and-qi-wireless-feature/"><u>Omnicharge's All-in-One Power Bank - The Omni 지오티 20: A Detailed Assessment of Its Versatile Charging Capabilities and Qi Wireless Feature</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/streamline-your-pc-with-cooler-masters-dual-fan-graphics-upgrade/"><u>Streamline Your PC With Cooler Master's Dual-Fan Graphics Upgrade</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-meme-artisans-guide-to-shaping-social-interaction-gifs-for-2024/"><u>The Meme Artisan's Guide to Shaping Social Interaction (GIFs) for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-review-for-corsair-icue-link-h150i-rgb-top-notch-speed-and-vast-customization-at-your-fingertips/"><u>The Ultimate Review for Corsair ICUE Link H150i RGB: Top-Notch Speed and Vast Customization at Your Fingertips</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-choosing-the-best-thermal-paste-for-your-cpu-in-2e24-rankings-and-reviews/"><u>Ultimate Guide to Choosing the Best Thermal Paste for Your CPU in 2E24 – Rankings & Reviews</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unlocking-the-secrets-of-computer-components-expert-advice-from-tom/"><u>Unlocking the Secrets of Computer Components: Expert Advice From Tom</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-the-best-in-class-evaluating-the-top-8-sub-to-srt-convertors/"><u>[New] In 2024, The Best in Class Evaluating the Top 8 Sub to SRT Convertors</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-smarter-enhancements-key-factors-in-technology-progress/"><u>[New] Smarter Enhancements Key Factors in Technology Progress</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-exploring-splitcams-recording-capabilities-and-excellence/"><u>2024 Approved Exploring SplitCam's Recording Capabilities and Excellence</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/evaluating-microsoft-surface-go-navigating-the-paradox-of-an-economical-yet-confused-device/"><u>Evaluating Microsoft Surface Go: Navigating the Paradox of an Economical yet Confused Device</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-vivo-y100-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Vivo Y100 Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/solving-common-chatgpt-glitches-a-guide-to-overcoming-6-prevalent-problems/"><u>Solving Common ChatGPT Glitches: A Guide to Overcoming 6 Prevalent Problems</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/velotrics-discover-electric-bike-unveiled-user-friendly-competitively-priced-ride-gadgetcentral/"><u>Velotric's Discover Electric Bike Unveiled: User-Friendly, Competitively Priced Ride | GadgetCentral</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Infinix Hot 30i? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/why-did-delta-alienate-its-core-audience-insights-from-zdnet/"><u>Why Did Delta Alienate Its Core Audience? Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnet-exclusive-review-and-breakdown-of-emporia-energy-smart-charger-for-electric-vehicles-powerful-features-at-competitive-pricing/"><u>ZDNet Exclusive: Review & Breakdown of Emporia Energy Smart Charger for Electric Vehicles - Powerful Features at Competitive Pricing</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnets-comprehensive-review-the-dual-rider-built-e-bike-lectric-xp-30-unveiled/"><u>ZDNet's Comprehensive Review: The Dual-Rider Built E-Bike, Lectric XP 3.0 Unveiled</u></a></li>
 </ul></div>
 

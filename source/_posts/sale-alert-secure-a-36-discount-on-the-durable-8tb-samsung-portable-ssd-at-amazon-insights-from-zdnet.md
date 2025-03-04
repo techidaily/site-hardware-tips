@@ -1,7 +1,7 @@
 ---
 title: "Sale Alert: Secure a 36%% Discount on the Durable 8TB Samsung Portable SSD at Amazon - Insights From ZDNet"
-date: 2025-02-14T20:14:01.123Z
-updated: 2025-02-15T18:29:26.791Z
+date: 2025-02-28T22:01:22.786Z
+updated: 2025-03-04T17:34:59.891Z
 tags:
   - laptops
 categories:
@@ -26,10 +26,6 @@ With a truly impressive amount of storage space, you'll get read and write speed
 **Read more:** **[SSD vs. HDD: What's the difference, and which should you buy?](https://www.zdnet.com/article/ssd-vs-hdd-whats-the-difference-and-which-should-you-buy/)** 
 
 Along with great read and write speeds and more reliable data transfers, the [Samsung T5 Evo](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Portable-External-MU-PH8T0S-AM%2Fdp%2FB0CMDGGJTZ%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C5d25efea-41c2-4721-bece-33eaed47020a%7Cdtp&dtb=1) also features 256-bit AES encryption to keep your personal data and sensitive information safe from unauthorized access. Its outer casing is drop- and shock-resistant and can withstand falls up to six feet, making it perfect for on-location photographers and other mobile professionals who need a tough storage drive for offloading raw photos from camera storage or transferring important projects and documents between their home office and mobile work location. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -65,24 +61,16 @@ While the Amazon listing for the Samsung T5 Evo portable SSD does not have a cou
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://iphone-unlock.techidaily.com/different-methods-to-unlock-your-apple-iphone-11-pro-drfone-by-drfone-ios/"><u>Different Methods To Unlock Your Apple iPhone 11 Pro | Dr.fone</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/discover-the-leading-home-climate-monitors-of-2024-a-buyers-list/"><u>Discover the Leading Home Climate Monitors of 2024 - A Buyer's List</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/easy-fixes-for-system-thread-exception-not-handled/"><u>Easy Fixes for System Thread Exception Not Handled</u></a></li>
-<li><a href="https://common-error.techidaily.com/end-the-annoyance-steps-to-cease-relentless-cursor-blindness/"><u>End the Annoyance: Steps to Cease Relentless Cursor Blindness</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-in-depth-analysis-of-the-meta-512gb-quest-3-offer-the-premier-vr-headset-deal-on-the-market/"><u>Get In-Depth Analysis of the Meta 512GB Quest 3 Offer - The Premier VR Headset Deal on the Market!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/get-ready-for-innovation-bamboo-lab-unveils-a1-the-speedster-bed-slinger-on-dec-14th/"><u>Get Ready for Innovation - Bamboo Lab Unveils A1, The Speedster Bed Slinger on Dec. 14Th</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/how-to-maintain-and-declogs-your-3d-printing-equipment-effectively/"><u>How to Maintain and Declogs Your 3D Printing Equipment Effectively</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-codec-confrontation-who-takes-the-victory-av1-or-vp9/"><u>In 2024, Codec Confrontation Who Takes the Victory, AV1 or VP9?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/keeping-insider-beta-features-hidden/"><u>Keeping Insider Beta Features Hidden</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723175706813-lamptrons-latest-st060-cpu-cooler-a-mighty-large-6-inch-display-matching-iphone-15-specs-and-acts-as-an-extra-screen/"><u>Lamptron's Latest ST060 CPU Cooler: A Mighty Large 6-Inch Display Matching iPhone 15 Specs and Acts as an Extra Screen</u></a></li>
-<li><a href="https://win11.techidaily.com/maintain-peak-condition-in-windows-11-with-these-5-checks/"><u>Maintain Peak Condition in Windows 11 with These 5 Checks</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-tech-with-toms-hardware-insights/"><u>Navigating Tech with Tom's Hardware Insights</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/navigating-the-world-of-vr-playback-technology-for-2024/"><u>Navigating the World of VR Playback Technology for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-streamlining-editing-how-to-excise-audio-from-video-tracks-using-premiere-pro-for-2024/"><u>New Streamlining Editing How to Excise Audio From Video Tracks Using Premiere Pro for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/reliability-boost-intel-announces-increased-warranty-term-for-13th-and-14th-gen-core-cpus-facing-stability-setbacks/"><u>Reliability Boost: Intel Announces Increased Warranty Term for 13Th and 14Th Gen Core CPUs Facing Stability Setbacks</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-resource-for-computer-enthusiasts-toms-hardware-experts/"><u>The Ultimate Resource for Computer Enthusiasts - Tom's Hardware Experts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-external-hdd-drives-and-ssd-encasements/"><u>Top Rated External HDD Drives & SSD Encasements</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unbeatable-price-elegoo-neptone-x4-pro-only-284-awaits-you/"><u>Unbeatable Price: Elegoo Neptone X4 Pro Only $284 Awaits You!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-tech-secrets-toms-authoritative-hardware-analysis/"><u>Unveiling Tech Secrets: Tom's Authoritative Hardware Analysis</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-a-step-by-step-guide-to-updating-photos-and-videos-on-instagram/"><u>[New] A Step-by-Step Guide to Updating Photos and Videos on Instagram</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-chat-room-to-global-stage-broadcast-google-meet-on-youtube/"><u>[New] In 2024, From Chat Room to Global Stage Broadcast Google Meet on YouTube</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-xiaomi-13t-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Xiaomi 13T Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/t-download-and-mp3-creation-for-streaming-video-files/"><u>Direct Download & MP3 Creation for Streaming Video Files</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-recover-lost-search-output-in-win-1011-os/"><u>How to Recover Lost Search Output in Win 10/11 OS</u></a></li>
+<li><a href="https://win11.techidaily.com/quickly-overcoming-common-issues-with-closed-captions-on-win11/"><u>Quickly Overcoming Common Issues with Closed Captions on Win11</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/spooky-savings-alert-snag-a-discounted-evo-nanoplus-drone-for-halloween-and-slice-off-190-from-price-exclusive-offer/"><u>Spooky Savings Alert: Snag a Discounted Evo Nano+ Drone for Halloween & Slice Off $190 From Price! - Exclusive Offer</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211337845-9781493069910-spooky-south-3rd-ed/"><u>Spooky South (3rd ed.) | Free Book</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/tesla-sets-new-norm-for-electric-vehicle-charging-in-us-after-landmark-pact-with-general-motors-and-ford-details-on-zdnet/"><u>Tesla Sets New Norm for Electric Vehicle Charging in US After Landmark Pact with General Motors and Ford, Details on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/teslas-long-awaited-arrival-the-launch-of-the-worlds-first-electric-semi-truck-line-zdnet/"><u>Tesla's Long-Awaited Arrival: The Launch of the World’s First Electric Semi Truck Line | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-reason-behind-united-airlines-push-for-higher-fees-insightful-analysis-by-zdnet/"><u>The Reason Behind United Airlines' Push for Higher Fees: Insightful Analysis by ZDNet</u></a></li>
 </ul></div>
 

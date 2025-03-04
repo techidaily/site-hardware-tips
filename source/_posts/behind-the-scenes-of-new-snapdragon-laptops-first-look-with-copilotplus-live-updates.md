@@ -1,7 +1,7 @@
 ---
 title: Behind the Scenes of New Snapdragon Laptops - First Look with Copilot+ Live Updates
-date: 2024-08-19T02:54:03.149Z
-updated: 2024-08-20T02:54:03.149Z
+date: 2025-03-01T20:59:26.319Z
+updated: 2025-03-04T20:27:00.052Z
 tags:
   - laptop
 categories:
@@ -39,9 +39,6 @@ Several PC manufacturers recently[launched Qualcomm-powered laptops](https://too
 
  The Vivobook S15 (S5507) features two USB 4 ports, two USB 3.2 Type-A ports, a microSD card reader, an HDMI 2.1 port, and a 3.5mm headphone jack. It starts at $1,299.99 on the [Asus website](https://clk.tradedoubler.com/click?p=332082&a=2384895&epi=tomshardware-us-1448347873480858520&url=https%3A%2F%2Fshop.asus.com%2Fus%2F90nb14q2-m000w0-asus-vivobook-s-15-s5507.html) , but is out of stock at the time of writing.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -50,9 +47,6 @@ Several PC manufacturers recently[launched Qualcomm-powered laptops](https://too
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ## Dell XPS 13
 
 ![Dell XPS 13](https://cdn.mos.cms.futurecdn.net/QAyqoqgfXVyMCzhuYHvvaS-320-80.jpg)
@@ -63,9 +57,6 @@ Several PC manufacturers recently[launched Qualcomm-powered laptops](https://too
 
  The biggest advantage of the XPS 13 is the screen options available: it starts with a 13.4-inch display with an FHD+ resolution, but you can upgrade it to a QHD+ display. But if you want the best image quality, the XPS 13 can be had with a 3K OLED screen. The XPS 13 starts at $1,299.99 but can quickly jump to $2,499.99 if you max out its specs. It’s now available on the[Dell website](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-8900246-12578053%3Fsid%3Dtomshardware-us-3641429059046625036%26url%3Dhttps%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Flaptops%2Fsnapdragon%2Fspd%2Fxps-13-9345-laptop%2Fusexchcto9345qcm02) .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ## Dell Inspiron 14 Plus
 
 ![Dell Inspiron 14 Plus Laptop](https://cdn.mos.cms.futurecdn.net/RxhbpuMwEyZwzgdfQ5xe7T-320-80.jpg)
@@ -80,9 +71,6 @@ Several PC manufacturers recently[launched Qualcomm-powered laptops](https://too
 
 ![HP EliteBook Ultra 14](https://cdn.mos.cms.futurecdn.net/ss4CedHQoAQaDKDSg4AVsh-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 (Image credit: HP)
 
  The EliteBook Ultra 14 is[HP](https://tools.techidaily.com) ’s premium Copilot+ PC offering, with a 12-core Snapdragon X Elite X1E-78-100 chip, 16GB of RAM, and a 512GB SSD. It also has a 14-inch 2.2K display and has the following ports: two USB-C ports, a USB-A port, and a 3.5mm combo jack.
@@ -109,25 +97,16 @@ Several PC manufacturers recently[launched Qualcomm-powered laptops](https://too
 
  The Yoga Slim 7x uses a 14.5-inch 3K OLED display with a 90 Hz refresh rate. It’s also VESA-certified DisplayHDR True Black 600, giving you a great viewing experience. The laptop starts at $1,199.00 and is available for Pre-Order on[the Lenovo site](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Flenovo.7eer.net%2Fc%2F5597632%2F218864%2F3808%3FsubId1%3Dtechidaily-us-8727768493894058412%26sharedId%3Dtechidaily-us%26u%3Dhttps%253A%252F%252Fwww.lenovo.com%252Fus%252Fen%252Fp%252Flaptops%252Fyoga%252Fyoga-slim-series%252Fyoga-slim-7x-gen-9-%252814-inch-snapdragon%2529%252Flen101y0049) at the time of writing.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Lenovo ThinkPad T14s Gen 6
 
 ![Lenovo ThinkPad T14s Gen 6](https://cdn.mos.cms.futurecdn.net/By8PYnaLQtTDyDkoyxvmNd-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
  (Image credit: Lenovo)
 
  Lenovo knows that many businesses want to get on the AI bandwagon, so it’s bringing the Copilot+ PC certification to one of the most popular[enterprise](https://tools.techidaily.com) laptops. The ThinkPad T14s Gen 6 has a Snapdragon X Elite processor with 32GB of RAM and a 1TB SSD. It also comes with[Windows 11](https://tools.techidaily.com) Pro right out of the box.
 
  This laptop has a 14-inch IPS display and two USB4 ports, two USB-A ports, an HDMI 2.1 port, and a 3.5mm headphone jack. You also have the option to add a Nano Sim slot. The ThinkPad T14s Gen 6 starts at $1,889.30 and is available for Pre-Order direct[from Lenovo](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Flenovo.7eer.net%2Fc%2F5597632%2F218864%2F3808%3FsubId1%3Dtechidaily-us-1250424839333332531%26sharedId%3Dtechidaily-us%26u%3Dhttps%253A%252F%252Fwww.lenovo.com%252Fus%252Fen%252Fp%252Flaptops%252Fthinkpad%252Fthinkpadt%252Flenovo-thinkpad-t14s-gen-6-%252814-inch-snapdragon%2529%252Flen101t0099) at the time of writing.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Microsoft Surface Laptop
 
 ![Microsoft Surface Laptop](https://cdn.mos.cms.futurecdn.net/C6DJ6XaHjf2BKnT2gskUhk-320-80.jpg)
@@ -142,18 +121,12 @@ Several PC manufacturers recently[launched Qualcomm-powered laptops](https://too
 
 ![Microsoft Surface Pro](https://cdn.mos.cms.futurecdn.net/FDVeU5mue9SMrJ7zU7yjHB-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Microsoft)
 
  If you prefer the tablet form factor, you can still get a Copilot+ PC with the Microsoft Surface Pro. This 2-in-1 starts at $999.99 for the Snapdragon X Plus version with a 13-inch LCD display, 16GB of RAM, and a 256GB SSD for the Platinum colorway. The three other colors — Sapphire, Dune, and Black — start at $1,199.99 with a larger 512GB SSD.
 
  The Snapdragon X Elite model gets a 13-inch OLED screen and 16GB of RAM, but you now also have a choice between a 512GB or a 1TB SSD. The Snapdragon X Elite Surface Pro starts at $1,499.99 but jumps to $1,699.99 for the larger storage version. You can also spec this chip with 32GB of RAM and 1TB SSD, but you’ll have to shell out $2,099.99 for this model. You can get it now from[Microsoft](https://www.microsoft.com/en-us/store/configure/surface-pro-11th-edition/8n9t09p96cmj) if you want a new Windows 11 tablet.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Samsung Galaxy Book4 Edge
 
 ![Samsung Galaxy Book4 Edge](https://cdn.mos.cms.futurecdn.net/92Lc3j6TS3cq5HjHkBqebH-320-80.jpg)
@@ -172,8 +145,6 @@ Several PC manufacturers recently[launched Qualcomm-powered laptops](https://too
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -181,4 +152,22 @@ Several PC manufacturers recently[launched Qualcomm-powered laptops](https://too
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-elevate-your-gaming-experience-with-smart-use-of-xbox-zoom/"><u>[New] 2024 Approved Elevate Your Gaming Experience with Smart Use of Xbox Zoom</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-navigating-network-growth-strategies-for-instagram-success/"><u>[New] Navigating Network Growth Strategies for Instagram Success</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/discovering-excellence-with-samsungs-2019-model-qn55q6f-a-next-gen-smart-led-television-review/"><u>Discovering Excellence with Samsung's 2019 Model QN55Q6F - A Next-Gen Smart LED Television Review</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-motorola-g24-power-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Motorola G24 Power by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-xr-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>How to Unlock Apple iPhone XR With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-battery-life-with-apple-watchs-low-power-mode-a-guide-for-optimal-performance-discover-how-at-zdnet/"><u>Mastering Battery Life with Apple Watch's Low Power Mode - A Guide for Optimal Performance | Discover How at ZDNET</u></a></li>
+<li><a href="https://extra-information.techidaily.com/prime-phone-pals-selecting-speech-to-text-apps-for-offline-use/"><u>Prime Phone Pals Selecting Speech-to-Text Apps for Offline Use</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/schritt-fur-schritt-anleitung-zum-exportieren-von-hyper-v-virtual-machine-auf-ein-netzlaufwerk/"><u>Schritt-Für-Schritt Anleitung Zum Exportieren Von Hyper-V Virtual Machine Auf Ein Netzlaufwerk</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/score-a-budget-friendly-apple-watch-series-10-at-just-99-with-early-bird-preorders-from-best-buy-complete-guide-on-zdnet/"><u>Score a Budget-Friendly Apple Watch Series 10 at Just $99 with Early Bird Preorders From Best Buy – Complete Guide on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/step-by-step-to-enable-googles-pixel-watch-fall-detection-and-understanding-its-importance/"><u>Step-by-Step to Enable Google's Pixel Watch Fall Detection and Understanding Its Importance</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/syma-x5c-exposed-perfect-pick-for-novice-aerial-enthusiasts-for-2024/"><u>Syma X5C Exposed Perfect Pick for Novice Aerial Enthusiasts for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-quintessential-guide-top-free-solutions-for-cross-continental-voice-conversations/"><u>The Quintessential Guide: Top Free Solutions for Cross-Continental Voice Conversations</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-kid-friendly-smartwatches-that-arent-apple-or-garmin-in-depth-reviews-and-comparisons/"><u>Top Kid-Friendly Smartwatches That Aren't Apple or Garmin: In-Depth Reviews & Comparisons</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unboxing-and-testing-report-the-premium-649-samsung-galaxy-watch-ultra-and-what-it-really-offers-an-exclusive-insight-by-a-gadget-enthusiast-zdnet/"><u>Unboxing & Testing Report: The Premium $649 Samsung Galaxy Watch Ultra and What It Really Offers – An Exclusive Insight by a Gadget Enthusiast | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-zdnets-methodology-for-assessing-top-tier-smartwatches-on-the-market/"><u>Unveiling ZDNet's Methodology for Assessing Top-Tier Smartwatches on the Market</u></a></li>
+</ul></div>
 

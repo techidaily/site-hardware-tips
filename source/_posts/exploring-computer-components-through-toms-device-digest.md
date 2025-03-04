@@ -1,7 +1,7 @@
 ---
 title: Exploring Computer Components Through Tom's Device Digest
-date: 2024-08-19T02:54:12.981Z
-updated: 2024-08-20T02:54:12.981Z
+date: 2025-02-26T16:46:22.483Z
+updated: 2025-03-04T18:45:31.683Z
 tags:
   - laptop
 categories:
@@ -92,9 +92,6 @@ It's rare that my lasting impression about a laptop is all about style, but here
 
 ![Asus Zenbook S16](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![Asus Zenbook S16](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
@@ -107,9 +104,6 @@ It's rare that my lasting impression about a laptop is all about style, but here
 
 ![Asus Zenbook S16](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  On Geekbench 6, the Zenbook S16 achieved a single-core score of 2,765 and a multi-core score of 13,282\. This was enough to beat the M3 in Apple's MacBook Air, the 16-core Intel Core Ultra 7 155H in the[HP](https://tools.techidaily.com) Spectre x360 14, and the Qualcomm Snapdragon X Elite X1E-78-100 in the HP OmniBook X. The newest Ryzen fell only to the Apple M3 Max, with scores of 3,200 and 21,711 in the 16-inch MacBook Pro (and, to be fair, a review unit stocked with 128GB of RAM, making the MacBook Air a more apt comparison from a price perspective. While it's unclear that Apple has ever released an official number, various sites have tested the M3 Max to be using significantly more power than the Ryzen AI CPU here, which is rated at 28W and configured to 17W TDP out of the box).
@@ -120,18 +114,12 @@ It's rare that my lasting impression about a laptop is all about style, but here
 
  To stress the processor, we run Cinebench 2024 for 10 runs. During the test, the system started at 821.18 points and dipped into the high 700's, and then peaked up to 844.42 points before dipping again into the mid-to-high 700's. The Zen 5 cores ran at an average of 2.67 GHz, while the Zen 5C cores reached 1.9 GHz. The CPU ran at an average of 73.44 Celsius.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ## AI on the AMD Ryzen AI 9 HX 370
 
  Despite all of the hubbub around artificial intelligence, it's still only useful in so many consumer products. On Windows laptops, applications are still slowly adopting the technologies. While NPUs are often being used for background blur in video conferencing apps, generative AI is often using GPUs (at least, when it isn't looking to the cloud instead).
 
 ![Asus Zenbook S16](https://cdn.mos.cms.futurecdn.net/kyTb4Yk4LUiQN83wEJXLtQ-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  In a reviewer's guide sent to the press, AMD suggested a number of applications to try that make use of local AI. Chief among them was a beta of Amuse 2.0, which includes image generation with Stable Diffusion, as well as paint-to-image features that are very similar to image creator in Paint on Copilot Plus PCs (though that uses DALL-E). In a way, this app, made to work well with AMD's hardware, can fill in the blanks until[Microsoft](https://tools.techidaily.com) adds Copilot Plus features to Ryzen AI laptops.
@@ -156,19 +144,12 @@ It's rare that my lasting impression about a laptop is all about style, but here
 
  At 357 nits, I found the Zenbook 16 to be usable, but competitors do better. The 16-inch MacBook Pro was the brightest at 563 nits, and both the MacBook Air (476.4 nits) and HP Spectre x360 366.2 nits were also brighter.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ## Keyboard and Touchpad on the Asus Zenbook S16
 
  Despite just 1.1 mm travel, the Zenbook S16’s keyboard is snappy. Don't get me wrong, it's still a membrane keyboard, but it's relatively comfortable and even has a bit of bounce. On monkeytype, I hit 112 words per minute with a 2% error rate, which isn't my best, but is pretty close.
 
 ![Asus Zenbook S16](https://cdn.mos.cms.futurecdn.net/aW7bBZzL8RWWNJL5FgJbTR-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  The keyboard is set back slightly further than I'd like because the touchpad is so tall. I got used to it but some of my coworkers found it a bit uncomfortable.
@@ -207,9 +188,6 @@ There isn't much to upgrade or repair on the Zenbook S16.
 
  But the MacBook Air M3 (15:03), HP OmniBook X on a Snapdragon X Elite (16:18), and the 16-inch MacBook Pro lasted an incredible 17:11.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Heat on the Asus Zenbook S16
 
  During our ten runs of Cinebench 2024, we took skin temperature measurements to see how the Zenbook performs under an intense workload.
@@ -222,9 +200,6 @@ There isn't much to upgrade or repair on the Zenbook S16.
 
  The camera supports infrared to log in with Windows Hello for facial recognition. It's the sole biometric option on the device.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Software and Warranty on the Asus Zenbook S16
 
  Asus includes four pieces of software on the Zenbook S16\. The first is MyAsus, which allows you to manage your warranty, and also shows system settings and lets you check for updates. This app now prompts you for an account, which it didn't use to do (and in my opinion, shouldn't need to). Despite its appearance, you can skip this prompt.  
@@ -243,9 +218,6 @@ There isn't much to upgrade or repair on the Zenbook S16.
 
  A cheaper version[sold at Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fshop-links.co%2Flink%3Fpublisher%255Fslug%3Dfuture%26exclusive%3D1%26u1%3Dtomshardware-us-4910217774050973812%26url%3Dhttps%253A%252F%252Fwww.bestbuy.com%252Fsite%252Fasus-zenbook-s-16-16-3k-oled-touch-screen-laptop-amd-ryzen-ai-9-365-24gb-memory-1tb-ssd-scandinavian-white%252F6584435.p%26article%255Fname%3DAsus%2520Zenbook%2520S16%2520review%253A%2520AMD%2520Ryzen%2520AI%25209%2520HX%2520370%2520tested%2520%257C%2520Tom%27s%2520Hardware%26article%255Furl%3Dhttps%253A%252F%252Fwww.tomshardware.com%252Flaptops%252Fgaming-laptops%252Fasus-zenbook-s16-amd-ryzen-ai-9-hx-370-review) is $1,399.99 with a Ryzen AI 9 HX 365 and 24GB of memory, as well as a white chassis.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ## Bottom Line
 
  The Asus Zenbook S16 is a solid showcase for AMD's new AI-focused processors, even if AI applications themselves aren't quite ready to excite most people.
@@ -254,9 +226,6 @@ There isn't much to upgrade or repair on the Zenbook S16.
 
 ![Asus Zenbook S16](https://cdn.mos.cms.futurecdn.net/6o6YfV44dwdxPyvuRks6XS-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  It's hard to say that 11 and a half hours of battery life is a downside, but it does show that x86 laptops are lagging a bit in that department behind the likes of Apple and Qualcomm, both using Arm-based designs. Over 11 hours is great; over 15 hours is better. Additionally, while the OLED display is extremely colorful, it's not as bright as some competitors.
@@ -275,8 +244,6 @@ There isn't much to upgrade or repair on the Zenbook S16.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -284,4 +251,24 @@ There isn't much to upgrade or repair on the Zenbook S16.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-laptop-editing-avoiding-inshot-dependence/"><u>[New] Laptop Editing Avoiding Inshot Dependence</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-a-closer-look-at-youtubes-unlisted-content-category/"><u>[Updated] In 2024, A Closer Look at YouTube’s ‘Unlisted’ Content Category</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-maximizing-visual-quality-with-enhancer-22/"><u>2024 Approved Maximizing Visual Quality with Enhancer 2.2</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/from-testing-to-triumph-how-an-exceptional-android-smartwatch-swayed-my-choice-towards-the-pixel/"><u>From Testing to Triumph: How an Exceptional Android Smartwatch Swayed My Choice Towards the Pixel</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>How and Where to Find a Shiny Stone Pokémon For Apple iPhone 11? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-samsung-galaxy-m14-5g-by-fonelab-android-recover-music/"><u>How to restore wiped music on Samsung Galaxy M14 5G</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-become-a-selfie-pro-10-premium-free-ios-camera-apps/"><u>In 2024, Become a Selfie Pro 10 Premium, Free iOS Camera Apps</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-nubia-red-magic-8s-proplus-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Nubia Red Magic 8S Pro+ Phone FRP Lock</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-the-greens-with-tag-heuers-golf-edition-watch-the-ultimate-companion-for-every-golfer-tech-insights/"><u>Mastering the Greens with Tag Heuer's Golf Edition Watch - The Ultimate Companion for Every Golfer | Tech Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/optimizing-health-milestones-with-your-apple-watch-a-step-by-step-guide-to-goal-customization-featuring-zdnet/"><u>Optimizing Health Milestones with Your Apple Watch: A Step-by-Step Guide to Goal Customization [Featuring ZDNET]</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/pixel-vs-apple-detailed-analysis-of-the-newest-generation-smartwatches-to-decide-your-next-wearable-device/"><u>Pixel Vs. Apple: Detailed Analysis of the Newest Generation Smartwatches to Decide Your Next Wearable Device</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/samsung-galaxy-watch-ultra-why-it-reigns-supreme-among-android-smartwatches-and-now-comes-with-an-irresistible-labor-day-offer-tech-review-zdnet/"><u>Samsung Galaxy Watch Ultra: Why It Reigns Supreme Among Android Smartwatches and Now Comes with an Irresistible Labor Day Offer | Tech Review ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/samsung-unveils-new-heart-health-monitoring-capabilities-for-galaxy-watch-series-exclusive-features-covered-by-zdnet/"><u>Samsung Unveils New Heart Health Monitoring Capabilities for Galaxy Watch Series | Exclusive Features Covered by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/secure-your-apple-watch-series-10-for-just-99-with-early-bird-preorders-on-bestbuy-the-ultimate-guide-techradar/"><u>Secure Your Apple Watch Series 10 for Just $99 with Early Bird Preorders on BestBuy – The Ultimate Guide | TechRadar</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/switching-seasons-in-wearables-how-a-garmin-smartwatch-swept-my-daughter-off-her-feet-away-from-fitbit/"><u>Switching Seasons in Wearables: How a Garmin Smartwatch Swept My Daughter Off Her Feet Away From Fitbit</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-win-access-fixing-epic-launcher-login-gaps/"><u>Unlocking Win Access: Fixing Epic Launcher Login Gaps</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Introducing the Apple M3 MacBook Air: The Revolutionary, Budget-Friendly AI Device You Can't Miss | Review"
-date: 2025-02-08T20:10:34.558Z
-updated: 2025-02-15T18:28:40.890Z
+date: 2025-03-02T19:51:35.978Z
+updated: 2025-03-04T18:55:36.843Z
 tags:
   - laptops
 categories:
@@ -34,10 +34,6 @@ thumbnail: https://thmb.techidaily.com/70eba607a5493f0dcd7d40fac4dac70e28238f9a9
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## ZDNET's buying advice
 
 The redesigned (13-inch) M2 MacBook Air was so impressive from a design and performance standpoint that ZDNET named it our [Product of the Year for 2022](https://www.zdnet.com/article/m2-macbook-air-zdnets-product-of-the-year/). The [M3 MacBook Air](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-air%2F13-inch-m3&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) is a worthy successor, now offered in two sizes, 13-inch and 15-inch. ZDNET has tested both over the past week and has been [impressed enough with their three big upgrades](https://www.zdnet.com/article/apple-m3-macbook-air-hands-on-these-3-new-features-stood-out-to-me-most/) that it makes these new machines an easy buy recommendation for pros and enthusiasts who need more AI power and multiple external monitors. But, there are also some important buying considerations. 
@@ -47,10 +43,6 @@ First, the best thing about the arrival of the M3 MacBook Air models might be th
 One more thing to keep in mind if you're considering buying the 15-inch M3 MacBook Air: if you configure it with 16GB of RAM and 512GB of storage, then you'll be at $1,699 and quickly getting into 14-inch M3 MacBook Pro territory in terms of cost. If you're going to go there, I'd recommend opting for the 14-inch M3 MacBook Pro instead, because of its much better display and sound, and the fact that you can hook it up to two external monitors and still use the laptop's monitor as a third display.
 
 **Also:** [**MacBook Pro (M3 Max) review: A desktop-class laptop for an AI-powered age**](https://www.zdnet.com/article/macbook-pro-m3-max-review/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Specifications
 
@@ -75,19 +67,11 @@ The ability to run two external monitors with the lid closed is one of the M3 Ma
 
 Jason Hiner/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How I tested the M3 MacBook Air
 
 In terms of qualitative testing, I wrote this article on the M3 MacBook Air and used my daily work applications -- Slack, Microsoft Outlook, Google Drive, and ZDNET's CMS. I also used Adobe Lightroom for processing photos, including AI features. I fired up YouTube in Safari to play the song Eclipse from the Dune 2 soundtrack as a way to test the audio quality of the built-in speakers. I also played the 2021 Dune movie in 4K from my library in the Apple TV Plus app to test the display quality of the M3 MacBook Air. I expect there will be a lot more AI testing to do after WWDC 2024 in June when Apple is likely to unveil its generative AI tools.
 
 For quantitive testing, I followed the same routine I used in my [review of the MacBook Pro with M3 Max](https://www.zdnet.com/article/macbook-pro-m3-max-review/). I used Cinebench to benchmark the M3 MacBook Air against other popular Macs I've tested over the past couple years. I also used Adobe Lightroom's AI-powered "Denoise" feature as a real-world test because it's a feature I use constantly when processing product photos and so any time savings there can result in tangible productivity gains. As you can see in the charts below, the M3 MacBook Air performed very well in the Cinebench benchmarks, compared to it M2 predecessor. But, it only scored marginally better than the M2 model in my real-world Lightroom test. I'd like to do more tests with other AI workflows and update this review over time, especially after WWDC 2024.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### AI test: Adobe Lightroom Denoise (lower is better)
 
@@ -185,10 +169,6 @@ Up close with the M3 MacBook Air 15-inch in Midnight.
 
 Jason Hiner/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Alternatives to consider
 
 [BEST MACBOOK ALTERNATIVE M3 MacBook Pro While the MacBook Pro line is more expensive than the Air, the latest M3 models also come with more ports (including an SD card slot), a 120Hz Liquid Retina XDR display, significantly better-sounding speakers, and M3 Pro and Max configurations. View at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)[BEST WINDOWS ALTERNATIVE LG Gram Pro 16 2-in-1 For a Windows alternative that's just as ultraportable, check out LG's new Gram Pro 16 2-in-1\. The laptop features a flexible OLED, touchscreen display, 32GB of RAM, and 2TB of storage, easily out-speccing Apple's M3 MacBook Air. It also features the latest Intel Core Ultra 7 processor to run AI applications efficiently. View at LG](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.anrdoezrs.net%2Flinks%2F9041660%2Ftype%2Fdlg%2Fsid%2Fzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%2Fhttps%3A%2F%2Fwww.lg.com%2Fus%2Flaptops%2Flg-16t90sp-k.adb9u1-gram-laptop)[BEST BUDGET ALTERNATIVE Acer Swift Go 14 For a more affordable pick, Acer's new Swift Go 14 packs an OLED display, 16GB of RAM, and 512GB of storage into a compact form factor, all for $849\. The laptop is also equipped with more ports than the M3 MacBook Air, such as two USB-A ports, an HDMI port, and a MicroSD card slot. View at Acer](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://store.acer.com/en-us/swift-go-14-laptop-sfg14-72-53bp)
@@ -235,16 +215,24 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-decoding-the-download-your-guide-to-fb-videography/"><u>[New] 2024 Approved Decoding the Download Your Guide to FB Videography</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-secure-your-conversations-mastering-free-and-paid-skype-captures-on-pcsmac/"><u>[New] Secure Your Conversations Mastering Free and Paid Skype Captures on PCs/Mac</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-leverage-youtubes-potential-through-strategic-backlinking/"><u>[Updated] Leverage YouTube's Potential Through Strategic Backlinking</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/comprehensive-guide-to-acquiring-the-latest-asus-wifi-network-adapter-drivers/"><u>Comprehensive Guide to Acquiring the Latest Asus WiFi Network Adapter Drivers</u></a></li>
-<li><a href="https://discover-help.techidaily.com/enhance-your-broadcasts-using-manycam-innovative-live-video-platform-and-digital-webcam-technology/"><u>Enhance Your Broadcasts Using ManyCam: Innovative Live Video Platform and Digital Webcam Technology</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/experience-next-level-smart-innovations-with-the-latest-ai-upgrades-for-samsung-galaxy-s22-users/"><u>Experience Next-Level Smart Innovations with the Latest AI Upgrades for Samsung Galaxy S22 Users</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/explore-the-compact-power-asus-launches-miniature-nuc-devices-with-next-gen-rtx-4000-series-graphics/"><u>Explore the Compact Power: ASUS Launches Miniature NUC Devices with Next-Gen RTX 4000 Series Graphics</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/explore-the-fresh-release-of-amazonn-echo-spot-the-innovative-home-device/"><u>Explore the Fresh Release of Amazon'n Echo Spot - The Innovative Home Device!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/fairphones-innovative-fairbuds-tested-user-friendly-replacement-earphones-with-sound-performance-review/"><u>Fairphone's Innovative Fairbuds Tested: User-Friendly Replacement Earphones with Sound Performance Review</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/illuminating-studios-with-studiofxs-large-kit/"><u>Illuminating Studios with StudioFX's Large Kit</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/insignia-ns-pcy5bma2-driver-installation-guide-for-windows-11107-users/"><u>Insignia NS-PCY5BMA2 Driver Installation Guide for Windows 11/10/7 Users</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/treamlining-problems-in-creating-effective-youtube-shorts-for-2024/"><u>[New] Streamlining Problems in Creating Effective YouTube Shorts for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-inside-insights-proclaiming-rights-to-free-clip-art-legally/"><u>[Updated] Inside Insights Proclaiming Rights to Free Clip Art Legally</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-intense-review-the-gecata-game-watcher/"><u>[Updated] Intense Review The Gecata Game Watcher</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1000-discount-top-lenovo-laptops-tailored-for-the-hybrid-professional-find-your-perfect-match/"><u>$1,000 Discount: Top Lenovo Laptops Tailored for the Hybrid Professional - Find Your Perfect Match !</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-captivation-creator-for-articles/"><u>2024 Approved Captivation Creator for Articles</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-samsung-galaxy-z-fold-5-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Samsung Galaxy Z Fold 5</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ace-your-tech-upgrade-with-primes-finest-exclusive-laptop-bargains-in-october-2er/"><u>Ace Your Tech Upgrade with Prime's Finest - Exclusive Laptop Bargains in October 2Er</u></a></li>
+<li><a href="https://win-studio.techidaily.com/diagnosing-device-connectivity-problems-with-your-computer-solutions-and-tips-by-yl-software-team/"><u>Diagnosing Device Connectivity Problems with Your Computer – Solutions and Tips by YL Software Team</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-itel-p40-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Itel P40? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-go-joystick-on-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Oppo Find X7 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/octobers-premier-vr-sale-alert-discover-why-metas-new-512gb-quest-prodigy-shines-in-the-competitive-prime-day-offerings-insights/"><u>October's Premier VR Sale Alert! Discover Why Meta’s New 512GB Quest Prodigy Shines in the Competitive Prime Day Offerings | Insights</u></a></li>
+<li><a href="https://games-able.techidaily.com/purchasing-power-in-fortnite-via-playstation-console/"><u>Purchasing Power in Fortnite via PlayStation Console</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/rapid-resolution-how-to-manage-continuously-running-mac-cooling-systems-tech-tips-by-zdnet/"><u>Rapid Resolution: How to Manage Continuously Running Mac Cooling Systems | Tech Tips by ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-best-long-lasting-ultraportable-laptop-for-on-the-go-work-exclusive-test/"><u>The Best Long-Lasting Ultraportable Laptop for On-the-Go Work - Exclusive Test</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-why-your-copy-of-modern-warfare-2-wont-start-and-how-to-fix-it/"><u>Troubleshooting Guide: Why Your Copy of Modern Warfare 2 Won't Start & How To Fix It!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-deal-alert-top-rated-gamer-sound-experience-now-just-150-less-on-amazon-according-to-zdnet/"><u>Unbeatable Deal Alert: Top-Rated Gamer Sound Experience Now Just $150 Less on Amazon, According to ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-deal-alert-snag-the-high-performance-acer-laptop-for-just-below-651-on-newegg-zdnets-top-picks/"><u>Unbeatable Deal Alert! Snag the High-Performance Acer Laptop for Just Below $651 on Newegg – ZDNet's Top Picks!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-price-alert-get-the-hp-victus-15-laptop-for-only-530-during-prime-day-sale-exclusive-deal-from-best-buy-featured-on-zdnet/"><u>Unbeatable Price Alert: Get the HP Victus 15 Laptop for Only $530 During Prime Day Sale – Exclusive Deal From Best Buy Featured on ZDNet.</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unexpected-top-performers-in-the-tech-world-do-they-include-a-laptop-find-out-with-insights-from-zdnet/"><u>Unexpected Top-Performers in the Tech World: Do They Include a Laptop? Find Out with Insights From ZDNET</u></a></li>
 </ul></div>
 

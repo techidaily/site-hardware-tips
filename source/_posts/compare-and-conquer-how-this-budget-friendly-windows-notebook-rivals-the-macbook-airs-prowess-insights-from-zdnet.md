@@ -1,7 +1,7 @@
 ---
 title: "Compare and Conquer: How This Budget-Friendly Windows Notebook Rivals the MacBook Air's Prowess – Insights From ZDNet"
-date: 2025-02-08T16:32:39.888Z
-updated: 2025-02-15T19:23:02.927Z
+date: 2025-03-03T20:35:24.374Z
+updated: 2025-03-04T19:47:51.093Z
 tags:
   - laptops
 categories:
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/ed1fcd1a483c0b94fb3a94d424b683306978ea21a
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -86,10 +82,6 @@ I have been integrating Copilot into my workflow as I learn more about how to us
 
 The Surface's battery life has been fantastic, too. I get over 15 hours of use from a single charge, and it has yet to fully deplete to zero by the time I call a benchmarking test. The combination of smart design with meaningful trade-offs is what gives this laptop its marathon battery life, and opens it up for a variety of use cases from a creator or productivity perspective. Basically, this is a laptop you can work remotely with for the whole day without a charger.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## ZDNET's buying advice
 
 I mentioned this before, but the direction that Microsoft took with this laptop is, well, rather uncharacteristic. The [Microsoft Surface Laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMicrosoft-Surface-Touchscreen-Snapdragon-Sapphire%2Fdp%2FB0CXKYTQS2%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cd435e082-e8ab-46a2-a448-263e52472f08%7Cdtp&dtb=1) is light, airy, and brings some fun to the Copilot+ line. I would have loved to see this laptop with an OLED display, but the one we get instead is still quite nice, especially with this fantastic battery life. 
@@ -126,17 +118,20 @@ The Surface Laptop is a flagship mid-range device that's well-rounded enough to 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-compre-written-essentials-google-voice-call-records/"><u>[Updated] 2024 Approved Compre Written Essentials Google Voice Call Records</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-jokes-in-photos-your-path-to-memeloreality/"><u>[Updated] 2024 Approved Jokes in Photos Your Path to Memeloreality</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-directrecorderw11-streamlined-windows-11-capture-software-for-2024/"><u>[Updated] DirectRecorderW11 Streamlined Windows 11 Capture Software for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-smooth-sailing-through-sequences-with-kinemaster/"><u>2024 Approved Smooth Sailing Through Sequences with Kinemaster</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/best-120mm-all-in-one-cpu-coolers-detailed-test-results-for-models-by-be-quiet-corsair-cooler-master-and-enermax/"><u>Best 120Mm All-in-One CPU Coolers: Detailed Test Results for Models by Be Quiet!, Corsair, Cooler Master & Enermax</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/celebrated-scripts-spanning-eight-movie-segments/"><u>Celebrated Scripts Spanning Eight Movie Segments</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/choosing-your-next-macbook-air-a-detailed-comparison-of-the-new-m3-vs-previous-gen-m2-model-insights-and-reviews/"><u>Choosing Your Next MacBook Air: A Detailed Comparison of the New M3 Vs. Previous-Gen M2 Model – Insights & Reviews</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-cutting-edge-devices-on-toms-hardware-journey/"><u>Discover Cutting-Edge Devices on Tom's Hardware Journey</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/effortless-heat-transfer-with-the-stupid-proof-x-apply-temperatures-fixed-kit-upcoming-accessories/"><u>Effortless Heat Transfer with the 'Stupid Proof' X-Apply Temperatures Fixed Kit - Upcoming Accessories!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/fragrant-freshness-discover-the-unexpected-scent-of-premium-computer-thermal-paste/"><u>Fragrant Freshness: Discover the Unexpected Scent of Premium Computer Thermal Paste</u></a></li>
-<li><a href="https://blog-min.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Use Life360 on Windows PC For Apple iPhone XS? | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/navigate-browser-black-screens-with-ease/"><u>Navigate Browser Black Screens with Ease</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-simplified-processes-instantly-clearing-youtube-comments/"><u>[New] In 2024, Simplified Processes Instantly Clearing Youtube Comments</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-enhancing-workflow-meeting-management-on-zoom/"><u>[Updated] 2024 Approved Enhancing Workflow Meeting Management on Zoom</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-premium-screen-capturer-non-lagging-efficiency/"><u>[Updated] 2024 Approved Premium Screen Capturer Non-Lagging Efficiency</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-top-10-best-4k-dslr-shoulder-rigs-for-2024/"><u>[Updated] Top 10 Best 4K DSLR Shoulder Rigs for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-11-best-location-changers-for-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Infinix Hot 40 | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-best-ways-to-bypass-icloud-activation-lock-on-apple-iphone-13-proipadipod-by-drfone-ios/"><u>In 2024, Best Ways to Bypass iCloud Activation Lock on Apple iPhone 13 Pro/iPad/iPod</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/smart-car-insurance-how-driver-behavior-tracking-affects-your-policy-rates/"><u>Smart Car Insurance: How Driver Behavior Tracking Affects Your Policy Rates</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/solve-the-mystery-of-your-cars-warning-lights-using-a-simple-bluetooth-scanner-diy-auto-fixes/"><u>Solve the Mystery of Your Car's Warning Lights Using a Simple Bluetooth Scanner | DIY Auto Fixes</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/taking-the-leap-how-8kplus-travelers-embrace-risk-with-southwest-flights-tech-insights/"><u>Taking the Leap: How 8K+ Travelers Embrace Risk with Southwest Flights | Tech Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/tesla-enhances-in-car-entertainment-with-new-apple-airplay-feature-ignores-car-play-integration/"><u>Tesla Enhances In-Car Entertainment with New Apple AirPlay Feature; Ignores Car Play Integration</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/teslas-cybertruck-proves-its-mettle-as-a-water-friendly-vehicle-says-elon-musk-insights-from-zdnet/"><u>Tesla's Cybertruck Proves Its Mettle as a Water-Friendly Vehicle, Says Elon Musk - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-e-bike-revolution-with-velotric-discover-1-sleek-design-meets-competitive-price-point/"><u>The E-Bike Revolution with Velotric Discover 1 – Sleek Design Meets Competitive Price Point</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-5-essential-gadgets-every-business-traveller-needs-today-insights-from-zdnet/"><u>Top 5 Essential Gadgets Every Business Traveller Needs Today - Insights From ZDNet</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-failed-game-starts-by-verifying-integrity-of-game-data/"><u>Troubleshooting Failed Game Starts by Verifying Integrity of Game Data</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unveiling-the-virtual-matrix-current-landscape-and-future-challenges/"><u>Unveiling the Virtual Matrix Current Landscape & Future Challenges</u></a></li>
 </ul></div>
 

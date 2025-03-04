@@ -1,7 +1,7 @@
 ---
 title: "In-Depth Lenovo ThinkPad Z16 Analysis: Outstanding Performance Hindered by Poor Camera Quality - A Comprehensive Overview"
-date: 2025-02-10T21:27:02.508Z
-updated: 2025-02-15T22:19:21.628Z
+date: 2025-02-27T18:55:59.094Z
+updated: 2025-03-04T22:26:07.747Z
 tags:
   - laptops
 categories:
@@ -44,10 +44,6 @@ Read on to see if this new ThinkPad from Lenovo should be your next laptop.
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Specifications
 
 | Processor             | AMD Ryzen 9 PRO                                                                    |
@@ -60,10 +56,6 @@ Read on to see if this new ThinkPad from Lenovo should be your next laptop.
 | Ports                 | 2 x USB4 40Gbps, 1 x USB-C 3.2 Gen 2, 1 x combo audio jack (3.5mm), SD Card Reader |
 | Connectivity          | Wi-Fi 6E, Bluetooth 5.2                                                            |
 | Weight and dimensions | 3.99lb \| 354.4 x 237.4 x 15.8 mm (13.95 x 9.35 x 0.62 inches)                     |
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Build
 
@@ -98,10 +90,6 @@ The trackpad is completely stationary, using haptic feedback to simulate clicks,
 Michael Gariffo/ZDNET
 
 I was initially disappointed by the new trackpad. By default, the haptic feedback it uses to replace mechanical clicks was very weak, almost undetectable near its edges. Thankfully, once I'd raised the haptic feedback level in the laptop's settings, it improved dramatically, and was hard to discern from mechanical clicks. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Features and ports
 
@@ -146,10 +134,6 @@ As mentioned in the video, I've given the webcam the best chance to perform well
 **Also:** [**The best webcams**](https://www.zdnet.com/article/best-webcam/)
 
 It's still better than most budget-laptops. But, the Z16 is a premium model, and you should expect its camera to rise to that designation. Unfortunately, it didn't. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Performance and battery life
 
@@ -202,10 +186,6 @@ Michael Gariffo/ZDNET
 If you do need to top up mid-day, the included 135W charger makes quick work of refilling the included battery via its USB-C connection. 
 
 [Lenovo ThinkPad Z16 $899 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0B8NVY2FZ%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C9d7a11a8-80e2-4a96-95cc-a42fb6ddfa05%7Cdtp&dtb=1)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Bottom line
 
@@ -261,22 +241,24 @@ If you want something a bit smaller with the same ultra-premium vibes as Lenovo'
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-from-standard-to-spectacular-your-guide-to-selecting-a-stellar-4k-display-for-2024/"><u>[New] From Standard to Spectacular Your Guide to Selecting a Stellar 4K Display for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-sites-bridging-you-with-googles-advertising-on-youtube/"><u>[New] In 2024, Sites Bridging You with Google's Advertising on Youtube</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-recording-your-mac-experience-for-free/"><u>[New] Recording Your Mac Experience for FREE</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-concurrent-display-archiving/"><u>[Updated] In 2024, Concurrent Display Archiving</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-lg-27ud88-w-4k-usb-type-c-monitor-complete-review/"><u>2024 Approved LG 27UD88-W 4K USB Type-C Monitor Complete Review</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-the-financial-framework-of-youtube-snippet-creation/"><u>2024 Approved The Financial Framework of YouTube Snippet Creation</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-the-advantages-of-the-arctic-freezer-36-a-milestone-in-economical-air-cooling-technology/"><u>Exploring the Advantages of the Arctic Freezer 36: A Milestone in Economical Air Cooling Technology</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/gptwindows-11mbrgpt/"><u>GPTへ簡単移行:Windows 11でのMBRとGPT切り替え手法（複数選択）</u></a></li>
-<li><a href="https://games-able.techidaily.com/guide-to-modifying-discords-gaming-mode/"><u>Guide to Modifying Discord's Gaming Mode</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-intro-ideas-free-download-options/"><u>In 2024, Intro Ideas Free Download Options</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-of-electronic-gadgets-by-toms-guides/"><u>In-Depth Analysis of Electronic Gadgets by Tom's Guides</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/insights-from-toms-computing-world-detailed-device-evaluations-and-rankings/"><u>Insights From Tom's Computing World: Detailed Device Evaluations and Rankings</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-devices-expert-guides-at-toms-equipment-zone/"><u>Mastering Devices: Expert Guides at Tom's Equipment Zone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/say-hello-to-the-next-generation-of-cpu-cooling-the-nh-l12sx77-by-noctua-for-enhanced-sff-ram-clearance-and-improved-vrm-thermal-control/"><u>Say Hello to the Next Generation of CPU Cooling - The NH-L12Sx77 by Noctua for Enhanced SFF Ram Clearance & Improved VRM Thermal Control</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/secrets-to-seamless-layers-and-structural-integrity-in-additive-manufacturing/"><u>Secrets to Seamless Layers & Structural Integrity in Additive Manufacturing</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ideal-ssd-upgrades-for-a-high-performance-mobile-gaming-unit-steam-deck-edition/"><u>The Ideal SSD Upgrades for a High-Performance Mobile Gaming Unit: Steam Deck Edition</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-comprehensive-hardware-analysis/"><u>Tom's Tech Reviews: Comprehensive Hardware Analysis</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-proven-methods-to-prevent-photos-app-freezes-in-windows-10/"><u>[New] 2024 Approved Proven Methods to Prevent Photos App Freezes in Windows 10</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-a-jargon-primer-for-virtual-experiences/"><u>[New] A Jargon Primer for Virtual Experiences</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlock-video-brilliance-through-advanced-chroma-techniques-11-steps/"><u>[Updated] Unlock Video Brilliance Through Advanced Chroma Techniques (11 Steps)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-ultimate-list-of-2024s-best-e-reader-devices-in-depth-analysis-and-ratings-recommended-by-zdnet/"><u>Discover the Ultimate List of 2024'S Best E-Reader Devices: In-Depth Analysis & Ratings | Recommended by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discovering-value-in-android-tablets-the-best-budget-choices-apart-from-giants-samsung-and-tcl/"><u>Discovering Value in Android Tablets: The Best Budget Choices Apart From Giants Samsung & TCL</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/evaluating-the-new-microsoft-surface-laptop-(b)5(b)-high-hopes-moderate-satisfaction-insights-from-zdnet/"><u>Evaluating the New Microsoft Surface Laptop <B>5</B>: High Hopes, Moderate Satisfaction | Insights From ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/explore-the-ultimate-guide-to-2023s-best-ipad-keyboards-as-featured-on-zdnet/"><u>Explore the Ultimate Guide to 2023'S Best iPad Keyboards, as Featured on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/flagship-face-off-comparing-the-samsung-galaxy-tab-s9-ultra-and-apple-ipad-pro-for-your-tech-needs-zdnet/"><u>Flagship Face-Off: Comparing the Samsung Galaxy Tab S9 Ultra and Apple iPad Pro for Your Tech Needs | ZDNet</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-app-on-note-30-pro-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Recover Deleted Photos from Android Gallery App on Note 30 Pro</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-render-movement-blur-in-digital-imagery/"><u>In 2024, Render Movement Blur in Digital Imagery</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-itel-s23plus-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Itel S23+ Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ipad-air-2020-vs-ipad-air-is-it-time-to-consider-an-upgrade/"><u>IPad Air (2020) vs iPad Air : Is It Time to Consider an Upgrade?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ipad-pro-unveiled-embracing-its-unique-strengths-despite-not-being-a-macbook-insights-from-zdnet/"><u>IPad Pro Unveiled: Embracing Its Unique Strengths, Despite Not Being a MacBook | Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/july-2024-exclusive-apple-discounts-find-the-best-deals-for-iphones-apple-watches-and-ipads-with-our-in-depth-analysis-zdnet/"><u>July 2024 Exclusive Apple Discounts: Find the Best Deals for iPhones, Apple Watches & iPads with Our In-Depth Analysis | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/labor-day-sale-alert-upgrade-to-an-amazon-fire-tablet-for-only-50-with-our-exclusive-trade-in-deal-featured-by-zdnet/"><u>Labor Day Sale Alert! Upgrade to an Amazon Fire Tablet for Only $50 With Our Exclusive Trade-In Deal, Featured by ZDNET</u></a></li>
+<li><a href="https://solve-help.techidaily.com/1726029847833-mp4flac/"><u>MP4フォーマットへのFLACビデオ変換ガイド</u></a></li>
+<li><a href="https://review-topics.techidaily.com/nubia-unlock-tool-remove-android-phone-password-pin-pattern-and-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Nubia Unlock Tool - Remove android phone password, PIN, Pattern and fingerprint</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/resolve-your-iphone-12-keeps-asking-for-outlook-password-drfone-by-drfone-ios/"><u>Resolve Your iPhone 12 Keeps Asking for Outlook Password | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win11-and-lenovo-bt-common-fixes-shared-here/"><u>Win11 & Lenovo BT: Common Fixes Shared Here</u></a></li>
 </ul></div>
 

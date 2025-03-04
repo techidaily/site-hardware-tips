@@ -1,7 +1,7 @@
 ---
 title: "Amazon's Ongoing Steep Discounts: Grab Your 8TB Samsung T5 SSD at an Unbeatable 36%% Off Beyond Prime Day - ZDNet Insights"
-date: 2025-02-13T22:03:10.498Z
-updated: 2025-02-15T22:45:27.418Z
+date: 2025-02-27T21:01:04.177Z
+updated: 2025-03-04T18:38:58.094Z
 tags:
   - laptops
 categories:
@@ -26,10 +26,6 @@ With a truly impressive amount of storage space, you'll get read and write speed
 **Read more:** **[SSD vs. HDD: What's the difference, and which should you buy?](https://www.zdnet.com/article/ssd-vs-hdd-whats-the-difference-and-which-should-you-buy/)** 
 
 Along with great read and write speeds and more reliable data transfers, the [Samsung T5 Evo](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Portable-External-MU-PH8T0S-AM%2Fdp%2FB0CMDGGJTZ%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C5227965a-639b-4fc1-9b59-2f542a1eddcf%7Cdtp&dtb=1) also features 256-bit AES encryption to keep your personal data and sensitive information safe from unauthorized access. Its outer casing is drop- and shock-resistant and can withstand falls up to six feet, making it perfect for on-location photographers and other mobile professionals who need a tough storage drive for offloading raw photos from camera storage or transferring important projects and documents between their home office and mobile work location. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -65,18 +61,19 @@ While the Amazon listing for the Samsung T5 Evo portable SSD does not have a cou
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://hardware-updates.techidaily.com/download-and-update-for-asus-dvd-drives-ensuring-perfect-performance/"><u>Download & Update for ASUS DVD Drives – Ensuring Perfect Performance</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/how-intova-x-changes-action-camera-game-for-2024/"><u>How Intova X Changes Action Camera Game for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-infinix-hot-30-5g-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Infinix Hot 30 5G Photos An Easy Method Explained.</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/igniting-interest-and-inviting-in-accelerating-audience-acquisition-for-2024/"><u>Igniting Interest and Inviting In Accelerating Audience Acquisition for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-of-the-elegoo-neptune-4-pro-3d-printer-high-speed-printing-and-exceptional-value/"><u>In-Depth Analysis of the Elegoo Neptune 4 Pro 3D Printer: High-Speed Printing & Exceptional Value</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/in-depth-reviews-and-gadget-guides-by-toms-hardware-experts-toms-hardware/"><u>In-Depth Reviews & Gadget Guides by Tom's Hardware Experts 📱 | Tom's Hardware</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/intel-announces-impending-battlemage-processor-release-significant-power-consumption-drop-of-100w-under-arrow-lake-vs-ice-lake-and-robust-overclocking-amids41/"><u>Intel Announces Impending Battlemage Processor Release: Significant Power Consumption Drop of 100W Under Arrow Lake vs Ice Lake and Robust Overclocking Amidst Recent Raptor Lake Firmware Adjustments</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/score-big-savings-get-highly-recommended-apple-airpods-now-at-a-40-discount-in-time-for-july-4th-celebrations-exclusive-on-zdnet/"><u>Score Big Savings: Get Highly Recommended Apple AirPods Now at a $40 Discount in Time for July 4Th Celebrations | Exclusive on ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/simple-and-quick-how-to-update-your-gtx-660-graphics-card-drivers/"><u>Simple & Quick: How to Update Your GTX 660 Graphics Card Drivers</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-gear-pioneering-computer-and-electronics-reviews/"><u>Tom's Tech Gear: Pioneering Computer & Electronics Reviews</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-comprehensive-guides-and-reviews/"><u>Tom's Tech Review: Comprehensive Guides and Reviews</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/ultimate-selection-of-cost-free-slow-motion-capturing-apps/"><u>Ultimate Selection of Cost-Free Slow Motion Capturing Apps</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/valheim-agronomy-explained-choosing-superior-saplings-for-2024/"><u>Valheim Agronomy Explained Choosing Superior Saplings for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-find-the-perfect-free-video-editor-app-for-iphones-and-ipads-for-2024/"><u>[New] Find the Perfect Free Video Editor App for iPhones & iPads for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-how-to-make-your-mark-active-living-on-facebook/"><u>[New] How to Make Your Mark Active Living on Facebook</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-top-1-global-musical-views/"><u>[New] In 2024, Top 1 Global Musical Views</u></a></li>
+<li><a href="https://fox-that.techidaily.com/airpod-audio-woes-correct-silence-and-unstable-sounds-using-these-10-techniques/"><u>AirPod Audio Woes: Correct Silence and Unstable Sounds Using These 10 Techniques</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-cyber-monday-discounts-for-drones-up-to-90-off-dji-mini-2-and-65-savings-on-drone-gear-techbargains/"><u>Best Cyber Monday Discounts for Drones - Up to $90 Off DJI Mini 2 and 65% Savings on Drone Gear | TechBargains</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-motorhome-and-camper-choices-ranked-a-detailed-review-from-zdnets-expert-picks/"><u>Best Motorhome & Camper Choices Ranked: A Detailed Review From ZDNet's Expert Picks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ces-showcases-first-electrified-ram-pickup-truck-marking-a-new-era-for-automotive-innovation/"><u>CES Showcases First Electrified Ram Pickup Truck, Marking a New Era for Automotive Innovation</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/connect-on-the-go-upcoming-feature-lets-you-call-via-whatsapp-using-android-auto-tech-news/"><u>Connect On The Go: Upcoming Feature Lets You Call Via WhatsApp Using Android Auto - Tech News</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/cyber-week-deals-2022-save-big-on-dji-mini-2-drones-and-accessories-maximum-discounts-of-90-off-and-65-cyberdronesalezcom/"><u>Cyber Week Deals 2022: Save Big on DJI Mini 2 Drones & Accessories, Maximum Discounts of $90 Off & 65% - CyberDroneSalez.com</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-finest-rvs-of-202n-ultimate-guide-to-choosing-between-luxury-motorhomes-and-campers-expert-reviews/"><u>Discover the Finest RVs of 202N: Ultimate Guide to Choosing Between Luxury Motorhomes and Campers | Expert Reviews</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-5-free-tools-for-effortless-gif-to-video-conversion/"><u>In 2024, Top 5 Free Tools for Effortless GIF-to-Video Conversion</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-the-job-hunt-on-linkedin-with-chatgpt-uncover-these-10-useful-tips/"><u>Mastering the Job Hunt on LinkedIn with ChatGPT: Uncover These 10 Useful Tips</u></a></li>
+<li><a href="https://some-tips.techidaily.com/relax-in-comfort-make-zoom-meetings-from-your-sofa-using-the-latest-apple-tv-application-zdnet/"><u>Relax in Comfort: Make Zoom Meetings From Your Sofa Using the Latest Apple TV Application | ZDNet</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210281442-9780753734919-the-art-of-mindful-living/"><u>The Art of Mindful Living | Free Book</u></a></li>
 </ul></div>
 

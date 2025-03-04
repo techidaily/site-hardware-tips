@@ -1,7 +1,7 @@
 ---
 title: How These Featherlight Computers Blew My Mind and Outshined the Iconic MacBook Air | ZDNet Review
-date: 2025-02-12T18:24:26.723Z
-updated: 2025-02-15T22:39:30.579Z
+date: 2025-03-02T21:16:53.678Z
+updated: 2025-03-04T20:53:17.214Z
 tags:
   - laptops
 categories:
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/46f8f3c70815f152419419ddd699d5297d1d12c7e
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -94,10 +90,6 @@ You can also navigate any element of the OS like you would a browser, by swiping
 
 Finally, the battery life is quite good. Lenovo advertises over 12 hours of use, but I got a little over 10 in my testing. The physical size of the device is going to prevent the 29WHr battery from going much beyond the 10- to 12-hour mark. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## ZDNET's buying advice
 
 The [Lenovo Chromebook Duet 11-inch](https://shop-links.co/link/?url=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flaptops%2Flenovo%2Flenovo-edu-chromebooks%2Flenovo-chromebook-duet-gen-9-11-inch-mediatek%2Flen101l0047%23features&publisher_slug=itechdaily19598&exclusive=1) is a complete package: a self-supporting tablet as well as a laptop, all with Google's lightweight operating system. I'd recommend it to anyone looking for next-level portability and who expects to use it in all its different configurations: as a tablet, as a laptop, and as a note-taking device. Many devices can do all those things, but the Duet can go places a laptop can't, and is well-priced for its wide versatility. 
@@ -132,15 +124,19 @@ The [Lenovo Chromebook Duet 11-inch](https://shop-links.co/link/?url=https%3A%2F
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-edit-like-a-pro-title-and-description-tips-for-igtv-success/"><u>[New] Edit Like a Pro Title & Description Tips for IGTV Success</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-total-locomotion-survey-2023/"><u>[New] Total Locomotion Survey 2023</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-authoritative-insights-on-premium-auto-cam-tech/"><u>2024 Approved Authoritative Insights on Premium Auto Cam Tech</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/capturing-brilliance-with-the-q500-drone/"><u>Capturing Brilliance with the Q500 Drone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/eat-this-tasty-3d-printed-qr-codes-that-can-be-read-by-your-scanner/"><u>Eat This! Tasty 3D-Printed QR Codes That Can Be Read by Your Scanner</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/expert-tutorial-successfully-installing-and-using-moviebox-app-on-your-iphone-11-with-ios-13/"><u>Expert Tutorial: Successfully Installing and Using Moviebox App on Your IPhone 11 with iOS 13</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-excel-outperforms-chatgpt-in-data-management-discover-3-ways/"><u>How Excel Outperforms ChatGPT in Data Management - Discover 3 Ways!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/multi-threading-magic-the-secret-to-amds-zen-processor-outshining-intel-with-superior-power-management/"><u>Multi-Threading Magic: The Secret to AMD's Zen Processor Outshining Intel with Superior Power Management</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/simplify-post-printing-steps-in-resin-3d-printing-discover-the-power-of-the-elegoo-bundle-for-just-149/"><u>Simplify Post-Printing Steps in Resin 3D Printing – Discover the Power of the Elegoo Bundle for Just $149!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-corner-the-ultimate-guide-to-computer-components/"><u>Tom's Tech Corner: The Ultimate Guide to Computer Components</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-unveiling-the-25-most-followed-insta-prodigies/"><u>[New] 2024 Approved Unveiling the 25 Most-Followed Insta Prodigies</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-proactive-techniques-for-seamless-zoom-usage-on-a-chromebook-for-2024/"><u>[Updated] Proactive Techniques for Seamless Zoom Usage on a Chromebook for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-oneplus-nord-ce-3-lite-5g-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your OnePlus Nord CE 3 Lite 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-htc-u23-pro-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from HTC U23 Pro</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-se-without-passcode-4-easy-methods-by-drfone-ios/"><u>How To Unlock Apple iPhone SE Without Passcode? 4 Easy Methods</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-advanced-zoom-practices-for-chromebook-users/"><u>In 2024, Advanced Zoom Practices for Chromebook Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-solutions-for-resolving-steams-disk-write-error/"><u>Quick Solutions for Resolving Steam's Disk Write Error</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/save-cash-and-conserve-gas-explore-eco-friendly-navigation-with-enhanced-features-on-google-maps-zdnet/"><u>Save Cash & Conserve Gas: Explore Eco-Friendly Navigation with Enhanced Features on Google Maps - ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/say-goodbye-to-digital-dependence-my-journey-from-gps-to-traditional-map-reading-and-what-it-means-amidst-rising-dementia-concerns/"><u>Say Goodbye to Digital Dependence: My Journey From GPS to Traditional Map Reading and What It Means Amidst Rising Dementia Concerns</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/sky-high-deliveries-soar-higher-walmart-expands-unmanned-aerial-vehicle-program-for-swift-shipping-solutions-zdnet/"><u>Sky-High Deliveries Soar Higher: Walmart Expands Unmanned Aerial Vehicle Program for Swift Shipping Solutions | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/slash-your-airfare-by-half-unlock-savings-of-2000plus-through-the-exclusive-dollar-flight-club-revealed-on-zdnet/"><u>Slash Your Airfare by Half: Unlock Savings of $2,000+ Through the Exclusive Dollar Flight Club - Revealed on ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/slash-your-travel-costs-in-half-with-dollar-flight-clubs-insane-sale-up-to-94-off-now-zdnet/"><u>Slash Your Travel Costs in Half with Dollar Flight Club's Insane Sale - Up to 94% Off Now | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/southwests-costly-misstep-penalizing-customers-at-the-inopportune-time-analyzed-by-zdnet/"><u>Southwest's Costly Misstep: Penalizing Customers at the Inopportune Time Analyzed by ZDNet</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/srt-decoded-core-concepts-simplified-and-explained/"><u>SRT Decoded Core Concepts Simplified and Explained</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Top Rated Ultraportable Notebook with Exceptional All-Day Battery Life Featured on ZDNet
-date: 2025-02-08T21:17:28.032Z
-updated: 2025-02-15T16:42:40.048Z
+date: 2025-03-02T16:51:06.586Z
+updated: 2025-03-04T20:00:40.098Z
 tags:
   - laptops
 categories:
@@ -45,10 +45,6 @@ Image: Charles McLellan / ZDNET
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Design
 
 Lenovo's ThinkPads rarely stray far from the familiar black livery with red and silver accents, and the ThinkPad X13s is no exception. The chassis, which is made of magnesium-aluminium (top) and [GFRP](https://en.wikipedia.org/wiki/Fibre-reinforced%5Fplastic) (bottom), is Thunder Black in colour, with branding on the lid and wrist rest, the iconic red TrackPoint embedded in the keyboard, and three buttons above the trackpad. Lenovo says that 90% of the magnesium used in the chassis is recycled, as is 97% of the plastic in the speaker enclosure, while 90% of the packaging is recycled and/or sustainable. 
@@ -69,10 +65,6 @@ For connections, you're limited to two USB-C (3.2 Gen 2) ports on the left side,
 
 You can access the innards of the ThinkPad X13s by removing six screws and prising off the bottom cover, although upgrade options are limited. We did poke around inside our first review unit, which arrived with no functioning Wi-Fi and no access to the webcam, to no avail. Our second review unit worked just fine. For all its thin-and-lightness, the ThinkPad X13s is [MIL-STD-810H](https://en.wikipedia.org/wiki/MIL-STD-810)\-tested and should cope with the rigours of a mobile professional's routine. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Features
 
 As noted earlier, the ThinkPad X13s is powered by Qualcomm's latest [Snapdragon 8cx Gen 3](https://www.qualcomm.com/products/application/mobile-computing/snapdragon-8-series-mobile-compute-platforms/snapdragon-8cx-gen-3-compute-platform), a 5nnm SoC with 8 Kyro CPU cores (4 performance, 4 efficiency) and an Adreno 690 GPU. RAM is soldered onto the motherboard and, therefore, not user-upgradeable, and comes in 8GB, 16GB or 32GB capacities. Our review unit had 16GB, along with 256GB of M.2 2442 PCIe SSD storage (512GB and 1TB capacities are also available). 
@@ -82,10 +74,6 @@ The Snapdragon 8cx Gen 3 also handles wireless connectivity, supporting Wi-Fi 6E
 There are three screen options, all IPS panels with WUXGA (1920 x 1200) resolution: non-touch at 300 nits or 400 nits with lower power consumption and EyeSafe certification; and multi-touch at 300 nits with a 1000:1 contrast ratio rather than 1500:1 and 72% NTSC colour gamut support rather than 100% sRGB. Viewing angles are 170° across the board. Our review unit had the 300 nits non-touch screen, which although not suited for outdoor use is fine indoors. 
 
 As well as the biometric authentication methods noted earlier, the ThinkPad X13s includes internal security features such as a discrete TPM 2.0 chip, Microsoft's [Pluton TPM architecture](https://learn.microsoft.com/en-us/windows/security/information-protection/pluton/pluton-as-tpm) running on the Snapdragon 8cx Gen 3's SPU (Secure Processing Unit) and a self-healing BIOS. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Performance & battery life
 
@@ -114,10 +102,6 @@ Like the M2 MacBook Air, the ThinkPad X13s runs on a sufficiently low-power proc
 Thermal camera images of the ThinkPad X13s under load.
 
 Images: Charles McLellan / ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Conclusions
 
@@ -169,10 +153,6 @@ If 5G is a must-have feature, you can currently get the [HP Elite Dragonfly G3](
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Alternatives to consider
 
 [Dell XPS 13 View now at Dell](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.anrdoezrs.net%2Flinks%2F9041660%2Ftype%2Fdlg%2Fsid%2Fzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%2Fhttps%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fdell-laptops%2Fxps-13-laptop%2Fspd%2Fxps-13-9315-laptop)
@@ -218,19 +198,20 @@ If 5G is a must-have feature, you can currently get the [HP Elite Dragonfly G3](
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-high-quality-avi-media-reader-mobile-and-desktop/"><u>[New] High-Quality Avi Media Reader Mobile & Desktop</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-syncing-separate-iphone-videos-for-one-story/"><u>[New] Syncing Separate IPhone Videos for One Story</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-perfect-your-video-edits-step-by-step-on-youtube-cutting-for-2024/"><u>[Updated] Perfect Your Video Edits Step-by-Step on YouTube Cutting for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/affordable-acer-chromebook-perfect-blend-of-features-and-value/"><u>Affordable Acer Chromebook: Perfect Blend of Features and Value</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/are-bluetooth-free-airtube-headphones-actually-effective-and-true-to-claims/"><u>Are Bluetooth-Free AirTube Headphones Actually Effective and True to Claims?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/assessing-the-limitations-a-closer-look-at-samsung-and-ubreakifixs-insufficient-partnership/"><u>Assessing the Limitations: A Closer Look at Samsung and uBreakiFix's Insufficient Partnership</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/best-bargains-on-technology-products-including-smart-security-cctv-systems-anker-portable-chargers-and-razor-pro-gaming-audio-equipment/"><u>Best Bargains on Technology Products: Including Smart Security CCTV Systems, Anker Portable Chargers & Razor Pro-Gaming Audio Equipment</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/despite-harsh-reviews-humane-ai-pin-unveils-fascinating-features-worth-exploring/"><u>Despite Harsh Reviews, 'Humane AI Pin' Unveils Fascinating Features Worth Exploring</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-20-stunning-titles-for-high-quality-gaming-experience-on-budget-potato-powered-computers/"><u>Discover 20 Stunning Titles for High-Quality Gaming Experience on Budget, Potato-Powered Computers!</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>In 2024, Hacks to do pokemon go trainer battles For Apple iPhone XR | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-on-the-go-lut-mastery-for-picture-and-film-enhancement/"><u>In 2024, On-The-Go LUT Mastery for Picture & Film Enhancement</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-honor-x7b-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Honor X7b? | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/1724765904134-macx-dvd/"><u>MacX DVDコレクションでお得な情報が見つかる! プロモ節度大解放</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlining-conferences-troubleshoot-webcam-and-mic-windows/"><u>Streamlining Conferences: Troubleshoot Webcam and Mic (Windows)</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-troubleshooting-offline-play-for-cod-cold-war/"><u>[FIXED] Troubleshooting Offline Play for CoD Cold War</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-convenient-mobile-watch-enabledisable-picture-in-picture-in-youtube-for-2024/"><u>[Updated] Convenient Mobile Watch Enable/Disable Picture-In-Picture in YouTube for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-unveiling-t-series-profit-generation-methods-on-youtube/"><u>[Updated] In 2024, Unveiling T-Series' Profit Generation Methods on YouTube</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-realme-c67-4g-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Realme C67 4G Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-vivo-v29e-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Vivo V29e to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/m3-macbook-pro-upgrade-experience-seamless-multi-display-support-just-as-the-air-version/"><u>M3 Macbook Pro Upgrade: Experience Seamless Multi-Display Support Just as the Air Version!</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/master-the-art-of-live-streaming-utilizing-obs-for-youtube-and-twitch/"><u>Master the Art of Live Streaming Utilizing OBS for YouTube & Twitch</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionary-refresh-how-apple-covertly-enhanced-last-years-13-inch-macbook-pro-for-future-success/"><u>Revolutionary Refresh: How Apple Covertly Enhanced Last Year's 13-Inch MacBook Pro for Future Success</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionizing-creative-workflows-comprehensive-guide-to-the-latest-2023-apple-m2-max-macbook-pro-16-expert-review/"><u>Revolutionizing Creative Workflows: Comprehensive Guide to the Latest 2023 Apple M2 Max MacBook Pro (16) - Expert Review</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/op-10-capture-cards-for-youtube/"><u>The Top 10 Capture Cards for YouTube</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-7-benefits-discover-how-chromebooks-outshine-traditional-laptops-for-everyday-users-zdnet-insights/"><u>Top 7 Benefits: Discover How Chromebooks Outshine Traditional Laptops for Everyday Users | ZDNet Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-prime-day-offers-for-gamers-awaiting-you-in-october-2ebe-zdnet/"><u>Unbeatable Prime Day Offers for Gamers Awaiting You in October 2Ebe! | ZDNet</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/uninterrupted-shots-optimal-cameraphone-trackers-for-2024/"><u>Uninterrupted Shots Optimal Camera/Phone Trackers for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/videoforge-mac-edition-for-2024/"><u>VideoForge Mac Edition for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnet-explores-outstanding-2-in-1-gadget-of-the-year-and-its-overlooked-office-advantage-feature/"><u>ZDNet Explores Outstanding 2-in-1 Gadget of the Year and Its Overlooked Office Advantage Feature</u></a></li>
 </ul></div>
 

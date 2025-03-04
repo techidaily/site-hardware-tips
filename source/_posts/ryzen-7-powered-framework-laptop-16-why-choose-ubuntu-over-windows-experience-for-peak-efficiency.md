@@ -1,7 +1,7 @@
 ---
 title: "Ryzen 7 Powered Framework Laptop 16: Why Choose Ubuntu Over Windows eXperience for Peak Efficiency"
-date: 2024-08-19T02:56:07.016Z
-updated: 2024-08-20T02:56:07.016Z
+date: 2025-03-02T20:33:24.004Z
+updated: 2025-03-04T19:22:18.008Z
 tags:
   - laptop
 categories:
@@ -96,23 +96,14 @@ It's rare that my lasting impression about a laptop is all about style, but here
 
 ![Asus Zenbook S16](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![Asus Zenbook S16](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![Asus Zenbook S16](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  On Geekbench 6, the Zenbook S16 achieved a single-core score of 2,765 and a multi-core score of 13,282\. This was enough to beat the M3 in Apple's MacBook Air, the 16-core Intel Core Ultra 7 155H in the[HP](https://tools.techidaily.com) Spectre x360 14, and the Qualcomm Snapdragon X Elite X1E-78-100 in the HP OmniBook X. The newest Ryzen fell only to the Apple M3 Max, with scores of 3,200 and 21,711 in the 16-inch MacBook Pro (and, to be fair, a review unit stocked with 128GB of RAM, making the MacBook Air a more apt comparison from a price perspective. While it's unclear that Apple has ever released an official number, various sites have tested the M3 Max to be using significantly more power than the Ryzen AI CPU here, which is rated at 28W and configured to 17W TDP out of the box).
@@ -129,9 +120,6 @@ It's rare that my lasting impression about a laptop is all about style, but here
 
 ![Asus Zenbook S16](https://cdn.mos.cms.futurecdn.net/kyTb4Yk4LUiQN83wEJXLtQ-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  In a reviewer's guide sent to the press, AMD suggested a number of applications to try that make use of local AI. Chief among them was a beta of Amuse 2.0, which includes image generation with Stable Diffusion, as well as paint-to-image features that are very similar to image creator in Paint on Copilot Plus PCs (though that uses DALL-E). In a way, this app, made to work well with AMD's hardware, can fill in the blanks until[Microsoft](https://tools.techidaily.com) adds Copilot Plus features to Ryzen AI laptops.
@@ -150,9 +138,6 @@ It's rare that my lasting impression about a laptop is all about style, but here
 
 ![Asus Zenbook S16](https://cdn.mos.cms.futurecdn.net/FjNRA9Vy2XgumK64KwiTCT-320-80.png)
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  Asus's 16-inch panel covers 79.7% of the color gamut (113%[sRGB](https://tools.techidaily.com) ), in range of both the MacBook Air and the HP OmniBook X. The 16-inch MacBook Air's mini-LED display and HP Spectre x360's OLED screen were both more vivid.
@@ -165,9 +150,6 @@ It's rare that my lasting impression about a laptop is all about style, but here
 
 ![Asus Zenbook S16](https://cdn.mos.cms.futurecdn.net/aW7bBZzL8RWWNJL5FgJbTR-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  The keyboard is set back slightly further than I'd like because the touchpad is so tall. I got used to it but some of my coworkers found it a bit uncomfortable.
@@ -178,9 +160,6 @@ It's rare that my lasting impression about a laptop is all about style, but here
 
  Asus also includes its Asus Pen 2.0 — a stylus with 4,096 degrees of pressure sensitivity — in the box with the laptop. It's a nice add-on, I suppose. But it’s an odd fit for this clamshell laptop, particularly considering the display doesn't fold flat.
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Audio on the Asus Zenbook S16
 
  The Zenbook S16 trades volume for detail. Don't get me wrong, it's loud enough, especially if you're sitting right in front of it, but it didn't quite fill an entire meeting room with sound. But when I was listening to Charli XCX's "Von dutch," I was surprised to hear a bit of bass. The speakers, tuned with Dolby Atmos, sounded great when I switched from "balanced" to "detailed," with clear vocals, pounding drums and whirring synths.
@@ -215,9 +194,6 @@ There isn't much to upgrade or repair on the Zenbook S16.
 
  The keyboard hit a warm (but not uncomfortable) 99.5 degrees Fahrenheit, while the touchpad stayed cool at 87.4 F. The hottest point on the top on the grille at 110 F, but that's not usually a place you put your hands. On the bottom, the hottest touchpoint, near the ventilation, was at 116.2 F.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Webcam on the Asus Zenbook S16
 
  There's a 1080p webcam on the Zenbook S16's top bezel. While it's color-accurate, catching the exact shade of green in my shirt and the blue in my mesh office chair, some details, like my hair, came across a bit fuzzy.
@@ -236,18 +212,12 @@ There isn't much to upgrade or repair on the Zenbook S16.
 
  Asus sells the Zenbook S16 with a one-year warranty. A card included in the box offers one free year of accidental damage protection in exchange for registering the laptop.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Asus Zenbook S16 Configurations
 
  We tested the Asus Zenbook S16 with an AMD Ryzen AI 9 HX 370, 32GB of RAM, and a 1TB SSD, which goes for $1,699.99.
 
  A cheaper version[sold at Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fshop-links.co%2Flink%3Fpublisher%255Fslug%3Dfuture%26exclusive%3D1%26u1%3Dtomshardware-us-4910217774050973812%26url%3Dhttps%253A%252F%252Fwww.bestbuy.com%252Fsite%252Fasus-zenbook-s-16-16-3k-oled-touch-screen-laptop-amd-ryzen-ai-9-365-24gb-memory-1tb-ssd-scandinavian-white%252F6584435.p%26article%255Fname%3DAsus%2520Zenbook%2520S16%2520review%253A%2520AMD%2520Ryzen%2520AI%25209%2520HX%2520370%2520tested%2520%257C%2520Tom%27s%2520Hardware%26article%255Furl%3Dhttps%253A%252F%252Fwww.tomshardware.com%252Flaptops%252Fgaming-laptops%252Fasus-zenbook-s16-amd-ryzen-ai-9-hx-370-review) is $1,399.99 with a Ryzen AI 9 HX 365 and 24GB of memory, as well as a white chassis.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Bottom Line
 
  The Asus Zenbook S16 is a solid showcase for AMD's new AI-focused processors, even if AI applications themselves aren't quite ready to excite most people.
@@ -274,8 +244,6 @@ There isn't much to upgrade or repair on the Zenbook S16.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -283,4 +251,22 @@ There isn't much to upgrade or repair on the Zenbook S16.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-pro-level-iphone-photo-techniques-identifying-ideal-perspectives/"><u>[New] Pro-Level iPhone Photo Techniques Identifying Ideal Perspectives</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-crafting-cinematic-memories-with-music/"><u>[Updated] Crafting Cinematic Memories with Music</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-tech-savvy-strategies-for-harvesting-and-saving-facebooks-most-trendy-gifs/"><u>[Updated] In 2024, Tech Savvy Strategies for Harvesting & Saving Facebook's Most Trendy GIFs</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-tracing-view-count-to-cash-flow-on-youtube-platform/"><u>[Updated] In 2024, Tracing View Count to Cash Flow on YouTube Platform</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/building-a-greener-future-with-technology-top-5-tips-for-achieving-tech-based-eco-friendliness-advice-from-zdnet-experts/"><u>Building a Greener Future with Technology: Top 5 Tips for Achieving Tech-Based Eco-Friendliness | Advice From ZDNet Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-finest-sustainable-mobile-devices-of-2024-our-expert-picks-zdnet-insights/"><u>Discover the Finest Sustainable Mobile Devices of 2024: Our Expert Picks | ZDNet Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-ultimate-pick-for-sustainable-mobile-tech-best-green-phones-of-2024-reviewed-by-zdnet/"><u>Discover the Ultimate Pick for Sustainable Mobile Tech: Best Green Phones of 2024 Reviewed by ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/effortlessly-overcome-the-blizzards-with-top-tier-electric-snow-blower-reviewed-for-cleveland-climates-zdnet/"><u>Effortlessly Overcome the Blizzards with Top-Tier Electric Snow Blower Reviewed for Cleveland Climates | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-ultra-hd-brilliance-with-lenovos-latest-innovation-the-yoga-aio-7-showcase-an-exclusive-look-at-its-stunning-27-4k-screen-techradar-insights/"><u>Experience Ultra HD Brilliance with Lenovo's Latest Innovation: The Yoga AIO 7 Showcase - An Exclusive Look at Its Stunning 27 4K Screen | TechRadar Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-eco-friendly-edge-how-samsungs-latest-galaxy-gadgets-uphold-environmental-commitments/"><u>Exploring the Eco-Friendly Edge: How Samsung's Latest Galaxy Gadgets Uphold Environmental Commitments</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-phone-number-from-your-apple-id-on-your-iphone-12-pro-max-by-drfone-ios/"><u>How To Remove Phone Number From Your Apple ID on Your iPhone 12 Pro Max?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-itel-p55plus-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Itel P55+ without App | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-top-mp4-to-facebook-video-converter-2023-edition/"><u>In 2024, Top MP4-to-Facebook Video Converter 2023 Edition</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/premium-boot-device-wipe-utilities-optimal-solutions-for-windows-11-10-8-and-7-systems/"><u>Premium Boot Device Wipe Utilities: Optimal Solutions for Windows 11, 10, 8, and 7 Systems</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/scoring-a-complimentary-macbook-air-m3-from-best-buy-the-ingenious-strategy-unveiled-by-zdnet/"><u>Scoring a Complimentary MacBook Air M3 From Best Buy: The Ingenious Strategy Unveiled by ZDNet</u></a></li>
+</ul></div>
 

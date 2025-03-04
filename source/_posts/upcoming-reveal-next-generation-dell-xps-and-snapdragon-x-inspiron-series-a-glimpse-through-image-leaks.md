@@ -1,7 +1,7 @@
 ---
 title: "Upcoming Reveal: Next-Generation Dell XPS & Snapdragon X Inspiron Series - A Glimpse Through Image Leaks"
-date: 2024-08-19T02:50:49.398Z
-updated: 2024-08-20T02:50:49.398Z
+date: 2025-03-02T19:30:19.720Z
+updated: 2025-03-04T16:51:11.869Z
 tags:
   - laptop
 categories:
@@ -59,9 +59,6 @@ Acer Swift 14 AI  (Image credit: Qualcomm)
 
  On the connectivity front, there are two USB-C, two USB-A ports, and HDMI 1.4\. For your wireless needs, you'll find Wi-Fi 7 and Bluetooth 5.4\. Power comes from a 73 WHr battery, rated for up to 12 hours.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -119,9 +116,6 @@ Lenovo ThinkPad T14s Gen 6  (Image credit: Qualcomm)
 
 ![Qualcomm Snapdragon X Series](https://cdn.mos.cms.futurecdn.net/cXqoxKsRoc29VARWi2JunN-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 Dell XPS 13  (Image credit: Qualcomm)
 
  Dell makes the Snapdragon X Elite or the Snapdragon X Plus available, although the latter is only coming to the Chinese market (at least for now). Customers can choose from 16GB, 32GB, or 64GB of dual-channel LPDDR5x memory and 512GB, 1TB, 2TB, or 4TB (later availability) SSDs.
@@ -143,9 +137,6 @@ Dell XPS 13  (Image credit: Qualcomm)
 
 ![Qualcomm Snapdragon X Series](https://cdn.mos.cms.futurecdn.net/5STqZSSuR2Yb9mkF7rrCLN-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Dell Inspiron 14 Plus  (Image credit: Qualcomm)
 
  The Inspiron 14 Plus comes exclusively with the Snapdragon X Plus, 16GB LPDDR5x memory, and 512GB/1TB SSD options. You get just one display option: a 14-inch 2560 x 1600 IPS panel with touch and an anti-glare coating. You also get two USB-C ports, one USB-A port, a microSD card reader, a headphone jack, quad speakers, a 1080p IR webcam with privacy shutter, Wi-Fi 7, Bluetooth 5.4, a power button with integrated fingerprint reader, and a 54 WHr battery.
@@ -154,9 +145,6 @@ The 3.17-pound Inspiron 14 Plus measures 12.36 x 8.80 x 0.66 inches.
 
 ![Qualcomm Snapdragon X Series](https://cdn.mos.cms.futurecdn.net/ejCrV57dyrk8JZeZLG66eN-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Dell Latitude 7455  (Image credit: Qualcomm)
 
  Rounding out Dell's Snapdragon X assault is the Latitude 7455, aimed at business users (Snapdragon X Elite or Snapdragon X Plus with up to 32GB of LPDDR5x). This 14-inch laptop is only available with a 2560 x 1600 IPS display and anti-glare coating.
@@ -165,18 +153,12 @@ Dell Latitude 7455  (Image credit: Qualcomm)
 
  The XPS 13 and Inspiron 14 Plus are scheduled to launch "later this year," priced from $1,299 and $1,099, respectively. Pricing and availability aren't yet known for the Latitude 7455.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Hewlett-Packard OmniBook X and EliteBook Ultra
 
  The[HP](https://tools.techidaily.com) OmniBook X and HP EliteBook Ultra share the same aluminum chassis design, weighing 2.97 pounds, and they measure 12.32 x 8.8 x 0.57 inches. The primary difference is that the latter features a blue finish with a Physical Vapor Deposition (PVD) coating to help resist fingerprints.
 
 ![Qualcomm Snapdragon X Series](https://cdn.mos.cms.futurecdn.net/kkJgrFcMsp5e7XQRtHVKxM-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 HP OmniBook X and EliteBook Ultra  (Image credit: Qualcomm)
 
  The two laptops each have a Snapdragon X Elite chip, a 14-inch 2240 x 1400 IPS display, support for Wi-Fi 6E/Bluetooth 5.3 or Wi-Fi 7/Bluetooth 5.4, a 1080p webcam with IR, a 59 WHr battery, two USB-C ports, and one USB-A port. The OmniBook X is available with 16GB or 32GB of LPDDR5x and 512GB, 1TB, or 2TB SSD options. The EliteBook Ultra is only available with 16GB of LPDDR5x and a 512GB or 1TB SSD.
@@ -200,8 +182,6 @@ HP OmniBook X and EliteBook Ultra  (Image credit: Qualcomm)
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -209,4 +189,26 @@ HP OmniBook X and EliteBook Ultra  (Image credit: Qualcomm)
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://hardware-tips.techidaily.com/the-revival-microsoft-and-ibm-reimagine-classic-ms-dos-as-an-open-source-project/"><u>- The Revival: Microsoft & IBM Reimagine Classic MS-DOS as an Open Source Project!</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-the-art-of-cinematic-dying-in-pro/"><u>[New] 2024 Approved The Art of Cinematic Dying in Pro</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-choosing-between-gopro-hero-5-and-nikkor-km-170/"><u>[Updated] 2024 Approved Choosing Between GoPro HERO 5 and Nikkor KM-170</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/2023-ultimate-guide-to-optimal-ram-selection-essential-memory-boosts-for-professionals-and-gamers-by-zdnet/"><u>2023 Ultimate Guide to Optimal RAM Selection: Essential Memory Boosts for Professionals & Gamers by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/avoiding-wait-times-a-guide-to-purchasing-the-latest-macbook-pro-and-mac-mini-from-apple/"><u>Avoiding Wait Times: A Guide to Purchasing the Latest MacBook Pro & Mac Mini From Apple</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comparing-apple-innovations-mac-mini-versus-mac-studio-how-does-the-new-m2-stack-up-against-its-predecessor-the-m1/"><u>Comparing Apple Innovations: Mac Mini versus Mac Studio – How Does the New M2 Stack Up Against Its Predecessor, the M1?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/descubra-o-melhor-programa-gratuito-de-gravacao-em-dvd-para-win-11-en-2020-facilite-a-conversao-de-mp4mkvmov-directamente-para-um-disco-optico/"><u>Descubra O Melhor Programa Gratuito De Gravação Em DVD Para Win 11 en 2020: Facilite a Conversão De MP4/MKV/MOV Directamente Para Um Disco Óptico!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/free-end-in-sight-windows-10-upgrade-offer-concludes/"><u>Free End in Sight: Windows 10 Upgrade Offer Concludes</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-exploring-the-colors-of-wings-in-bebops-parrot-edition/"><u>In 2024, Exploring the Colors of Wings in Bebop's Parrot Edition</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-honor-x9a-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Honor X9a Lock Screen Password?</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-samsung-galaxy-a54-5g-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Samsung Galaxy A54 5G Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-poco-x6-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Poco X6? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/save-big-with-up-to-50-off-premium-4tb-samsung-portable-ssd-available-at-amazon-zdnet-exclusive-deal/"><u>Save Big with Up to 50% Off: Premium 4TB Samsung Portable SSD Available at Amazon – ZDNET Exclusive Deal</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-fastest-methods-to-uncover-hidden-reddit-articles-for-2024/"><u>The Fastest Methods to Uncover Hidden Reddit Articles for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-streaming-microphones-reviews-and-buyers-guide-by-zdnet/"><u>Top-Rated Streaming Microphones - Reviews & Buyer's Guide by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/triple-display-setup-made-easy-on-m1-macs-using-ugreens-new-docking-station-insights-from-zdnet/"><u>Triple Display Setup Made Easy on M1 Macs Using Ugreen's New Docking Station - Insights From ZDNet</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-and-resolving-madden-20-for-pc-stability-problems-fixed/"><u>Troubleshooting and Resolving Madden 20 for PC Stability Problems [FIXED]</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/understanding-tpms-essential-for-windows-11-security-features-techguide/"><u>Understanding TPMs - Essential for Windows 11 Security Features | TechGuide</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-your-hardware-drivers-with-windows-device-manager-on-windows-1110-by-drivereasy-guide/"><u>Use Device Manager to identify missing your hardware drivers with Windows Device Manager on Windows 11/10</u></a></li>
+</ul></div>
 

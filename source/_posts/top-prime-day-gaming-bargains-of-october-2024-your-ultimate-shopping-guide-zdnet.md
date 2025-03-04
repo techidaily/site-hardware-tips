@@ -1,7 +1,7 @@
 ---
 title: "Top Prime Day Gaming Bargains of October 2024: Your Ultimate Shopping Guide | ZDNet"
-date: 2025-02-10T19:49:02.297Z
-updated: 2025-02-15T18:33:45.728Z
+date: 2025-03-01T21:43:12.478Z
+updated: 2025-03-04T18:05:16.771Z
 tags:
   - laptops
 categories:
@@ -90,10 +90,6 @@ Best Buy
 * [Samsung 13.3-inch Galaxy Book2 Pro Laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09R8VGY83%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C939c71c0-ee60-4d3d-8593-12f2a4ecc7a8%7Cdtp&dtb=1) for $958.40 (save $342) at Amazon
 * [HP Pavilion Laptop 15t-eg200](https://www.anrdoezrs.net/click-9041660-15850793?url=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fpdp%2Fhp-pavilion-laptop-15t-eg200-6m7m8av-1&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) for $700 (save $320) at HP
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Best Cyber Monday tablet deals**
 
 Black Friday and Cyber Monday are the biggest shopping times of the year, and it is when tablets go on sale for $100 or even $500 off. We've rounded up the best Cyber Monday tablet deals from brands like Apple and Samsung. 
@@ -111,10 +107,6 @@ Image: ZDNET
 * [Open Box Apple iPad Mini 4](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FOpen-Box-Apple-iPad-Mini-4-7-9-inch-Wi-Fi-Only-128GB-Bundle-Tempered-Glass-Case-Rapid-Charger-Stylus-Pen-comes-in-Original-Packaging%2F389781578&subId1=zd-__COM_CLICK_ID__-dtp) for $219 (save $40) at Walmart
 * [2022 Apple 11-inch iPad Pro, 128GB, with WiFi and Cellular](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLF3QVN%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C939c71c0-ee60-4d3d-8593-12f2a4ecc7a8%7Cdtp&dtb=1) for $899 (save $100) at Amazon
 * [Wacom Intuos Pro Medium Bluetooth Graphics Drawing Tablet](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FWacom-Digital-Graphic-Drawing-PTH660%2Fdp%2FB01MQU5LW7%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C939c71c0-ee60-4d3d-8593-12f2a4ecc7a8%7Cdtp&dtb=1) for $240 (save $26) at Amazon
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Best Cyber Monday gaming deals**
 
@@ -169,10 +161,6 @@ Sherin Shibu
 * [Roku Express HD Streaming Device](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FRoku-Express-Streaming-Device-High-Speed%2Fdp%2FB0BCH5H2R3%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C939c71c0-ee60-4d3d-8593-12f2a4ecc7a8%7Cdtp&dtb=1) for $18 (save $12) at Amazon
 * [Apple TV HD 32GB](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-TV-HD-32GB-2nd-Generation%2F525801397&subId1=zd-__COM_CLICK_ID__-dtp) for $59 (save $40) at Walmart
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Best Cyber Monday headphone deals**
 
 If your holidays could be happier with a pair of headphones to either blast or block out cheesy Christmas songs, look no further. While headphones and earbuds are essential accessories, their pricing can be more than practical. With Cyber Monday finally here, we compiled a list of the best headphone deals so you can beat the holiday rush while wearing buds. 
@@ -205,10 +193,6 @@ Samsung
 
 * [Samsung Galaxy S21 FE (128GB) smartphone](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09BFSTTNK%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C939c71c0-ee60-4d3d-8593-12f2a4ecc7a8%7Cdtp&dtb=1) for $400 (save $300) at Amazon
 * [Google Pixel 6a](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FGoogle-Pixel-6a-Smartphone-Megapixel%2Fdp%2FB0B3PQPNKS%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C939c71c0-ee60-4d3d-8593-12f2a4ecc7a8%7Cdtp&dtb=1) for $360 (save $89) at Amazon
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Best Cyber Monday smartwatch deals**
 
@@ -270,10 +254,6 @@ June Wan
 * [Blink Outdoor weather-resistant camera kit](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB086DKGCFP%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C939c71c0-ee60-4d3d-8593-12f2a4ecc7a8%7Cdtp&dtb=1) for $190 (save $190) at Amazon
 * [Aventure Step-Over Ebike](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Faventon-aventure-step-over-ebike-w-45-mile-max-operating-range-and-28-mph-max-speed-socal-sand%2F6487148.p%3FskuId%3D6487148&publisher_slug=itechdaily19598&exclusive=1) for $1,700 (save $300) at Best Buy
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How did we choose these deals?
 
 ZDNET editors have experience tracking prices and hunting down deals 365 days a year. Take a peek at our Deals hub -- we know how to find bargains. Our process starts by identifying the hottest and most popular products of the year, whether it's the AirPods or the latest iPad, and then we conduct a painstaking process that involves checking major retailers and others you may have never heard about (but are still trusted stores). 
@@ -301,10 +281,6 @@ ZDNET scoured Cyber Monday sales to find the best deals this year, and many are 
 * [The best Cyber Monday 2022 deals](https://www.zdnet.com/article/best-cyber-monday-deals-still-available-november-30-2022/)
 
 Our experts split out the best deals by retailer, brand, and category, which you can see below. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Cyber Monday deals still available by retailer**
 
@@ -347,10 +323,6 @@ Our experts split out the best deals by retailer, brand, and category, which you
  Here are some of the cheapest deals we found that are still available:
 
 * [The best Cyber Monday 2022 deals under $30](https://www.zdnet.com/home-and-office/best-cyber-monday-deals-under-30-still-available-november-30-2022/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Cyber Monday live blog deals still available**
 
@@ -398,16 +370,16 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-audiovisual-excellence-on-youtube-through-enhancements/"><u>[Updated] 2024 Approved Audiovisual Excellence on YouTube Through Enhancements</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-comparing-cosmic-universes-metaverse-vs-multiverse-explained/"><u>[Updated] Comparing Cosmic Universes Metaverse vs Multiverse Explained</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-samsungs-latest-bd-edition-k850-update/"><u>[Updated] Samsung's Latest BD Edition - K850 Update</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-dive-deep-reviewing-the-cutting-edge-lg-vr-technology/"><u>2024 Approved Dive Deep Reviewing the Cutting-Edge LG VR Technology</u></a></li>
-<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Vivo T2 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-directly-uploading-youtube-vids-to-multiple-social-sites-focusing-on-fb/"><u>In 2024, Directly Uploading YouTube Vids to Multiple Social Sites, Focusing on FB</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/pixel-8a-a-smart-alternative-before-the-arrival-of-pixel-9/"><u>Pixel 8A: A Smart Alternative Before the Arrival of Pixel 9</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/project-astra-is-this-googles-game-changer-for-wearable-tech-as-revolutionary-as-the-iphone-was-for-mobile-phones/"><u>Project Astra: Is This Google's Game-Changer for Wearable Tech as Revolutionary as the iPhone Was for Mobile Phones?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-clear-advantages-of-going-for-a-2-in-1-tabletlaptop-hybrid-instead-of-a-conventional-notebook/"><u>The Clear Advantages of Going for a 2-in-1 Tablet/Laptop Hybrid Instead of a Conventional Notebook</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-unusual-attachment-my-struggle-to-part-with-quirky-bluetooth-headphones/"><u>The Unusual Attachment: My Struggle to Part with Quirky Bluetooth Headphones</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-from-novice-to-pro-building-an-insta-highlight-showcase-for-2024/"><u>[New] From Novice to Pro Building an Insta Highlight Showcase for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/peedy-realignment-youtube-videos-for-mac-views-for-2024/"><u>[New] Speedy Realignment YouTube Videos for MAC Views for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/15-free-bootable-antivirus-tools-we-recommend/"><u>15 Free Bootable Antivirus Tools We Recommend</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/capture-the-savings-with-apples-m2-macbook-air-on-amazon-prime-day-for-a-steal-at-749-zdnets-in-depth-analysis/"><u>Capture the Savings with Apple's M2 MacBook Air on Amazon Prime Day for a Steal at $749 – ZDNET’s In-Depth Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/developing-loyalty-programs-to-reward-repeat-customers-and-incentivize-further-purchases/"><u>Developing Loyalty Programs to Reward Repeat Customers and Incentivize Further Purchases.</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/essential-laptop-gadget-every-tech-enthusiast-must-have-maintain-optimal-temperature-zdnet/"><u>Essential Laptop Gadget Every Tech Enthusiast Must Have: Maintain Optimal Temperature | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-your-tech-upgrade-with-a-high-quality-affordable-13-in-1-docking-station-featuring-dual-amoled-hdmi-at-only-49-zdnet/"><u>Get Your Tech Upgrade with a High-Quality, Affordable 13-in-1 Docking Station Featuring Dual Amoled HDMI at Only $49 | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/huge-sale-alert-save-almost-1k-on-lenovo-business-laptops-before-octobers-prime-day-deals-find-out-how/"><u>Huge Sale Alert: Save Almost $1K on Lenovo Business Laptops Before October's Prime Day Deals - Find Out How!</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-pros-in-the-field-pick-their-favorite-asmr-mics/"><u>In 2024, Pros in the Field Pick Their Favorite ASMR Mics</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-oppo-a18-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Oppo A18 Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/laptoppc-editors-steer-clear-of-inshot/"><u>Laptop/PC Editors Steer Clear of Inshot</u></a></li>
 </ul></div>
 

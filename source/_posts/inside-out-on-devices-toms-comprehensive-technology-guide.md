@@ -1,7 +1,7 @@
 ---
 title: "Inside Out on Devices: Tom's Comprehensive Technology Guide"
-date: 2024-08-15T06:31:11.884Z
-updated: 2024-08-16T06:31:11.884Z
+date: 2025-02-27T21:03:44.594Z
+updated: 2025-03-04T16:33:22.108Z
 tags:
   - cooling
 categories:
@@ -66,9 +66,6 @@ Included in the box are the following:
 
  (Image credit: Tom's Hardware)
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Features of ID-Cooling’s FX 360 Pro
 
 **▶ Budget $60 USD MSRP**
@@ -80,9 +77,6 @@ Included in the box are the following:
  As an AIO does not interfere or overhang DIMM slots in any manner, all sizes of RAM, no matter how tall, are compatible with ID-Cooling’s FX360 Pro. The tubes of the of the AIO are braided and are fully rotatable for ease of installation and setup.
 
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/RfAz98Bd2YY8mCoRtq6Wch-320-80.jpg)
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -99,18 +93,12 @@ Included in the box are the following:
  The base of the unit is large and comprised of copper to facilitate thermal transfer.
 
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/naEQWSeiQfwBHtpuifUMtZ-320-80.jpg)
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
 The top of the CPU black features a reflective black etched metal design.
 
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/erp9Yw2JHeFm796FbRs33j-320-80.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -127,9 +115,6 @@ The top of the CPU black features a reflective black etched metal design.
  I say this on almost every cooler review, but there’s more to a cooler than just the heatsink or radiator. The bundled fans have a significant impact on cooling and noise levels, as well as how the cooler looks in your case.
 
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/dCyCwz8i9Tfq3bB2fra6Xc-320-80.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -159,9 +144,6 @@ The top of the CPU black features a reflective black etched metal design.
 
  In order to prevent bending from impacting our cooling results, we’ve installed Thermalright’s[LGA 1700 contact frame](https://www.tomshardware.com/reviews/thermalright-lga1700-bcf-contact-frame) into our testing rig. If your motherboard is affected by bending, your thermal results will be worse than those shown below. Not all motherboards are affected equally by this issue. I tested Raptor Lake CPUs in two motherboards. And while one of them showed significant thermal improvements after installing Thermalright’s LGA1700 contact frame, the other motherboard showed no difference in temperatures whatsoever! Check out[our review of the contact frame](https://www.tomshardware.com/reviews/thermalright-lga1700-bcf-contact-frame) for more information.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Testing Methodology, and how my testing differs vs the competition
 
  My previous review of[Arctic’s Liquid Freezer III AIOs](https://www.tomshardware.com/pc-components/liquid-cooling/arctic-liquid-freezer-iii-aio-review) was quite controversial, and it made me realize that I need to better explain my testing methodology.
@@ -194,9 +176,6 @@ The top of the CPU black features a reflective black etched metal design.
 
  The thermal results included are for 10-minute testing runs. To be sure that was sufficiently long to tax the cooler, we tested both Thermalright’s Assassin X 120 R SE and DeepCool’s LT720 with a 30-minute Cinebench test with Intel’s i9-13900K for both 10 minutes and 30 minutes. The results didn’t change much at all with the longer test: The average clock speeds maintained dropped by 29 MHz on DeepCool’s LT720 and 31 MHz on Thermalright’s Assassin X 120 R SE. That’s a very small 0.6% difference in clock speeds maintained, a margin of error difference that tells us that the 10-minute tests are indeed long enough to properly test the coolers.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Testing configuration – Intel LGA1700 platform
 
  Swipe to scroll horizontally
@@ -230,8 +209,6 @@ powered by
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -239,4 +216,20 @@ powered by
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/updated-masterclass-in-using-zoom-for-youtube-live-streams/"><u>[Updated] Masterclass in Using Zoom for YouTube Live Streams</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-the-art-and-science-of-hand-movement-tracking/"><u>[Updated] The Art and Science of Hand Movement Tracking</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/branding-beats-technicalities-focus-on-your-streams-signature-style-for-2024/"><u>Branding Beats Technicalities Focus on Your Stream's Signature Style for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/breeze-through-update-your-wacom-bamboo-driver/"><u>Breeze Through Update: Your Wacom Bamboo Driver</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210639835-9781959018148-crystal-grids/"><u>Crystal Grids | Free Book</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-preferences-the-exciting-potential-of-an-intelligent-ipad-mini-over-iphone-16-zdnet-insights/"><u>Exploring Preferences: The Exciting Potential of an Intelligent iPad Mini Over iPhone 16 | ZDNET Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/flagship-faceoff-deciding-between-the-newest-samsung-galaxy-tab-s9-ultra-and-apples-latest-ipad-pro-for-your-needs-gadgetguru/"><u>Flagship Faceoff: Deciding Between the Newest Samsung Galaxy Tab S9 Ultra and Apple's Latest iPad Pro for Your Needs | GadgetGuru</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/head-to-head-tech-analysis-google-pixel-tablet-vs-apple-ipad-detailed-specs-compared/"><u>Head-to-Head Tech Analysis: Google Pixel Tablet Vs. Apple iPad – Detailed Specs Compared</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-poco-f5-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Poco F5 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ipad-against-googles-pixel-tablet-in-depth-examination-of-technical-specifications-insights-from-zdnet/"><u>IPad Against Google's Pixel Tablet: In-Depth Examination of Technical Specifications – Insights From ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ipads-versus-traditional-computers-are-they-suitable-replacements-for-work-and-play-zdnet-analysis/"><u>IPads Versus Traditional Computers: Are They Suitable Replacements for Work and Play? [ZDNet Analysis]</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/step-by-step-for-attaching-tunes-in-instagram-media-for-2024/"><u>Step-by-Step for Attaching Tunes in Instagram Media for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ultimate-guide-to-choosing-a-titanium-band-for-your-apple-watch-expert-advice-from-zdnet/"><u>The Ultimate Guide to Choosing a Titanium Band for Your Apple Watch – Expert Advice From ZDNet</u></a></li>
+</ul></div>
 

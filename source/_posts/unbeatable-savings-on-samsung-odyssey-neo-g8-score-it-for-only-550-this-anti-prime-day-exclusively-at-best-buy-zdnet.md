@@ -1,7 +1,7 @@
 ---
 title: Unbeatable Savings on Samsung Odyssey Neo G8 - Score It For Only $550 This Anti-Prime Day, Exclusively at Best Buy | ZDNET
-date: 2025-02-09T17:50:35.985Z
-updated: 2025-02-15T21:53:14.567Z
+date: 2025-02-28T22:33:43.847Z
+updated: 2025-03-04T16:44:57.622Z
 tags:
   - laptops
 categories:
@@ -24,10 +24,6 @@ HP includes an Nvidia GeForce RTX 3050 graphics card and a screen capable of a 1
 **Also: [The best budget gaming laptops: Expert tested](https://www.zdnet.com/article/best-budget-gaming-laptop/)** 
 
 With 8GB of RAM, a 512GB SSD, and an Intel Core i5-12450H series processor, this system has quick speeds and the ability to put the power to where your system needs it most. But, you'd think with all the powerful components in this laptop, the battery life would suffer. Wrong. This laptop features a battery that can last up to 8 hours and 15 minutes while being able to be charged up to 50% in as little as 30 minutes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -63,24 +59,24 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-connect-worlds-quickly-sharing-tiktoks-with-facebook-for-2024/"><u>[New] Connect Worlds Quickly Sharing TikToks with Facebook for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-direct-link-between-spotify-and-youtube-the-top-tools-for-music-sharing-for-2024/"><u>[New] Direct Link Between Spotify and YouTube The Top Tools for Music Sharing for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-jolly-video-recorder-critique-for-2024/"><u>[New] Jolly Video Recorder Critique for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-efficient-image-capture-try-these-top-5-pc-tools-for-2024/"><u>[Updated] Efficient Image Capture? Try These Top 5 PC Tools for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-masterful-moments-a-deep-dive-into-youtube-to-facebook-sharing/"><u>2024 Approved Masterful Moments A Deep Dive Into YouTube-to-Facebook Sharing</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/comprehensive-review-top-ranked-wireless-keyboards-of-2024-unveiled/"><u>Comprehensive Review: Top-Ranked Wireless Keyboards of 2024 Unveiled</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/diving-into-comfort-the-complete-guide-to-bamboo-lab-a1-bed-in-a-slipcover-format-for-king-size-luxury/"><u>Diving Into Comfort: The Complete Guide to Bamboo Lab A1 Bed in a Slipcover Format for King-Size Luxury</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-advice-on-cutting-edge-devices-by-tom/"><u>Expert Advice on Cutting-Edge Devices by Tom</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-computer-and-gadget-critiques-from-toms-hardware-authority/"><u>Expert Computer and Gadget Critiques From Tom's Hardware Authority</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722994188556-expert-guide-to-overcoming-discord-live-stream-buffering-problems-now-solved/"><u>Expert Guide to Overcoming Discord Live Stream Buffering Problems – Now Solved!</u></a></li>
-<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-nubia-red-magic-9-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-honor-x8b-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Honor X8b? | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/leading-5-drones-the-ultimate-professional-buy-guide-for-2024/"><u>Leading 5 Drones - The Ultimate Professional Buy Guide for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-hardware-with-tom-expert-insights-on-cutting-edge-technology-today/"><u>Navigating Hardware with Tom: Expert Insights on Cutting-Edge Technology Today!</u></a></li>
-<li><a href="https://fox-that.techidaily.com/resurrect-your-iphone-without-using-itunes-a-comprehensive-tutorial/"><u>Resurrect Your iPhone Without Using iTunes – A Comprehensive Tutorial</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-definitive-guide-to-tech-savvy-living-by-toms-gear-experts/"><u>The Definitive Guide to Tech Savvy Living by Tom's Gear Experts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-advanced-gadgets-with-tomtech-insights/"><u>The Ultimate Guide to Advanced Gadgets with TomTech Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/uncovering-hidden-gems-in-electronic-devices-with-tom/"><u>Uncovering Hidden Gems in Electronic Devices with Tom</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-computing-your-guide-to-toms-hardware-insights/"><u>Unveiling the Latest in Computing - Your Guide to Tom's Hardware Insights</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/kyline-growth-youtubes-top-tactics-with-video-outros/"><u>[New] Skyline Growth YouTube's Top Tactics with Video Outros</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-streamline-your-screen-share-with-enhanced-zoom-on-google-meet/"><u>[Updated] 2024 Approved Streamline Your Screen Share with Enhanced Zoom on Google Meet</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-visual-snips-tool/"><u>[Updated] 2024 Approved Visual Snips Tool</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-easy-effective-and-accurate-method-to-download-fb-gifs-anywhere/"><u>[Updated] Easy, Effective and Accurate Method to Download FB GIFs Anywhere</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/before-investing-in-a-health-gadget-read-this-list-of-5-crucial-fitness-tracker-insights/"><u>Before Investing in a Health Gadget, Read This List of 5 Crucial Fitness Tracker Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/breaking-beyond-bose-and-sonos-the-ultimate-speaker-system-that-took-my-breath-away-featured-in-zdnet/"><u>Breaking Beyond Bose and Sonos: The Ultimate Speaker System That Took My Breath Away | Featured in ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/choosing-between-mini-led-and-oled-televisions-key-differences-explained/"><u>Choosing Between Mini LED & OLED Televisions: Key Differences Explained</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/choosing-the-ultimate-smart-tv-top-recommendations-by-zdnet/"><u>Choosing the Ultimate Smart TV: Top Recommendations by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/cost-benefit-analysis-is-a-key-tool-for-evaluating-the-economic-justification-of-policies/"><u>Cost-Benefit Analysis Is a Key Tool for Evaluating the Economic Justification of Policies.</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discounted-prices-up-to-25-off-on-the-85-inch-tcl-television-post-labor-day-sale/"><u>Discounted Prices: Up To 25% Off On The 85 Inch TCL Television - Post Labor Day Sale!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-labor-day-2024-televisions-bargains-list-for-smart-shoppers-crafted-with-care-curated-by-zdnet/"><u>Exclusive Labor Day 2024 Televisions Bargains List for Smart Shoppers | Crafted with Care, Curated by ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-cutting-edge-quality-with-the-new-exclusive-premium-addition-on-your-roku-at-no-extra-cost-digitalhome-news/"><u>Experience Cutting-Edge Quality with the New Exclusive Premium Addition on Your Roku - At No Extra Cost | DigitalHome News</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-highlights-a-review-of-premier-gadgets-tech-tools-and-digital-devices-of-2n2-insights-from-zdnet/"><u>Exploring the Highlights: A Review of Premier Gadgets, Tech Tools, and Digital Devices of 2N2 | Insights From ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/extend-your-smart-viewing-samsung-commits-to-7-years-of-free-software-updates-for-its-intelligent-tv-lineup-details-inside-techsavvy/"><u>Extend Your Smart Viewing: Samsung Commits to 7 Years of FREE Software Updates for Its Intelligent TV Lineup - Details Inside | TechSavvy</u></a></li>
+<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-vivo-v30-lite-5g-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Vivo V30 Lite 5G Phone | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-icloud-from-apple-iphone-6-smoothly-by-drfone-ios/"><u>In 2024, How To Remove iCloud From Apple iPhone 6 Smoothly</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-vivo-y100a-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Vivo Y100A? | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-seamlessly-transferring-youtube-videos-to-your-instagram-account/"><u>In 2024, Seamlessly Transferring YouTube Videos to Your Instagram Account</u></a></li>
+<li><a href="https://win-able.techidaily.com/proven-solutions-for-keeping-fortnite-running-smoothly-on-your-pc-this-year/"><u>Proven Solutions for Keeping Fortnite Running Smoothly on Your PC This Year</u></a></li>
 </ul></div>
 

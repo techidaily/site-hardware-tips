@@ -1,7 +1,7 @@
 ---
 title: "Massive Discount on Cyber Monday: Get the Ultra-Thin and Sleek LG Gram 17 for a Steal - Save $400 Now at ZDNet's Exclusive Deals!"
-date: 2025-02-12T21:26:45.152Z
-updated: 2025-02-15T22:47:26.614Z
+date: 2025-02-27T22:02:12.966Z
+updated: 2025-03-04T16:09:35.912Z
 tags:
   - laptops
 categories:
@@ -19,10 +19,6 @@ Taylor Clemons/ZDNET
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### ZDNET takeaways
 
@@ -78,10 +74,6 @@ The speaker system is also excellent for streaming music; I played the [Old Gods
 
 My one big complaint about the SteelSeries Arena 9 is that you really do feel that drop in control when dealing with a device that's been connected via USB or optical cable. The OLED dial allows you to choose between a few different presets but only offers a single option for a custom sound profile. In contrast, the Sonar app lets you create a custom soundscape for every media type and connected device. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## ZDNET's buying advice
 
 There is a lot that comes with the [SteelSeries Arena 9](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsteelseries-arena-9-5-1-bluetooth-gaming-speakers-with-rgb-lighting-6-piece-black%2F6515591.p%3FskuId%3D6515591&publisher_slug=itechdaily19598&exclusive=1), between the speakers and subwoofer, controller, and cables. It's easily one of the best-sounding systems I've tested, and the ability to tweak specific audio settings is game-changing. That said, if you mainly use a single platform like the PC or a console for gaming, you may want to opt for the smaller but still capable [Arena 7](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSteelSeries-Arena-Computer-Gaming-Speakers%2Fdp%2FB09KNYJL4R%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cacf8dbdb-9d18-4979-b42c-0d9e8d7f1384%7Cdtp&dtb=1) instead, since it comes with a single pair of speakers and a subwoofer. It doesn't include a control dial like the Arena 9, but you can quickly adjust basic volume and bass boost levels with the on-device knobs for watching shows and movies. 
@@ -89,10 +81,6 @@ There is a lot that comes with the [SteelSeries Arena 9](https://shop-links.co/l
 And if you're simply looking for a reliable set of PC speakers, the [Arena 3](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSteelSeries-Arena-Computer-Gaming-Speakers%2Fdp%2FB09KNYBT4Q%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cacf8dbdb-9d18-4979-b42c-0d9e8d7f1384%7Cdtp&dtb=1) is an excellent choice; they don't have the RGB lighting features like the Arena 7 and 9, making them a better choice for shared work spaces or home offices that double as gaming rooms. If you've been waiting for a decent deal to come along before you pick up the Arena 9, [Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsteelseries-arena-9-5-1-bluetooth-gaming-speakers-with-rgb-lighting-6-piece-black%2F6515591.p%3FskuId%3D6515591&publisher_slug=itechdaily19598&exclusive=1) is running a sale where the speaker system is $100 off its original price; this brings it down to $450, and while that's still on the pricey side, the multimedia support, ability to connect to multiple devices simultaneously, and incredible sound quality make it a worthy investment for your gaming space or home theater. 
 
 _This article was originally published on February 23, 2024, and was updated on September 17, 2024._
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## When does this deal expire?
 
@@ -128,24 +116,18 @@ Best Buy hasn't put a hard and fast end date for the $100 discount on the Arena 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-a-compreayers-primer-to-navigating-the-online-copyright-labyrinth/"><u>[New] 2024 Approved A Compreayer's Primer to Navigating the Online Copyright Labyrinth</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-boosting-zoom-screen-sharpness-essential-tips/"><u>[New] Boosting Zoom Screen Sharpness Essential Tips</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-navigating-famebit-pathways-to-secure-youtube-partnerships/"><u>[New] Navigating FameBit Pathways to Secure YouTube Partnerships</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-brand-expression-made-simple-affordable-personalized-logo-templates-free/"><u>[Updated] Brand Expression Made Simple Affordable Personalized Logo Templates (Free)</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-prime-pioneering-1980s-techniques-in-film-making-for-2024/"><u>[Updated] Prime Pioneering 1980S Techniques in Film Making for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-vivo-s17e-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Vivo S17e</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/affordable-steps-toward-constructing-an-energy-efficient-tech-savvy-abode/"><u>Affordable Steps Toward Constructing an Energy-Efficient, Tech-Savvy Abode</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-huawei-nova-y91s-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Huawei Nova Y91s Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
-<li><a href="https://win-dash.techidaily.com/master-the-art-of-refreshing-your-asus-maximus-x-hero-graphics-card-drivers-with-this-easy-guide/"><u>Master the Art of Refreshing Your ASUS Maximus X Hero Graphics Card Drivers with This Easy Guide</u></a></li>
-<li><a href="https://fox-links.techidaily.com/srgb-encoding-versus-rgb-basics/"><u>Srgb Encoding Versus Rgb Basics</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/understanding-mesh-wi-fi-networks-a-comprehensive-guide/"><u>Understanding Mesh Wi-Fi Networks: A Comprehensive Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unmissable-impulse-buys-from-the-2024-amazon-prime-day-sale-extravaganza/"><u>Unmissable Impulse Buys From the 2024 Amazon Prime Day Sale Extravaganza!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unseen-wi-fi-troubleshooting-guide-making-your-network-visible-again/"><u>Unseen Wi-Fi Troubleshooting Guide: Making Your Network Visible Again</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-amds-advanced-artificial-intelligence-chip-in-new-asus-rog-zephyrus-g16-laptop/"><u>Unveiling AMD's Advanced Artificial Intelligence Chip in New ASUS ROG Zephyrus G16 Laptop</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-functionality-of-mesh-wireless-technology-explained-simply/"><u>Unveiling the Functionality of Mesh Wireless Technology Explained Simply</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-jbl-quantum-stream-the-ultimate-usb-mic-for-aspiring-podcasters/"><u>Unveiling the JBL Quantum Stream: The Ultimate USB Mic for Aspiring Podcasters</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-secret-how-every-printed-document-carries-hidden-identifiers/"><u>Unveiling the Secret: How Every Printed Document Carries Hidden Identifiers</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-speednova-experience-in-true-wireless-cetra-gaming-earphones-by-rog-sound-quality-and-latency-tested/"><u>Unveiling the SpeedNova Experience in True Wireless Cetra Gaming Earphones by ROG - Sound Quality and Latency Tested!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/why-you-should-consider-adding-a-docking-station-to-your-laptop-the-ultimate-guide/"><u>Why You Should Consider Adding a Docking Station to Your Laptop: The Ultimate Guide</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-narrative-nuance-a-guide-to-crafting-compelling-film-dialogues-for-2024/"><u>[New] Narrative Nuance A Guide to Crafting Compelling Film Dialogues for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-ideal-sites-convert-your-favorite-youtube-moments-into-ringtones/"><u>[Updated] Ideal Sites Convert Your Favorite YouTube Moments Into Ringtones</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-preview-of-whats-coming-from-apples-fall-event-enhanced-m4-mac-mini-models-revolutionary-ipad-features-upgrades-to-ai-capabilities-and-more-in-dep59/"><u>Exclusive Preview of What's Coming From Apple’s Fall Event: Enhanced M4 Mac Mini Models, Revolutionary iPad Features, Upgrades to AI Capabilities and More – In-Depth Analysis for Tech Enthusiasts | ZDNet</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/gratuitamente-converti-file-pgm-in-formato-bmp-online-con-movavi-guida-istantanea/"><u>Gratuitamente Converti File PGM in Formato BMP Online Con Movavi - Guida Istantanea</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-unseen-watchers-manual-how-to-stay-anonymous-on-instagram-live/"><u>In 2024, Unseen Watcher’s Manual How to Stay Anonymous on Instagram Live</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/my-emotional-journey-with-the-new-apple-m2-macbook-air-a-deep-dive-zdnet/"><u>My Emotional Journey with the New Apple M2 MacBook Air - A Deep Dive | ZDNet</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/revolutionize-your-podcast-reach-with-smart-seo-for-2024/"><u>Revolutionize Your Podcast Reach with Smart SEO for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/secure-your-essential-portable-charger-at-a-bargain-anker-737-deal-with-30-discount-zdnets-insider-info/"><u>Secure Your Essential Portable Charger at a Bargain: Anker 737 Deal with $30 Discount - ZDNet's Insider Info!</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/step-by-step-solution-to-fix-iphones-media-transfer-protocol-driver-malfunction-on-windowsmac/"><u>Step-by-Step Solution to Fix iPhone's Media Transfer Protocol Driver Malfunction on Windows/Mac</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/tech-trailblazers-reshuffle-as-samsungs-galaxy-ai-rises-challenging-google-after-antitrust-verdict-in-the-innovation-league-table/"><u>Tech Trailblazers Reshuffle as Samsung's Galaxy AI Rises, Challenging Google After Antitrust Verdict in the Innovation League Table</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-meta-quest-3-512gb-offer-the-premier-october-prime-day-deal-for-virtual-reality-enthusiasts-zdnet/"><u>Top Meta Quest 3 512GB Offer: The Premier October Prime Day Deal for Virtual Reality Enthusiasts | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unparalleled-flexibility-and-stunning-visuals-a-review-of-an-exceptional-laptop-with-top-notch-display-insights-from-zdnet/"><u>Unparalleled Flexibility & Stunning Visuals: A Review of an Exceptional Laptop with Top-Notch Display - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/what-to-expect-from-apple-watchs-new-version-unveiling-watchos-n-11s-improved-features-insights/"><u>What to Expect From Apple Watch’s New Version - Unveiling WatchOS N 11’S Improved Features | Insights</u></a></li>
 </ul></div>
 

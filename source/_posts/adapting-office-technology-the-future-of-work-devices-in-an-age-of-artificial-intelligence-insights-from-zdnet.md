@@ -1,7 +1,7 @@
 ---
 title: "Adapting Office Technology: The Future of Work Devices in an Age of Artificial Intelligence - Insights From ZDNet"
-date: 2025-02-13T16:43:35.488Z
-updated: 2025-02-15T22:41:14.976Z
+date: 2025-02-27T20:06:55.877Z
+updated: 2025-03-04T20:20:58.872Z
 tags:
   - laptops
 categories:
@@ -29,10 +29,6 @@ Because AI tasks that run locally on a PC are typically executed by the CPU (cen
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### User requirements remain focused on hybrid work
 
@@ -68,10 +64,6 @@ Like Lenovo, Asus is working to ensure its new products have NPUs or a core chip
 
 Asus is also focused on developing the necessary software engine and tools to help users train their own AI models, Hsieh said, noting that most large language models are currently only trained on public data. With personal devices handling AI workloads, Asus believes users will want these applications to use their data rather than public data.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Optimizing hardware and software for AI
 
 Asked what requirements are toughest to balance as demand for AI PCs grows, Butler pointed to the usual tradeoffs between the desire for thinner and lighter devices, alongside longer battery life and better performance. 
@@ -79,10 +71,6 @@ Asked what requirements are toughest to balance as demand for AI PCs grows, Butl
 Boosting performance will inevitably impact battery longevity and vice versa, he said. "With NPUs \[now available\], though, it allows us to offload some of the workloads that traditionally will tax either the GPU or CPU," he noted. Noise-cancelling capabilities, for instance, can be moved to the NPU. Butler noted that software vendors are looking to see how they can optimize their code to take advantage of NPUs. 
 
 Meanwhile, Asus wants to provide tools to help developers choose the right compute resources, according to Albert Chang, Asus' vice president and co-head of the AIoT business group. Application developers should be able to determine whether the CPU, NPU, or integrated GPU needs to power their AI tool, Chang said.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### The coming wave of AI PCs
 
@@ -134,20 +122,20 @@ The final category of advanced AI PCs offer more than 60 TOPS of NPU performance
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/2024-approved-farewell-to-friends-how-to-leave-a-discord-server/"><u>2024 Approved Farewell to Friends How to Leave a Discord Server</u></a></li>
-<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-vivo-v27e-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Vivo V27e Isnt Compatible | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/comparing-the-next-gen-gpt-4s-leap-over-gpt-35/"><u>Comparing the Next Gen: GPT-4's Leap over GPT-3.5</u></a></li>
-<li><a href="https://win-able.techidaily.com/easy-fixes-to-stop-fifa-21-game-crashes-on-pc-comprehensive-instructions-inside/"><u>Easy Fixes to Stop FIFA 21 Game Crashes on PC - Comprehensive Instructions Inside</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/harness-unmatched-thermal-efficiency-with-pioneercools-ultrafrost-duo-aio-liquid-cooler/"><u>Harness Unmatched Thermal Efficiency with PioneerCool's UltraFrost-Duo AIO Liquid Cooler</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-oneplus-nord-n30-5g-lock-screen-password-by-drfone-android/"><u>How To Change OnePlus Nord N30 5G Lock Screen Password?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-expert-iphone-macro-photography-tips-and-tricks/"><u>In 2024, Expert iPhone Macro Photography Tips and Tricks</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-zte-nubia-z60-ultra-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of ZTE Nubia Z60 Ultra Without PUK Codes</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-tech-reviews-by-toms-hardware-authority/"><u>The Ultimate Guide to Tech Reviews by Tom's Hardware Authority</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-comprehvew-on-cutting-edge-computer-equipment/"><u>Tom's Comprehvew on Cutting-Edge Computer Equipment</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-comprehensive-hardware-guides-and-reviews/"><u>Tom's Tech Hub: Comprehensive Hardware Guides and Reviews</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/understanding-and-executing-windows-restore-operations/"><u>Understanding and Executing Windows Restore Operations</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unlocking-the-potential-of-your-pc-with-tips-from-toms-tech-wisdom/"><u>Unlocking the Potential of Your PC with Tips From Tom’s Tech Wisdom</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-computer-hardware-by-toms-experts/"><u>Unveiling the Latest in Computer Hardware by Tom's Experts</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-google-translate-video-a-complete-guide-to-translate-video-with-google/"><u>Updated Google Translate Video A Complete Guide To Translate Video With Google</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-maximizing-visual-impact-with-extra-camera-work/"><u>[Updated] In 2024, Maximizing Visual Impact with Extra Camera Work</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-youtube-artistry-designing-channels-visual-assets-bannersicons/"><u>[Updated] In 2024, YouTube Artistry Designing Channels' Visual Assets (Banners/Icons)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1-get-insight-discover-how-ubers-latest-service-ensures-delivery-from-carriers-like-ups-fedex-and-usps/"><u>1. Get Insight: Discover How Uber's Latest Service Ensures Delivery From Carriers Like UPS, FedEx & USPS</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1-tesla-expands-global-green-footprint-by-securing-major-renewable-energy-storage-agreement-in-china-insights-from-zdnet/"><u>1. Tesla Expands Global Green Footprint by Securing Major Renewable Energy Storage Agreement in China - Insights From ZDNet</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-top-10-high-definition-gaming-laptops-reviewed/"><u>2024 Approved Top 10 High-Definition Gaming Laptops Reviewed</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advancing-autonomous-vehicles-with-innovative-ml-research-insights-from-zdnet/"><u>Advancing Autonomous Vehicles with Innovative ML Research - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advancing-privacy-measures-over-worker-monitoring-within-transit-sectors-innovations-featured-on-zdnet/"><u>Advancing Privacy Measures Over Worker Monitoring Within Transit Sectors - Innovations Featured on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/amazon-prime-exclusive-perk-alert-score-free-25-off-airfare-for-students-revealed-by-zdnet/"><u>Amazon Prime Exclusive Perk Alert: Score Free $25 Off Airfare for Students, Revealed by ZDNet</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/animtech-full-audit-24-summary/"><u>AnimTech Full Audit '24 Summary</u></a></li>
+<li><a href="https://video-capture.techidaily.com/best-practices-to-avoid-sound-in-video-capture-for-2024/"><u>Best Practices to Avoid Sound in Video Capture for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-boost-interaction-with-crafted-ig-story-queries/"><u>In 2024, Boost Interaction with Crafted IG Story Queries</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-6s-plus-data-from-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 6s Plus Data From iTunes | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/remnant-mastered-seamless-gaming-without-interruptions/"><u>Remnant Mastered: Seamless Gaming Without Interruptions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/why-the-ultimate-drive-of-hyundai-ioniq-5-and-kia-ev6-stops-short-for-me-insights-from-a-car-enthusiast-zdnet-autoinsight/"><u>Why the Ultimate Drive of Hyundai Ioniq 5 and Kia EV6 Stops Short for Me – Insights From a Car Enthusiast | ZDNET AutoInsight</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/witness-the-future-of-food-tech-doordash-introduces-drone-delivery-in-select-us-cities-zdnet-news/"><u>Witness the Future of Food Tech: DoorDash Introduces Drone Delivery in Select U.S. Cities | ZDNET News</u></a></li>
 </ul></div>
 

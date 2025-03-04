@@ -1,7 +1,7 @@
 ---
 title: "Introducing Dell's New Gaming Powerhouse: A Portable Performer for Work & Play - Insights From ZDNet"
-date: 2025-02-10T18:18:15.329Z
-updated: 2025-02-15T16:42:16.589Z
+date: 2025-03-03T20:14:41.116Z
+updated: 2025-03-04T20:56:52.047Z
 tags:
   - laptops
 categories:
@@ -19,10 +19,6 @@ Cesar Cadenas/ZDNET
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -74,10 +70,6 @@ Speaking of video games, the gamers out there will love the device's screen. It'
 
 All this hardware does come with a power cost, however. While it's unplugged from a power source, the battery on the m16 R2 doesn't last very long despite all the tech meant to support its longevity. I performed my usual test of running an endlessly playing YouTube live stream at 720p and 50 percent brightness, and it lasted 6.5 hours with Best Power Efficient enabled. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## ZDNET's buying advice
 
 I recommend the [Alienware m16 R2](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.anrdoezrs.net%2Flinks%2F9041660%2Ftype%2Fdlg%2Fsid%2Fzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%2Fhttps%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fdell-laptops%2Falienware-m16-r2-gaming-laptop%2Fspd%2Falienware-m16-r2-laptop) to people who want a laptop that can pull double duty. It excels at being an entertainment/gaming machine but it's inconspicuous enough for the office. Prices for the laptop start at $1,549, but if you start upgrading the hardware to look something like my review unit, it'll cost you $1,849\. 
@@ -114,20 +106,24 @@ I should mention that it's possible to customize certain parts of the device eve
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/reative-vlog-ideas-for-daily-use/"><u>[New] Creative Vlog Ideas for Daily Use</u></a></li>
-<li><a href="https://win-forum.techidaily.com/1-descargar-archivo-de-audio-mp3-de-la-pelicula-en-hd-desde-mkv-sin-coste-conservacion-de-calidad-premium/"><u>1. Descargar Archivo De Audio MP3 De La Película en HD Desde .mkv Sin Coste - Conservación De Calidad Premium</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/chromebooks-best-capture-tools-no-cost/"><u>Chromebook's Best Capture Tools (No Cost)</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/googles-dominance-as-the-primary-creator-of-android-overladen-software/"><u>Google's Dominance as the Primary Creator of Android Overladen Software</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/how-cozi-transformed-our-home-into-an-oasis-of-order-a-testament-from-a-family/"><u>How Cozi Transformed Our Home Into an Oasis of Order: A Testament From a Family</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/how-ios-16-borrowed-these-13-ideas-from-android-according-to-tech-experts/"><u>How iOS 16 Borrowed These 13 Ideas From Android, According to Tech Experts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/how-removing-obsolete-android-programs-can-boost-your-phones-efficiency-and-speed/"><u>How Removing Obsolete Android Programs Can Boost Your Phone's Efficiency and Speed</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/how-to-perform-a-soft-reset-on-android-devices/"><u>How to Perform a Soft Reset on Android Devices</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/how-to-safeguard-against-identity-theft-by-securing-your-mobile-line/"><u>How to Safeguard Against Identity Theft by Securing Your Mobile Line</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-vivo-y77t-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Vivo Y77t | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-morning-judgment-creative-viewpoints/"><u>In 2024, Morning Judgment Creative Viewpoints</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-proven-methods-for-backdrop-cleansing-in-photoshop-enhanced-by-affinity/"><u>In 2024, Proven Methods for Backdrop Cleansing in Photoshop Enhanced by Affinity</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/premium-timepieces-for-your-dream-wedding-on-smartphones-for-2024/"><u>Premium Timepieces for Your Dream Wedding on Smartphones for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/top-rated-video-editing-solutions-for-creators/"><u>Top-Rated Video Editing Solutions for Creators</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/webmand/"><u>WebM動画が開けない場合、このヒントで解析&修正法 - テクニカルサポート</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1726809481690-x-plus-5x-n/"><u> [X + 5X = N </u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-action-cam-faceoff-the-best-of-both-worlds-hero5-black-and-hero4-silver/"><u>[New] Action Cam Faceoff The Best of Both Worlds – Hero5 Black & Hero4 Silver</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-your-ultimate-ps4-screen-recorder-inside-the-obs-studio-guide/"><u>[New] In 2024, Your Ultimate PS4 Screen Recorder Inside the OBS Studio Guide</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-accelerate-audience-engagement-with-high-impact-hash-tags/"><u>[Updated] 2024 Approved Accelerate Audience Engagement with High-Impact Hash Tags</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-quick-start-to-clear-background-filming/"><u>[Updated] In 2024, Quick Start to Clear Background Filming</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-soundtracks-for-snickers-ringtones-best-online-sources/"><u>[Updated] In 2024, Soundtracks for Snickers Ringtones' Best Online Sources</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-enigma-of-unlisted-deciphering-hidden-youtube-footage/"><u>[Updated] The Enigma of 'Unlisted' Deciphering Hidden YouTube Footage</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/amazon-fire-tv-showdown-expert-picks-for-the-ultimate-media-streamer-of-202n4-cnet-insights/"><u>Amazon Fire TV Showdown: Expert Picks for the Ultimate Media Streamer of 202N4 - CNet Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-hidden-gem-the-ultimate-speaker-setup-surpassing-bose-and-sonos-discovered/"><u>Best Hidden Gem: The Ultimate Speaker Setup Surpassing Bose & Sonos Discovered</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-in-class-comparing-the-lg-g4-to-the-samsung-s95d-oled-tvs-which-flagship-set-wins-zdnet/"><u>Best in Class: Comparing the LG G4 to the Samsung S95D OLED TVs - Which Flagship Set Wins? | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-value-tv-picks-the-constant-deals-of-a-top-ranked-sony-bravia-series-zdnets-recommendation/"><u>Best Value TV Picks: The Constant Deals of a Top-Ranked Sony Bravia Series – ZDNet's Recommendation</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/beyond-expectations-uncovering-stellar-audio-performance-that-surpasses-bose-and-sonos/"><u>Beyond Expectations: Uncovering Stellar Audio Performance That Surpasses Bose & Sonos</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/beyond-giants-exploring-the-ultimate-immersive-soundbar-alternative-tested-on-zdnet/"><u>Beyond Giants: Exploring The Ultimate Immersive Soundbar Alternative Tested on ZDNet!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/budget-friendly-smart-tv-picks-for-under-a-grand-professional-evaluation-zdnet/"><u>Budget-Friendly Smart TV Picks for Under a Grand - Professional Evaluation | ZDNet</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-decoding-the-clues-in-your-facebooks-unseen-activity-trail/"><u>In 2024, Decoding the Clues in Your Facebook's Unseen Activity Trail</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Infinix Smart 8 HD | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-silent-macs-effective-techniques-for-restoring-audio/"><u>Troubleshooting Silent Macs: Effective Techniques for Restoring Audio</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unleash-your-creative-potential-with-zooms-step-by-step-filter-guide/"><u>Unleash Your Creative Potential with Zoom's Step-by-Step Filter Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnets-picks-for-the-ultimate-roku-tv-selection-in-2er-2024-comprehensive-expert-ratings/"><u>ZDNet's Picks for the Ultimate Roku TV Selection in 2Er 2024: Comprehensive Expert Ratings</u></a></li>
 </ul></div>
 

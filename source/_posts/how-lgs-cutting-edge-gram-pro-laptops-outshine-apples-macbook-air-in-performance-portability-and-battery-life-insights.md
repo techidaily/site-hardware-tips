@@ -1,7 +1,7 @@
 ---
 title: How LG's Cutting-Edge Gram Pro Laptops Outshine Apple's MacBook Air in Performance, Portability, and Battery Life Insights
-date: 2025-02-09T20:45:03.031Z
-updated: 2025-02-15T20:15:04.763Z
+date: 2025-03-03T18:19:50.522Z
+updated: 2025-03-04T19:09:34.758Z
 tags:
   - laptops
 categories:
@@ -28,10 +28,6 @@ I spent a good hour and a half moving from station to station, from 240Hz ultraw
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. The numbers don't lie
 
 LG Gram Pro 16 2-in-1 (left) and the 15-inch Apple MacBook Air (right).
@@ -46,10 +42,6 @@ There I was, with two relatively large-sized, ultraportable laptops and a digita
 
 The LG Gram Pro 16 2-in-1 had already set the mark at 3.04 pounds. Then came the 15-inch MacBook Air, clocking in at 3.51 pounds. A slight sigh of relief could be felt behind me. How exactly does LG achieve this weight? They're chalking it up to the nano-magnesium alloy construction, which feels more plasticky than the MacBook's all-aluminum build, but which is noticeably lighter in the hand, especially when I moved the laptops around for pictures.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. It's all about the use of space
 
 Kerry Wan/ZDNET
@@ -60,10 +52,6 @@ The curvatures of the LG Gram Pro edges also mean that the company can fit more 
 
 As someone who still relies on legacy devices, such as hard drives, that have USB-A ports, the presence of the standard and added flexibility of the Gram makes it a better productivity laptop for me. It also helps to have the HDMI slot for when you're traveling and want to connect to a hotel TV or monitor.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. OLED makes all the difference
 
 Kerry Wan/ZDNET
@@ -73,10 +61,6 @@ Don't get me wrong, the Liquid Retina (IPS) display on the 15-inch MacBook Air i
 **Also: [OLED vs. QLED: Which is better for you?](https://www.zdnet.com/home-and-office/home-entertainment/oled-vs-qled/)**
 
 LG offers the new Gram Pro laptops in IPS and OLED variants, but the latter versions that I tested at the venue were noticeably sharper and more color-accurate. It helped that LG had set black wallpapers on the demo units, which made the individual icons and self-emissive pixels pop a little more.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## ZDNET's buying advice
 
@@ -114,16 +98,21 @@ LG prices its [OLED Gram Pro laptops](https://shop-links.co/link/?exclusive=1&pu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-enhancing-engagement-creating-top-tier-fb-ad-videos/"><u>[Updated] Enhancing Engagement Creating Top-Tier FB Ad Videos</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/can-you-use-5g-on-your-smartphone-learn-to-check-compatibility-now/"><u>Can You Use 5G on Your Smartphone? Learn to Check Compatibility Now</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/comprehensive-amazon-fire-max-89-inch-tablet-assessment-your-ultimate-entertainment-companion-on-the-go/"><u>Comprehensive Amazon Fire Max 8.9-Inch Tablet Assessment: Your Ultimate Entertainment Companion on the Go</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/comprehensive-assessment-of-samsung-galaxy-z-flip-5-expert-opinions-unveiled/"><u>Comprehensive Assessment of Samsung Galaxy Z Flip 5 - Expert Opinions Unveiled</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/comprehensive-winxdvd-ultimate-tutorial-step-by-step-installation-and-usage/"><u>Comprehensive WinXDVD Ultimate Tutorial: Step-by-Step Installation & Usage</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/connecting-peripherals-to-android-a-step-by-step-tutorial-for-mice-keyboards-and-gamepads/"><u>Connecting Peripherals to Android: A Step-by-Step Tutorial for Mice, Keyboards, and Gamepads</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-quick-start-with-screencastify-video-recording/"><u>In 2024, Quick Start with Screencastify Video Recording</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-of-whole-home-internet-solutions-a-review-of-asuss-orbi-wi-fi-6-system-for-speed-and-reliability/"><u>In-Depth Analysis of Whole Home Internet Solutions - A Review of ASUS's Orbi Wi-Fi 6 System for Speed and Reliability</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-data-analysis-building-a-pivot-table-using-microsoft-excels-features/"><u>Mastering Data Analysis: Building a Pivot Table Using Microsoft Excel's Features</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723208507104-overcome-missing-bluetooth-feature-problems-in-windows-10-with-easy-fixes/"><u>Overcome Missing Bluetooth Feature Problems in Windows 10 with Easy Fixes</u></a></li>
-<li><a href="https://games-able.techidaily.com/ultimate-finder-ps5-ssds-rated/"><u>Ultimate Finder: PS5 SSDs Rated</u></a></li>
+<li><a href="https://discover-best.techidaily.com/1-the-architect-of-modern-chinas-unity-a-look-at-qin-shi-huangs-legacy-yl-solutions/"><u>1. The Architect of Modern China's Unity: A Look at Qin Shi Huang's Legacy - YL Solutions</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-is-greyed-out-on-apple-iphone-se-how-to-bypass-by-drfone-ios/"><u>Apple ID is Greyed Out On Apple iPhone SE How to Bypass?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/augmented-reality-gaming-just-got-better-purchase-a-laptop-with-an-integrated-100/"><u>Augmented Reality Gaming Just Got Better: Purchase a Laptop With an Integrated 100</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/building-a-better-computer-how-dells-revolutionary-concept-luna-is-changing-the-game-for-tech-enthusiasts/"><u>Building a Better Computer: How Dell's Revolutionary Concept Luna Is Changing the Game for Tech Enthusiasts!</u></a></li>
+<li><a href="https://win-forum.techidaily.com/connecting-across-platforms-discover-facebook-twitter-instagram-and-youtubes-impact-on-communication/"><u>Connecting Across Platforms: Discover Facebook, Twitter, Instagram & YouTube's Impact on Communication</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-the-asus-vivobook-pro-now-with-a-300-discount-exclusive-deal-on-amazonzdnet-review/"><u>Get the ASUS VivoBook Pro Now with a $300 Discount - Exclusive Deal on Amazon![ZDNet Review]</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-change-your-itel-s23plus-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Itel S23+ Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-from-amateurs-to-pros-transformative-steps-in-gopro-timelapses/"><u>In 2024, From Amateurs to Pros Transformative Steps in GoPro Timelapses</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-lgs-new-lightest-gram-class-ultrabook-a-revolution-in-thin-computing-insights-from-zdnet/"><u>Introducing LG's New Lightest Gram-Class Ultrabook: A Revolution in Thin Computing - Insights From ZDNet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/maximizing-your-machines-potential-how-to-end-overbearing-system-load-from-shell-infrastructures/"><u>Maximizing Your Machine’s Potential – How to End Overbearing System Load From Shell Infrastructures</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/prepare-for-prime-time-savings-lenovo-business-laptops-slashed-by-900plus-ahead-of-octobers-prime-day-revealed-by-zdnet/"><u>Prepare for Prime Time Savings: Lenovo Business Laptops Slashed by $900+ Ahead of October's Prime Day, Revealed by ZDNet</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-photos-after-honor-x7b-has-been-deleted-by-fonelab-android-recover-photos/"><u>Recover your photos after Honor X7b has been deleted.</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/tech-review-showcase-exploring-the-genius-of-a-convertible-lenovo-laptop-tablet-combo-zdnet-insights/"><u>Tech Review Showcase: Exploring the Genius of a Convertible Lenovo Laptop-Tablet Combo | ZDNet Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-recommended-travel-tech-innovations-for-205-expert-picks/"><u>Top Recommended Travel Tech Innovations for 2^05: Expert Picks</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-vlc-lag-on-windows-devices/"><u>Troubleshooting VLC Lag on Windows Devices</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-zte-nubia-flip-5g-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your ZTE Nubia Flip 5G | Dr.fone</u></a></li>
 </ul></div>
 

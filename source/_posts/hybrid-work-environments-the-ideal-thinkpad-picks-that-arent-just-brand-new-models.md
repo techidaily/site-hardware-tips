@@ -1,7 +1,7 @@
 ---
 title: Hybrid Work Environments? The Ideal ThinkPad Picks That Aren't Just Brand-New Models
-date: 2025-02-08T19:07:55.364Z
-updated: 2025-02-15T17:16:21.062Z
+date: 2025-02-25T17:51:50.418Z
+updated: 2025-03-04T21:31:40.334Z
 tags:
   - laptops
 categories:
@@ -19,10 +19,6 @@ Cesar Cadenas/ZDNET
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -72,10 +68,6 @@ My review unit came with the Intel Core Ultra 7 155H processor, which allowed th
 
 These problems extended to the battery, too. I performed my usual battery test of playing a 720p YouTube video non-stop at 50 percent brightness to see how long it lasts. I do this to simulate an average day of work. On battery saver, the ThinkPad X1 Carbon lasted around five hours before dying. That's not very long. With the quirky performance in mind, all this leads me to believe that the ThinkPad's hardware isn't well optimized.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## ZDNET's buying advice
 
 I would recommend the [12th-generation ThinkPad X1 Carbon](https://shop-links.co/link/?url=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flaptops%2Fthinkpad%2Fthinkpadx1%2Fthinkpad-x1-carbon-gen-12-%2814-inch-intel%29%2Flen101t0083%3F&publisher_slug=itechdaily19598&exclusive=1) to just about everyone: casual users, professionals, programmers, and creators. There are a myriad of different ThinkPads out there, but this one stands out for its thoughtful attention to detail and improved design. Like all ThinkPads, it's durable and utilitarian, and light enough to commute to and from the office with. If you're someone that takes a lot of video calls, you'll love the webcam. 
@@ -112,20 +104,19 @@ There are a few different configurations you can choose for this machine, bringi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-venture-into-virtuality-comprehensively-reviewing-top-10-vr-streamers-for-2024/"><u>[New] Venture Into Virtuality Comprehensively Reviewing Top 10 VR Streamers for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-emoji-mastery-for-engaging-youtube-discussions-for-2024/"><u>[Updated] Emoji Mastery for Engaging YouTube Discussions for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1726221704834-pcx-gif-movavi/"><u>無限制網路直接過渡 PCX為 GIF - 使用 Movavi 編輯器</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-insights-on-the-enhanced-build-platform-and-multi-head-technology-featured-in-original-prusa-xl/"><u>Expert Insights on the Enhanced Build Platform & Multi-Head Technology Featured in Original Prusa XL</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/explore-the-latest-in-hardware-with-toms-detailed-reviews/"><u>Explore the Latest in Hardware with Tom's Detailed Reviews</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/hytes-innovative-nexus-link-transforms-how-you-build-rainbow-pcs-with-seamless-rgb-connectivity/"><u>Hyte's Innovative Nexus Link Transforms How You Build Rainbow PCs with Seamless RGB Connectivity</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-unveil-the-power-of-storytelling-in-your-facebook-bio/"><u>In 2024, Unveil the Power of Storytelling in Your Facebook Bio</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/inside-look-at-toms-hardware-test-reports-a-tech-enthusiasts-companion/"><u>Inside Look at Tom's Hardware Test Reports - A Tech Enthusiast's Companion</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/navigating-the-realm-of-time-lapses-gopro-hero-10-in-action/"><u>Navigating the Realm of Time Lapses GoPro Hero 10 in Action</u></a></li>
-<li><a href="https://fox-that.techidaily.com/overcome-whatsapps-camera-zoom-glitch-with-simple-fixes/"><u>Overcome WhatsApp's Camera Zoom Glitch with Simple Fixes</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-next-wave-in-additive-manufacturing-maker-built-submerged-3d-printer-designed-for-water-settings/"><u>The Next Wave in Additive Manufacturing: Maker-Built Submerged 3D Printer Designed for Water Settings</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-tech-review-destination-discovering-toms-hardware-secrets/"><u>The Ultimate Tech Review Destination: Discovering Tom's Hardware Secrets</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-tech-secrets-an-in-depth-look-into-modern-computer-components-by-tom/"><u>Unveiling Tech Secrets: An In-Depth Look Into Modern Computer Components by Tom</u></a></li>
-<li><a href="https://driver-install.techidaily.com/win-1178-msi-driver-upgrade-guide/"><u>Win 11/7/8: MSI Driver Upgrade Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/win-strategies-unlocking-your-gaming-directory/"><u>Win Strategies: Unlocking Your Gaming Directory</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-aerial-photography-revolution-with-mavic-pro/"><u>[Updated] Aerial Photography Revolution with Mavic Pro</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-the-loilo-game-recorder-complete-review-for-2024/"><u>[Updated] The LoiLo Game Recorder [Complete Review] for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1-china-surpasses-expectations-becomes-worlds-largest-and-quickest-expanding-hub-for-electric-vehicle-sales-insights-from-zdnet/"><u>1. China Surpasses Expectations: Becomes World's Largest and Quickest Expanding Hub for Electric Vehicle Sales - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/alarming-proposal-by-american-airlines-pilots-raises-concerns-and-customer-reactions-insight-from-zdnet/"><u>Alarming Proposal by American Airlines Pilots Raises Concerns & Customer Reactions - Insight From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/bluetooth-troubleshooting-tool-for-cars-check-engine-warning-signals-zdnet/"><u>Bluetooth Troubleshooting Tool for Car's Check Engine Warning Signals - ZDNet</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/como-replicar-tu-particion-de-emergencia-oculta-en-un-disco-ssd-sin-riesgos/"><u>Cómo Replicar Tu Partición De Emergencia Oculta en Un Disco SSD Sin Riesgos</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-easier-iphone-how-apples-latest-phone-outshines-its-ancestors-in-maintenance/"><u>Discover the Easier iPhone 지절리 수리: How Apple's Latest Phone Outshines Its Ancestors in Maintenance</u></a></li>
+<li><a href="https://win11.techidaily.com/improve-system-insights-with-hardware-monitoring-tiles/"><u>Improve System Insights with Hardware Monitoring Tiles</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-free-facebook-linker-top-8-options-available-online/"><u>In 2024, Free Facebook Linker Top 8 Options Available Online</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/juxtaposing-flight-with-flair-a-bebop-parrot-analysis-for-2024/"><u>Juxtaposing Flight with Flair – A Bebop Parrot Analysis for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/trasformare-i-file-mp3-in-avi-gratuitamente-online-utilizzando-e/"><u>Trasformare I File MP3 in AVI Gratuitamente Online Utilizzando E</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/upgrade-your-flight-comfort-with-the-ultimate-tech-gadgets-for-enhanced-air-travel-experience/"><u>Upgrade Your Flight Comfort with the Ultimate Tech Gadgets for Enhanced Air Travel Experience</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/us-based-electric-vehicle-ev-battery-production-samsung-sdi-and-general-motors-invest-3-billion-together/"><u>US-Based Electric Vehicle (EV) Battery Production: Samsung SDI & General Motors Invest $3 Billion Together</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/why-united-airlines-is-asking-for-a-higher-fee-an-in-depth-look/"><u>Why United Airlines Is Asking For A Higher Fee: An In-Depth Look</u></a></li>
 </ul></div>
 

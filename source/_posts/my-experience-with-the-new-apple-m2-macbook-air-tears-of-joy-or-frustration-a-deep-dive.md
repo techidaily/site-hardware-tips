@@ -1,7 +1,7 @@
 ---
 title: My Experience with the New Apple M2 MacBook Air - Tears of Joy or Frustration? A Deep Dive
-date: 2025-02-08T19:06:35.094Z
-updated: 2025-02-15T20:29:13.200Z
+date: 2025-02-25T20:59:44.302Z
+updated: 2025-03-04T22:19:07.275Z
 tags:
   - laptops
 categories:
@@ -22,10 +22,6 @@ Cliff Joseph/ZDNET
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **ZDNET** Recommends
 
 [![Best tech products of 2022](https://www.zdnet.com/a/img/resize/3f88838e500b465de59bf97859df4b8cc8a9cd8a/2022/12/21/5246df34-aab3-4419-a17e-d162c8160806/zdgg-2022-overall.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) ZDNET editors loved these tech products and gadgets in 2022 Trying to find the absolute best tech products of 2022? From the iPhone 14 Pro Max to the Kindle Scribe to the Oura Ring Gen 3 Horizon, here are ZDNET's top gadgets of the year.  Read now](https://www.zdnet.com/article/best-tech-2022/)
@@ -39,10 +35,6 @@ I can usually resist the latest, greatest, most hyped-up piece of technology.
 Until I'm sure I don't just want it, but need it. 
 
 Oh, all right, I may occasionally have a flexible definition of _need_.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The weakness. I just can't bear the weakness
 
@@ -74,17 +66,9 @@ And then there was the remarkable fact that an Apple store actually had the [mid
 
 Resistance was futile. Actually, it was non-existent, even if I still wondered whether this laptop could possibly be worth it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The lies I'd told myself
 
 With almost every gadget, it's one thing to play with it in a store. It's quite another to bring it into your daily life -- and I use a laptop at least 12 hours a day.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Featured reviews
 
@@ -118,10 +102,6 @@ But no tale this positive has a happy ending.
 So, as I write this, I'm staring into space, blaring at myself for being so impulsive.
 
 You see, but weeks after I bought my M2 Air, [the price began to descend](https://www.zdnet.com/article/apple-macbook-air-laptop-2022-m2-chip-cyber-monday-deals-2022-lowest-prices-ever/). Then it descended even more. Perhaps this is something to do with [the market prospects for laptops in 2023](https://www.zdnet.com/article/theres-a-long-cold-winter-ahead-for-pc-makers-that-could-be-good-news-for-pc-buyers/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Special Feature
 
@@ -169,20 +149,18 @@ Unless, that is, you're selling [a perfectly functional robot dog](https://www.z
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/ed-seamless-channel-transitions-with-customized-end-screens/"><u>[Updated] Seamless Channel Transitions with Customized End Screens</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-the-art-of-documenting-xbox-playtime-online-for-2024/"><u>[Updated] The Art of Documenting Xbox Playtime Online for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/corsairs-premium-air-a115-cpu-cooler-an-insightful-review-on-its-quiet-strong-performance-and-cost/"><u>Corsair's Premium Air A115 CPU Cooler - An Insightful Review on Its Quiet, Strong Performance and Cost</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-tips-on-crafting-beautiful-lithophanes-with-a-3d-printer-at-home/"><u>Expert Tips on Crafting Beautiful Lithophanes with a 3D Printer at Home</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-cutting-edge-hardware-with-toms-innovative-guides/"><u>Exploring Cutting-Edge Hardware with Tom's Innovative Guides</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/gratuit-gebaseerd-konvertor-von-mp4-naar-gif-professioneel-en-efficient-met-movavi/"><u>Gratuit Gebaseerd Konvertor Von MP4 Naar GIF: Professioneel en Efficiënt Met Movavi</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-solve-mkv-lagging-problem-in-xiaomi-redmi-13c-by-aiseesoft-video-converter-play-mkv-on-android/"><u>How to solve MKV lagging problem in Xiaomi Redmi 13C?</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-chromatic-brilliance-in-high-definition-blade-camera-review/"><u>In 2024, Chromatic Brilliance in High Definition Blade Camera Review</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-depth-look-techniques-for-screen-capturing-on-android/"><u>In-Depth Look Techniques for Screen Capturing on Android</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723175718206-introducing-x-apply-stencils-making-idiot-proof-temperature-improvement-easier-than-ever-coming-soon/"><u>Introducing X-Apply Stencils: Making 'Idiot-Proof' Temperature Improvement Easier than Ever - Coming Soon</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-modern-computing-with-toms-hardware-insights/"><u>Navigating Modern Computing with Tom's Hardware Insights</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolving-launch-problems-why-cant-i-get-outriders-running-on-my-computer/"><u>Resolving Launch Problems - Why Can't I Get Outriders Running on My Computer?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-choosing-a-vpn-expert-evaluations-and-customer-ratings/"><u>The Ultimate Guide to Choosing a VPN: Expert Evaluations and Customer Ratings</u></a></li>
-<li><a href="https://fox-that.techidaily.com/ultimate-fixes-what-to-do-when-your-iphone-misses-a-call/"><u>Ultimate Fixes: What To Do When Your iPhone Misses a Call</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-secrets-of-bambus-a1-slider-mattress-an-expert-review-and-performance-analysis-on-a-full-king-size/"><u>Unveiling the Secrets of Bambu's A1 Slider Mattress - An Expert Review and Performance Analysis on a Full King Size</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-stream-like-a-pro-top-5-cams-revolutionizing-live-broadcasts-on-twitch/"><u>[New] 2024 Approved Stream Like a Pro Top 5 Cams Revolutionizing Live Broadcasts on Twitch</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-starting-off-right-must-haves-for-youtube-enthusiasts/"><u>[Updated] Starting Off Right Must-Haves for YouTube Enthusiasts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-easy-path-to-great-audio-recordings-in-windows-11/"><u>[Updated] The Easy Path to Great Audio Recordings in Windows 11</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1-enhanced-traffic-and-insights-with-cutting-edge-cookiebot-technology/"><u>1. Enhanced Traffic & Insights with Cutting-Edge Cookiebot Technology</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-vlc-enthusiasts-guide-to-10-stealthy-tricks/"><u>2024 Approved VLC Enthusiast's Guide to 10 Stealthy Tricks</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-examining-the-performance-of-recmeister-for-screen-recording/"><u>In 2024, Examining the Performance of Recmeister for Screen Recording</u></a></li>
+<li><a href="https://fox-making.techidaily.com/repair-techniques-for-compromised-application-data-by-yl-software-experts/"><u>Repair Techniques for Compromised Application Data by YL Software Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/samsung-tablet-sale-alert-top-performing-non-flagship-model-available-this-labor-day-tech-insights/"><u>Samsung Tablet Sale Alert: Top-Performing Non-Flagship Model Available This Labor Day | Tech Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/samsung-unboxed-preordering-process-for-galaxy-z-fold-tab-s9-and-watch-6-at-rock-bottom-prices/"><u>Samsung Unboxed: Preordering Process for Galaxy Z Fold, Tab S9 & Watch #6 at Rock-Bottom Prices!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/save-almost-half-grab-a-4tb-samsung-t5-usb-c-ssd-from-amazon-exclusive-deal-covered-by-zdnet/"><u>Save Almost Half: Grab a 4TB Samsung T5 USB-C SSD From Amazon - Exclusive Deal Covered by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/secure-your-newest-ipad-deal-at-just-199-exclusive-amazon-labor-day-discount/"><u>Secure Your Newest iPad Deal at Just $199 - Exclusive Amazon Labor Day Discount!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-5-cutting-edge-smart-display-picks-unveiled-by-zdnet/"><u>Top 5 Cutting-Edge Smart Display Picks Unveiled by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-5-intelligent-display-models-find-your-perfect-choice-insights-from-zdnet/"><u>Top 5 Intelligent Display Models : Find Your Perfect Choice - Insights From ZDNet</u></a></li>
 </ul></div>
 

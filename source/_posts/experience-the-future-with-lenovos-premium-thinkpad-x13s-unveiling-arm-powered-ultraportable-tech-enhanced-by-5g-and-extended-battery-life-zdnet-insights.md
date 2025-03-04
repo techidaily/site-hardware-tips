@@ -1,7 +1,7 @@
 ---
 title: Experience the Future with Lenovo's Premium ThinkPad X13s - Unveiling Arm Powered Ultraportable Tech Enhanced by 5G and Extended Battery Life | ZDNet Insights
-date: 2025-02-12T21:40:30.765Z
-updated: 2025-02-15T20:06:52.116Z
+date: 2025-03-03T21:14:28.938Z
+updated: 2025-03-04T18:03:27.766Z
 tags:
   - laptops
 categories:
@@ -45,10 +45,6 @@ Image: Charles McLellan / ZDNET
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Design
 
 Lenovo's ThinkPads rarely stray far from the familiar black livery with red and silver accents, and the ThinkPad X13s is no exception. The chassis, which is made of magnesium-aluminium (top) and [GFRP](https://en.wikipedia.org/wiki/Fibre-reinforced%5Fplastic) (bottom), is Thunder Black in colour, with branding on the lid and wrist rest, the iconic red TrackPoint embedded in the keyboard, and three buttons above the trackpad. Lenovo says that 90% of the magnesium used in the chassis is recycled, as is 97% of the plastic in the speaker enclosure, while 90% of the packaging is recycled and/or sustainable. 
@@ -69,10 +65,6 @@ For connections, you're limited to two USB-C (3.2 Gen 2) ports on the left side,
 
 You can access the innards of the ThinkPad X13s by removing six screws and prising off the bottom cover, although upgrade options are limited. We did poke around inside our first review unit, which arrived with no functioning Wi-Fi and no access to the webcam, to no avail. Our second review unit worked just fine. For all its thin-and-lightness, the ThinkPad X13s is [MIL-STD-810H](https://en.wikipedia.org/wiki/MIL-STD-810)\-tested and should cope with the rigours of a mobile professional's routine. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Features
 
 As noted earlier, the ThinkPad X13s is powered by Qualcomm's latest [Snapdragon 8cx Gen 3](https://www.qualcomm.com/products/application/mobile-computing/snapdragon-8-series-mobile-compute-platforms/snapdragon-8cx-gen-3-compute-platform), a 5nnm SoC with 8 Kyro CPU cores (4 performance, 4 efficiency) and an Adreno 690 GPU. RAM is soldered onto the motherboard and, therefore, not user-upgradeable, and comes in 8GB, 16GB or 32GB capacities. Our review unit had 16GB, along with 256GB of M.2 2442 PCIe SSD storage (512GB and 1TB capacities are also available). 
@@ -82,10 +74,6 @@ The Snapdragon 8cx Gen 3 also handles wireless connectivity, supporting Wi-Fi 6E
 There are three screen options, all IPS panels with WUXGA (1920 x 1200) resolution: non-touch at 300 nits or 400 nits with lower power consumption and EyeSafe certification; and multi-touch at 300 nits with a 1000:1 contrast ratio rather than 1500:1 and 72% NTSC colour gamut support rather than 100% sRGB. Viewing angles are 170° across the board. Our review unit had the 300 nits non-touch screen, which although not suited for outdoor use is fine indoors. 
 
 As well as the biometric authentication methods noted earlier, the ThinkPad X13s includes internal security features such as a discrete TPM 2.0 chip, Microsoft's [Pluton TPM architecture](https://learn.microsoft.com/en-us/windows/security/information-protection/pluton/pluton-as-tpm) running on the Snapdragon 8cx Gen 3's SPU (Secure Processing Unit) and a self-healing BIOS. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Performance & battery life
 
@@ -114,10 +102,6 @@ Like the M2 MacBook Air, the ThinkPad X13s runs on a sufficiently low-power proc
 Thermal camera images of the ThinkPad X13s under load.
 
 Images: Charles McLellan / ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Conclusions
 
@@ -169,10 +153,6 @@ If 5G is a must-have feature, you can currently get the [HP Elite Dragonfly G3](
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Alternatives to consider
 
 [Dell XPS 13 View now at Dell](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.anrdoezrs.net%2Flinks%2F9041660%2Ftype%2Fdlg%2Fsid%2Fzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%2Fhttps%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fdell-laptops%2Fxps-13-laptop%2Fspd%2Fxps-13-9315-laptop)
@@ -218,18 +198,24 @@ If 5G is a must-have feature, you can currently get the [HP Elite Dragonfly G3](
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-conquer-youtube-searches-with-these-top-11-seo-strategies/"><u>[New] 2024 Approved Conquer YouTube Searches with These Top 11 SEO Strategies</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-refining-your-online-visual-experience-with-zooms/"><u>[Updated] Refining Your Online Visual Experience with Zooms</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-master-voice-customization-on-ps-playstation-devices/"><u>2024 Approved Master Voice Customization on PS PlayStation Devices</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/aio-price-war-winners-thermalright-frozen-notte-vs-deepcool-aqua-elite-v3-reviews-for-budget-builds/"><u>AIO Price War Winners: Thermalright Frozen Notte Vs. Deepcool Aqua Elite V3 Reviews for Budget Builds</u></a></li>
-<li><a href="https://win-best.techidaily.com/automated-word-recovery-saving-backup-files-with-myrecover/"><u>Automated Word Recovery: Saving Backup Files with MyRecover</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/beyond-bits-and-bytes-explore-cutting-edge-gear-at-toms-hardware-haven/"><u>Beyond Bits & Bytes: Explore Cutting-Edge Gear at Tom's Hardware Haven</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/navigate-through-the-top-6-must-play-super-mario-games-for-personal-computers/"><u>Navigate Through the Top 6 Must-Play Super Mario Games for Personal Computers</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/overcoming-common-hurdles-reviving-your-3d-printers-bed-heater-and-maximizing-performance/"><u>Overcoming Common Hurdles: Reviving Your 3D Printer's Bed Heater and Maximizing Performance</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-best-raspberry-pi-hat-selections-of-the-year-find-your-perfect-2024-add-on-solution/"><u>The Best Raspberry Pi HAT Selections of the Year: Find Your Perfect 2024 Add-On Solution!</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unboxing-and-testing-the-hisense-40-5590f-an-ideal-choice-for-cost-conscious-viewers/"><u>Unboxing and Testing the Hisense 40 5590F: An Ideal Choice for Cost-Conscious Viewers</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-gadgets-with-toms-electronic-guides/"><u>Unveiling the Latest Gadgets with Tom's Electronic Guides</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-hands-on-with-avs-video-editor-a-thorough-review-and-guide-for-2024/"><u>Updated Hands-On with AVS Video Editor A Thorough Review and Guide for 2024</u></a></li>
-<li><a href="https://media-tips.techidaily.com/weekly-update-exclusive-insights-on-latest-windows-notebooks-and-hidden-strategies-of-spotify/"><u>Weekly Update: Exclusive Insights on Latest Windows Notebooks & Hidden Strategies of Spotify</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-breathe-new-life-into-your-ig-story-with-simple-animated-text-tips/"><u>[New] Breathe New Life Into Your IG Story with Simple Animated Text Tips</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-revolutionize-your-social-media-top-downloader-plugins-and-addons-for-fb-on-firefox/"><u>[New] In 2024, Revolutionize Your Social Media Top Downloader Plugins and Addons for FB on Firefox</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-evaluating-active-8-does-it-match-best-recording-standards-in-2024/"><u>[Updated] Evaluating Active 8 - Does It Match Best Recording Standards, In 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/-immersive-realms-top-10-youtubes-most-captivating-vr-videos-for-2024/"><u>Enter Immersive Realms Top 10 YouTube's Most Captivating VR Videos for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/expert-guide-selecting-the-ideal-sites-and-techniques-for-trimming-tamil-melodies-for-2024/"><u>Expert Guide Selecting the Ideal Sites & Techniques for Trimming Tamil Melodies for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/false-alarm-a-real-chatgpt-windows-application-doesnt-exist-its-a-cyber-threat-in-disguise/"><u>False Alarm: A Real ChatGPT Windows Application Doesn't Exist; It’s a Cyber Threat In Disguise</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-out-of-recovery-or-dfu-mode-on-iphone-se-2022-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of Recovery or DFU Mode on iPhone SE (2022)? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-s23plus-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Samsung Galaxy S23+ Phone without Any Data Loss</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-vivo-v27e-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Vivo V27e</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/strategies-for-succeeding-with-facebook-video-marketing-and-revenue-for-2024/"><u>Strategies for Succeeding with Facebook Video Marketing and Revenue for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/teslas-innovative-ota-upgrade-enhances-vehicle-safety-the-latest-breakthrough-covered-by-zdnet/"><u>Tesla's Innovative OTA Upgrade Enhances Vehicle Safety - The Latest Breakthrough Covered by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-indispensable-2022-drone-add-ons-revealed-featured-on-zdnet/"><u>The Ultimate Guide to Indispensable 2022 Drone Add-Ons Revealed | Featured on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-5-premium-wireless-phone-charging-pads-techradar/"><u>Top 5 Premium Wireless Phone Charging Pads | TechRadar</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-5-southwest-airlines-credit-cards-reviews-and-comparison/"><u>Top 5 Southwest Airlines Credit Cards - Reviews & Comparison</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranked-portable-car-jump-starters-industry-reviews-and-ratings-techradar/"><u>Top-Ranked Portable Car Jump Starters - Industry Reviews & Ratings | TechRadar</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-2024-car-battery-charger-reviews-and-comparisons-zdnets-comprehensive-guide/"><u>Top-Rated 2024 Car Battery Charger Reviews and Comparisons – ZDNet's Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/understanding-us-air-travel-disruptions-unveiling-the-reasons-behind-the-recent-federal-aviation-administration-faa-system-failure-insights-from-zdnet/"><u>Understanding US Air Travel Disruptions: Unveiling the Reasons Behind the Recent Federal Aviation Administration (FAA) System Failure - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unfortunate-billing-practices-catch-passengers-off-guard-with-southwest-airlines-a-closer-look/"><u>Unfortunate Billing Practices Catch Passengers Off Guard with Southwest Airlines – A Closer Look</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/united-states-air-travel-disruptions-decoded-investigating-behind-the-faas-groundbreaking-software-failure-tech-insights/"><u>United States Air Travel Disruptions Decoded: Investigating Behind the FAAs Groundbreaking Software Failure | Tech Insights</u></a></li>
 </ul></div>
 

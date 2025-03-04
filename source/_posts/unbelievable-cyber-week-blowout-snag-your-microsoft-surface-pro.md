@@ -1,7 +1,7 @@
 ---
 title: "Unbelievable Cyber Week Blowout: Snag Your Microsoft Surface Pro"
-date: 2025-02-08T17:48:17.210Z
-updated: 2025-02-15T19:09:39.129Z
+date: 2025-02-26T16:26:33.836Z
+updated: 2025-03-04T17:46:02.871Z
 tags:
   - laptops
 categories:
@@ -32,10 +32,6 @@ You'll hear and see more about these branded laptops over the coming weeks, mont
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. More seamless on-device AI features
 
 Kerry Wan/ZDNET
@@ -50,10 +46,6 @@ Having a dedicated Copilot key certainly adds to this burdenless experience. As 
 
 Perhaps the most important aspect of these new Copilot+ AI features is that they operate [on-device](https://www.zdnet.com/article/5-top-mobile-trends-in-2024-on-device-ai-the-new-smartphone-and-more/#:~:text=to%20take%20shape.-,1.%20On%2Ddevice%20AI%20puts%20the%20%27smart%27%20in%20smartphone,-The%20new%20Samsung) \-- based on local data, providing more private, secure, and faster processing capabilities. To everyday users, this may not be as significant. If, however, keeping your personal data protected (and away from any [remote cloud servers](https://www.zdnet.com/article/ai-is-changing-cybersecurity-and-businesses-must-wake-up-to-the-threat/)) is a priority, you'll feel a little better using the AI features on these new Copilot+ PCs.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Windows Hello feels faster than ever
 
 Kerry Wan/ZDNET
@@ -66,10 +58,6 @@ Comparing my M3 MacBook Air with the Surface Laptop is not exactly an apples-to-
 
 The best part is that Windows Hello automatically triggers when I lift the laptop lid open, and it's able to scan my face even in dimmer environments thanks to the IR camera.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Touchscreen support
 
 Kerry Wan/ZDNET
@@ -81,10 +69,6 @@ I know. Much like Windows Hello, touchscreen support has always been a key advan
 For example, the new Cocreator tool in Paint requires you to both write a prompt for image generation _and_ draw a base sketch for Copilot to work with. Normally, I'd struggle with drawing circles and straight lines on a trackpad, but I didn't have to on the Surface Laptop. Instead, I just pulled the laptop closer and began sketching with my finger. 
 
 While I've always found touchscreen functionality to be more beneficial on larger screens, using the smaller [13.8-inch Surface Laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMicrosoft-Surface-Touchscreen-Snapdragon-Sapphire%2Fdp%2FB0CXKYTQS2%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbb333cb2-55bd-4be8-b483-37eb33b9452e%7Cdtp&dtb=1) feels more like a 2-in-1 tablet. When my typing space is confined, like on a bus, plane, or crowded café, being able to simply reach over and tap, swipe, and drag elements on the screen is very helpful and intuitive. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Bonus: Benchmarks (for now)
 
@@ -125,22 +109,24 @@ For the following benchmark tests, the higher the score, the better.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-intrinsic-storytelling-principles/"><u>[New] In 2024, Intrinsic Storytelling Principles</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-master-picks-for-commercial-cloud-space/"><u>[New] Master Picks for Commercial Cloud Space</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-transform-your-mac-with-the-latest-macos-11-big-sur-overview/"><u>[New] Transform Your Mac with the Latest MacOS 11 Big Sur Overview</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-voice-log-retrieval-content-scrutiny-for-2024/"><u>[Updated] Voice Log Retrieval, Content Scrutiny for 2024</u></a></li>
-<li><a href="https://discover-advanced.techidaily.com/ogg-and/"><u>音楽データをOGGと他の形式に切り替える方法 - 変換 & 逆変�</u></a></li>
-<li><a href="https://android-frp.techidaily.com/easy-guide-how-to-bypass-realme-c33-2023-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Realme C33 2023 FRP Android 10/11/12/13</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/introducing-the-high-end-sophisticated-google-pixel-fold-the-epitome-of-folding-phones/"><u>Introducing the High-End, Sophisticated Google Pixel Fold - The Epitome of Folding Phones.</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/live-subtitles-now-available-on-pixel-phones-during-call-conversations/"><u>Live Subtitles Now Available on Pixel Phones During Call Conversations</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-mobile-maintenance-ultimate-strategies-for-debugging-your-android-device/"><u>Mastering Mobile Maintenance: Ultimate Strategies for Debugging Your Android Device</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/prolong-your-androids-life-tailored-charge-alerts/"><u>Prolong Your Android's Life - Tailored Charge Alerts</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723203524814-resolving-overwatch-voice-chat-failures-fast-effective-solutions-at-hand/"><u>Resolving Overwatch Voice Chat Failures Fast – Effective Solutions at Hand</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/review-of-boox-tab-mini-a-compact-and-vibrant-colored-e-reader-alternative-for-amazon-kindle-users/"><u>Review of Boox Tab Mini: A Compact and Vibrant Colored E-Reader Alternative for Amazon Kindle Users</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/score-big-savings-on-technology-must-haves-including-googles-new-pixel-ebeam-qled-tv-and-hisense-smart-earbuds/"><u>Score Big Savings on Technology Must-Haves - Including Google's New Pixel Ebeam QLED TV & Hisense Smart Earbuds!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/securing-your-device-during-crisis-step-by-step-instructions-for-using-androids-lockdown-feature/"><u>Securing Your Device During Crisis: Step-by-Step Instructions for Using Android's Lockdown Feature</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/smart-traveling-locating-convenient-gas-stops-with-google-maps-directions-feature/"><u>Smart Traveling: Locating Convenient Gas Stops with Google Map's Directions Feature</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/streamlined-guide-transforming-youtube-media-to-audio-format-with-mp3-conversion-techniques/"><u>Streamlined Guide: Transforming YouTube Media to Audio Format with MP3 Conversion Techniques</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/trier-avi-en-mp4-gratuitement-via-une-plateforme-en-ligne/"><u>Trier AVI en MP4 Gratuitement via Une Plateforme en Ligne</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-empowering-your-brand-top-20-strategies-for-high-impact-fb-video-campaigns-for-2024/"><u>[New] Empowering Your Brand Top 20 Strategies for High-Impact FB Video Campaigns for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/eizing-youtubes-algorithm-advantage-with-smart-seo-tactics/"><u>[New] Seizing YouTube's Algorithm Advantage with Smart SEO Tactics</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-facebooks-viewing-wave-the-hottest-videos-this-year/"><u>[Updated] Facebook’s Viewing Wave The Hottest Videos This Year</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-filtering-the-truth-in-your-insta-network-for-2024/"><u>[Updated] Filtering the Truth in Your Insta Network for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-action-cams-duel-black-hero5-against-sj7/"><u>2024 Approved Action Cams Duel Black Hero5 Against SJ7</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/choosing-between-lg-g4-and-samsung-s95d-a-detailed-comparison-of-top-tier-oled-televisions-for-your-home-entertainment-system/"><u>Choosing Between LG G4 and Samsung S95D: A Detailed Comparison of Top-Tier OLED Televisions for Your Home Entertainment System</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/choosing-your-ultimate-home-entertainment-lg-g3-vs-samsung-s95c-oled-tv-showdown-tech-analysis/"><u>Choosing Your Ultimate Home Entertainment: LG G3 Vs. Samsung S95C OLED TV Showdown | Tech Analysis</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/creative-windows-artistry-free-to-feed-tools-guide/"><u>Creative Windows Artistry - FREE to FEE'd Tools Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/cutting-energy-expenses-made-easy-discover-the-5-tv-adjustments-that-worked-for-me-zdnet/"><u>Cutting Energy Expenses Made Easy: Discover the 5 TV Adjustments that Worked for Me (ZDNET)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-exceptional-alternatives-to-samsung-and-lg-with-our-best-qled-picks-hdtv-experts-at-zdnet/"><u>Discover Exceptional Alternatives to Samsung and LG with Our Best QLED Picks | HDTV Experts at ZDNET</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/elevate-your-console-experience-with-the-asus-vg245h-screen/"><u>Elevate Your Console Experience With the Asus VG245H Screen</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/enhance-your-viewing-pleasure-expert-tips-to-optimize-projector-settings-for-stunning-imagery-zdnet/"><u>Enhance Your Viewing Pleasure: Expert Tips to Optimize Projector Settings for Stunning Imagery | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/explore-the-ultimate-list-of-superior-tv-racks-for-2er-2023-insights-from-zdnet/"><u>Explore the Ultimate List of Superior TV Racks for 2Er 2023 - Insights From ZDNET</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-vivo-y100-5g-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo Y100 5G in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/huge-1500-discount-how-the-samsung-qn95a-oled-surpassed-all-my-expectations-shop-today/"><u>Huge $1,500 Discount: How the Samsung QN95A OLED Surpassed All My Expectations - Shop Today!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/huge-savings-on-the-new-85-tcl-smart-led-only-900-before-labor-day-shop-now/"><u>Huge Savings on the New 85 TCL Smart LED - Only $900 Before Labor Day! Shop Now!</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-the-ultimate-choice-for-affordable-virtual-meetings-online/"><u>In 2024, The Ultimate Choice for Affordable Virtual Meetings Online</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-tcls-spectacular-115-inch-mini-led-tv-a-breakthrough-in-visual-experience-screentech-today/"><u>Introducing TCL's Spectacular 115-Inch Mini LED TV : A Breakthrough in Visual Experience | ScreenTech Today</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/mastering-backup-solutions-decoding-common-aomei-cyber-error-codes-for-seamless-restoration/"><u>Mastering Backup Solutions: Decoding Common AOMEI Cyber Error Codes for Seamless Restoration</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Score an Asus 15-Inch Laptop for $250 + Full Ports Availability | Shop Now at Walmart
-date: 2025-02-13T19:23:07.608Z
-updated: 2025-02-15T19:57:26.328Z
+date: 2025-03-02T22:06:19.331Z
+updated: 2025-03-04T16:58:58.916Z
 tags:
   - laptops
 categories:
@@ -49,10 +49,6 @@ Finally, one of the best parts of the Vivobook line are these laptops' bold desi
 
 All in all, if you're looking for a sleek, lightweight travel laptop or a backup machine while working remotely, the [Vivobook Go 15.6](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FASUS-Vivobook-Go-15-6-PC-Laptop-Intel-i3-N305-8GB-256GB-Win-11-Home-S-mode-Mixed-Black-E1504GA-WS36%2F5727766555&subId1=zd-__COM_CLICK_ID__-dtp) has a nice-sized screen that's not too big or too small for only $249 ($80 off at the time of writing). The full-sized keyboard offers a comfortable work setup, and the generous port selections make this computer well-rounded enough for a variety of everyday use cases. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## When will this deal expire?
 
 Deals are subject to sell out or expire at any time, though ZDNET remains committed to finding, sharing, and updating the best product deals for you to score the best savings. Our team of experts regularly checks in on the deals we share to ensure they are still live and obtainable. We're sorry if you've missed out on this deal, but don't fret -- we're constantly finding new chances to score savings and sharing them with you at [ZDNET.com](https://www.zdnet.com/). 
@@ -87,22 +83,21 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-instagram-shines-mastering-the-art-of-content-highlights-for-2024/"><u>[New] Instagram Shines Mastering the Art of Content Highlights for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-the-ultimate-iphoneipad-video-and-image-archive-for-2024/"><u>[New] The Ultimate iPhone/iPad Video & Image Archive for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-exploring-the-depths-of-fraps-recorders/"><u>[Updated] Exploring the Depths of Fraps Recorders</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-engaging-audien-writes-and-converting-followers-through-instigra/"><u>[Updated] In 2024, Engaging Audien Writes and Converting Followers Through Instigra</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/fix-ios-videos-wont-stream-on-your-windows-laptop-or-desktop/"><u>Fix: IOS Videos Won't Stream on Your Windows Laptop or Desktop</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/future-proof-choices-leading-3d-printing-filaments/"><u>Future-Proof Choices: Leading 3D Printing Filaments</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-14-plus-without-losing-data-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Reset iPhone 14 Plus without Losing Data? | Stellar</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-how-to-choose-the-background-music-for-the-trailer/"><u>In 2024, How to Choose the Background Music for the Trailer</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-samsung-galaxy-a24-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Samsung Galaxy A24 | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/inside-look-at-cutting-edge-technology-toms-equipment-hub/"><u>Inside Look at Cutting-Edge Technology - Tom's Equipment Hub</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-through-top-notch-computing-devices-at-toms-tech-blog/"><u>Navigating Through Top-Notch Computing Devices at Tom's Tech Blog</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-comprehensive-guides-on-all-things-hardware/"><u>Tom's Tech Hub: Comprehensive Guides on All Things Hardware</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-in-depth-analysis-and-reviews/"><u>Tom's Tech Review: In-Depth Analysis & Reviews</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-ps5-solid-state-drives-optimal-nvme-options-enhancing-console-performance/"><u>Top PS5 Solid State Drives: Optimal NVMe Options Enhancing Console Performance</u></a></li>
-<li><a href="https://techtrends.techidaily.com/transforma-tu-contenido-audiovisual-descubre-como-winxvideo-ai-mejora-la-excelencia-en-calidad-de-video/"><u>Transforma Tu Contenido Audiovisual: Descubre Cómo Winxvideo AI Mejora La Excelencia en Calidad De Video</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-selection-of-small-form-factor-pc-boxes-for-2n4-best-mini-itx-cases-reviewed/"><u>Ultimate Selection of Small Form Factor PC Boxes for 2N4, Best Mini-ITX Cases Reviewed</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unpacking-the-features-and-benefits-of-the-lian-li-hydroshift-lcd-360s-reviewed/"><u>Unpacking the Features and Benefits of the Lian Li Hydroshift LCD 360S Reviewed</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-essential-techniques-for-saving-mobile-gameplay/"><u>[New] 2024 Approved Essential Techniques for Saving Mobile Gameplay</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-interpreting-user-inactivity-could-it-be-a-blocked-status/"><u>[New] 2024 Approved Interpreting User Inactivity Could It Be a Blocked Status?</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-excellence-index-photoplustune-recording-software/"><u>[New] In 2024, Excellence Index Photo+Tune Recording Software</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-refined-lineup-of-conversation-starters-for-podcasting/"><u>[Updated] Refined Lineup of Conversation Starters for Podcasting</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-superior-2-written-by-robert-littell/"><u>[Updated] Superior 2 Written by Robert Littell</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-achieve-fluent-fb-video-posting-windows-linux-ios-and-android-tips/"><u>2024 Approved Achieve Fluent FB Video Posting Windows, Linux, iOS & Android Tips</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/beware-of-these-5-notorious-chatgpt-scams-protect-yourself-today/"><u>Beware of These 5 Notorious ChatGPT Scams – Protect Yourself Today</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/electric-future-fuels-as-gm-and-samsung-sdi-announce-joint-venture-planning-3-billion-ev-battery-plant-in-america/"><u>Electric Future Fuels as GM and Samsung SDI Announce Joint Venture, Planning $3 Billion EV Battery Plant in America</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elon-musk-reveals-tesla-cybertrucks-amphibious-abilities-for-river-lake-and-sea-crossings-tech-news-by-zdnet/"><u>Elon Musk Reveals Tesla Cybertruck's Amphibious Abilities for River, Lake & Sea Crossings | Tech News by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/enhanced-audio-experience-in-teslas-with-upcoming-airplay-compatibility-carplay-not-on-the-table/"><u>Enhanced Audio Experience in Teslas with Upcoming AirPlay Compatibility; CarPlay Not on the Table</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/essential-gear-upgrades-top-4-accessories-every-dji-mini-3-pro-pilot-needs-insights-from-zdnet/"><u>Essential Gear Upgrades: Top 4 Accessories Every DJI Mini 3 Pro Pilot Needs - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/essential-travel-credit-cards-for-first-time-users-a-guide-by-zdnet/"><u>Essential Travel Credit Cards for First-Time Users: A Guide by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-future-of-transportation-how-chinas-sky-train-combines-magnetic-levitation-and-ai-to-redefine-rail-travel-insights-from-zdnet/"><u>Exploring the Future of Transportation: How China's Sky Train Combines Magnetic Levitation and AI to Redefine Rail Travel | Insights From ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/hilarious-request-how-southwest-airlines-is-encouraging-unusual-customer-actions-techinsights/"><u>Hilarious Request: How Southwest Airlines Is Encouraging Unusual Customer Actions | TechInsights</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-poco-c65-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Poco C65? | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/shift-photo-realism-to-a-more-distinctive-outer-glow-psx/"><u>Shift Photo Realism to a More Distinctive Outer Glow PSX</u></a></li>
 </ul></div>
 

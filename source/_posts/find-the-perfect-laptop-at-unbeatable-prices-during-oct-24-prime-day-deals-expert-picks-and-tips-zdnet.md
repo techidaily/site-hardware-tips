@@ -1,7 +1,7 @@
 ---
 title: Find the Perfect Laptop at Unbeatable Prices During Oct '24 Prime Day Deals | Expert Picks and Tips | ZDNET
-date: 2025-02-12T20:09:38.556Z
-updated: 2025-02-15T16:09:08.836Z
+date: 2025-03-03T21:17:54.081Z
+updated: 2025-03-04T22:06:39.762Z
 tags:
   - laptops
 categories:
@@ -24,10 +24,6 @@ HP includes an AMD Radeon RX 6550M graphics card and a screen capable of a 144Hz
 **Also: [The best budget gaming laptops: Expert tested](https://www.zdnet.com/article/best-budget-gaming-laptop/)** 
 
 With 8GB of RAM, a 512GB SSD, and an AMD Ryzen 5 7000 series processor, this system has quick speeds and the ability to put the power to where your system needs it most. But, you'd think with all the powerful components in this laptop, the battery life would suffer. Wrong. This laptop features a battery that can last up to 8 hours and 15 minutes while being able to be charged up to 50% in as little as 30 minutes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -63,22 +59,24 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-brief-snippet-analysis-for-beginners/"><u>[New] In 2024, Brief Snippet Analysis for Beginners</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/2-guia-simple-configurar-backup-restore-points-en-windows-server-2cuatro-r2-edition/"><u>2. Guía Simple: Configurar Backup Restore Points en Windows Server 2Cuatro R2 Edition</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-gigglegadget-assistant/"><u>2024 Approved GiggleGadget Assistant</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/affordable-ultimate-chill-with-the-id-cooling-fx360-pro-top-reviews/"><u>Affordable Ultimate Chill with the ID-Cooling FX360 Pro – Top Reviews</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/el-your-inner-videographer-to-produce-top-tier-edu-videos-for-2024/"><u>Channel Your Inner Videographer to Produce Top-Tier Edu-Videos for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-hardware-insights-by-tom-your-trusted-resource/"><u>Expert Hardware Insights by Tom - Your Trusted Resource</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-high-performance-computing-at-toms-hardware-insights/"><u>Exploring High-Performance Computing at Tom's Hardware Insights</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Nokia C12 Pro? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-14-pro-max-to-other-iphone-12-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 14 Pro Max to other iPhone 12 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-detailed-guide-on-removing-iphone-xr-activation-lock-without-previous-owner-by-drfone-ios/"><u>In 2024, Detailed Guide on Removing iPhone XR Activation Lock without Previous Owner?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigate-through-top-gadgets-and-pc-parts-at-toms-hardware-destination/"><u>Navigate Through Top Gadgets and PC Parts at Tom's Hardware Destination</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/next-gen-chill-noctua-unveils-massive-cooler-for-nvidias-advanced-grace-hopper-processor/"><u>Next-Gen Chill: Noctua Unveils Massive Cooler for Nvidia's Advanced Grace Hopper Processor</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ent-your-youtube-presence-a-guide-to-elevated-subscription-rates-for-2024/"><u>Reinvent Your YouTube Presence A Guide to Elevated Subscription Rates for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-computer-reviews-expert-insights-on-hardware/"><u>Tom's Computer Reviews: Expert Insights on Hardware</u></a></li>
-<li><a href="https://fox-http.techidaily.com/unified-social-media-platforms-insta-tik-techniques/"><u>Unified Social Media Platforms Insta-Tik Techniques</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unraveling-the-complexities-of-tech-gear-with-toms-hardware-wisdom/"><u>Unraveling the Complexities of Tech Gear with Tom's Hardware Wisdom</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/valkyrie-vind-sl125-the-challenge-of-delivering-on-its-adorably-designed-promise/"><u>Valkyrie Vind SL125: The Challenge of Delivering on Its Adorably Designed Promise</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-android-mac-video-archiving-a-snap-solution-guide/"><u>[New] In 2024, Android-Mac Video Archiving A Snap Solution Guide</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-sounding-superior-a-guide-to-altering-voice-on-reels-and-stories-for-2024/"><u>[New] Sounding Superior A Guide to Altering Voice on Reels & Stories for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-instagram-stories-unseen-aspects-revealed/"><u>[Updated] 2024 Approved Instagram Stories Unseen Aspects Revealed</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-maximizing-income-mastering-short-video-markets/"><u>2024 Approved Maximizing Income Mastering Short Video Markets</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-infinix-smart-8-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Infinix Smart 8 | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/explore-the-ultimate-selection-of-best-southwest-credit-cards-for-flyers-forbes/"><u>Explore the Ultimate Selection of Best Southwest Credit Cards for Flyers | Forbes</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-ready-for-vision-pros-travel-mode-key-insights-and-preparation-tips-zdnet/"><u>Get Ready for Vision Pro’s Travel Mode - Key Insights and Preparation Tips | ZDNet</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-newest-hp-officejet-pro-cu8720-driver-software-compatible-with-windows-pcs/"><u>Get the Newest HP OfficeJet Pro Cu8720 Driver Software Compatible with Windows PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-easily-transform-mp3-audio-to-aiff-file-type-online-at-no-cost-movavis-solution/"><u>How to Easily Transform MP3 Audio to AIFF File Type Online at No Cost: Movavi's Solution</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/il-meglio-dei-converteri-mp4-per-iphone-trasforma-mov-mkv-e-video-di-youtube-in-formato-mp4-con-facilita/"><u>Il Meglio Dei Converteri MP4 per iPhone: Trasforma MOV, MKV E Video Di YouTube in Formato MP4 Con Facilità</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-crafting-spectaculous-1080p-streams-on-fb-groups/"><u>In 2024, Crafting Spectaculous 1080P Streams on FB Groups</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-huawei-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Huawei Phone FRP Lock</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-kalk-and-cakes-electric-motorbike-your-ideal-work-and-play-vehicle-discover-more-at-zdnet/"><u>Introducing Kalk & Cake's Electric Motorbike: Your Ideal Work and Play Vehicle - Discover More at ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-the-dji-mini-3-tailored-for-novices-yet-packed-with-professional-grade-capabilities-detailed-review/"><u>Introducing the DJI Mini 3: Tailored for Novices Yet Packed with Professional-Grade Capabilities - Detailed Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/is-using-a-car-charger-safe-for-my-iphone-latest-test-results-from-top-in-car-chargers-show-promise-zdnet/"><u>Is Using a Car Charger Safe for My iPhone? Latest Test Results From Top In-Car Chargers Show Promise | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/kalk-cake-electric-bike-the-perfect-fusion-of-utility-and-fun-rides-for-commuting-and-adventures-zdnet/"><u>Kalk Cake Electric Bike: The Perfect Fusion of Utility & Fun Rides for Commuting & Adventures | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/major-tesla-vehicle-recall-self-parking-software-glitch-prompts-action-on-360k-units-details-by-zdnet/"><u>Major Tesla Vehicle Recall: Self-Parking Software Glitch Prompts Action on 360K Units, Details by ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/massive-70-discount-on-the-huffy-oslo-folding-electric-bicycle-limited-time-offer/"><u>Massive 70% Discount on the Huffy Oslo Folding Electric Bicycle - Limited Time Offer!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-challenges-of-in-flight-internet-access-potential-solutions-in-the-horizon/"><u>Navigating the Challenges of In-Flight Internet Access: Potential Solutions in the Horizon</u></a></li>
 </ul></div>
 

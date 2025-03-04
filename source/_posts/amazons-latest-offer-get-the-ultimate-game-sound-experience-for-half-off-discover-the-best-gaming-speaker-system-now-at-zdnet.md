@@ -1,7 +1,7 @@
 ---
 title: Amazon's Latest Offer! Get the Ultimate Game Sound Experience for Half Off – Discover the Best Gaming Speaker System Now at ZDNET.
-date: 2025-02-09T17:49:06.308Z
-updated: 2025-02-15T16:43:58.177Z
+date: 2025-03-01T16:13:48.617Z
+updated: 2025-03-04T16:56:14.763Z
 tags:
   - laptops
 categories:
@@ -19,10 +19,6 @@ Taylor Clemons/ZDNET
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### ZDNET takeaways
 
@@ -78,10 +74,6 @@ The speaker system is also excellent for streaming music; I played the [Old Gods
 
 My one big complaint about the SteelSeries Arena 9 is that you really do feel that drop in control when dealing with a device that's been connected via USB or optical cable. The OLED dial allows you to choose between a few different presets but only offers a single option for a custom sound profile. In contrast, the Sonar app lets you create a custom soundscape for every media type and connected device. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## ZDNET's buying advice
 
 There is a lot that comes with the [SteelSeries Arena 9](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsteelseries-arena-9-5-1-bluetooth-gaming-speakers-with-rgb-lighting-6-piece-black%2F6515591.p%3FskuId%3D6515591&publisher_slug=itechdaily19598&exclusive=1), between the speakers and subwoofer, controller, and cables. It's easily one of the best-sounding systems I've tested, and the ability to tweak specific audio settings is game-changing. That said, if you mainly use a single platform like the PC or a console for gaming, you may want to opt for the smaller but still capable [Arena 7](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSteelSeries-Arena-Computer-Gaming-Speakers%2Fdp%2FB09KNYJL4R%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C01e8a3b1-04d1-46d9-b1e5-b4c27c50b5d8%7Cdtp&dtb=1) instead, since it comes with a single pair of speakers and a subwoofer. It doesn't include a control dial like the Arena 9, but you can quickly adjust basic volume and bass boost levels with the on-device knobs for watching shows and movies. 
@@ -89,10 +81,6 @@ There is a lot that comes with the [SteelSeries Arena 9](https://shop-links.co/l
 And if you're simply looking for a reliable set of PC speakers, the [Arena 3](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSteelSeries-Arena-Computer-Gaming-Speakers%2Fdp%2FB09KNYBT4Q%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C01e8a3b1-04d1-46d9-b1e5-b4c27c50b5d8%7Cdtp&dtb=1) is an excellent choice; they don't have the RGB lighting features like the Arena 7 and 9, making them a better choice for shared work spaces or home offices that double as gaming rooms. If you've been waiting for a decent deal to come along before you pick up the Arena 9, [Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsteelseries-arena-9-5-1-bluetooth-gaming-speakers-with-rgb-lighting-6-piece-black%2F6515591.p%3FskuId%3D6515591&publisher_slug=itechdaily19598&exclusive=1) is running a sale where the speaker system is $100 off its original price; this brings it down to $450, and while that's still on the pricey side, the multimedia support, ability to connect to multiple devices simultaneously, and incredible sound quality make it a worthy investment for your gaming space or home theater. 
 
 _This article was originally published on February 23, 2024, and was updated on September 17, 2024._
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## When does this deal expire?
 
@@ -128,17 +116,19 @@ Best Buy hasn't put a hard and fast end date for the $100 discount on the Arena 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-how-to-capture-your-skype-sessions-on-mac-and-windows/"><u>[New] 2024 Approved How to Capture Your Skype Sessions on Mac and Windows</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-seamless-story-connectivity-on-facebook-4-tips/"><u>[New] In 2024, Seamless Story Connectivity on Facebook (4 Tips)</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2023s-elite-professionals-choosing-360-cameras-for-2024/"><u>[Updated] 2023'S Elite Professionals Choosing 360 Cameras for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-the-most-crucial-info-for-new-youtube-tv-users/"><u>[Updated] In 2024, The Most Crucial Info for New YouTube TV Users</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-wallet-friendly-4k-camera-and-camcorder-deals/"><u>2024 Approved Wallet-Friendly 4K Camera and Camcorder Deals</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expertly-reviewed-top-pc-case-selections-of-2024-to-elevate-your-personal-computer-setup/"><u>Expertly Reviewed Top PC Case Selections of 2024 to Elevate Your Personal Computer Setup</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-honor-x8b-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Honor X8b</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/introducing-the-revolutionary-beelink-gti14-with-pcie-x8-slot-and-integrated-power-built-on-meteor-lake-technology/"><u>Introducing the Revolutionary Beelink GTi14 with PCIe X8 Slot and Integrated Power – Built on Meteor Lake Technology</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/navigating-the-switch-key-inquiries-before-committing-to-an-electric-vehicle-purchase/"><u>Navigating the Switch: Key Inquiries Before Committing to an Electric Vehicle Purchase</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-hardware-reviews-top-gadgets-and-pc-builds/"><u>Tom's Hardware Reviews: Top Gadgets and PC Builds</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-new-tech-trends-at-toms-hardware-chronicles/"><u>Unveiling New Tech Trends at Tom's Hardware Chronicles</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-gadgets-a-tour-of-toms-technology-rundown/"><u>Unveiling the Latest Gadgets: A Tour of Tom's Technology Rundown</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-pinnacle-blu-ray-players-1s/"><u>[Updated] Pinnacle Blu-Ray Players - #1S</u></a></li>
+<li><a href="https://win-web3.techidaily.com/1-ultimate-guide-choosing-multiple-files-with-ease-tips-from-yl-computing/"><u>1. Ultimate Guide: Choosing Multiple Files with Ease - Tips From YL Computing</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-transformative-tapes-the-essential-5-video-booster-apps/"><u>2024 Approved Transformative Tapes The Essential 5 Video Booster Apps</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/best-streamers-unveiled-an-all-round-comparison-guide/"><u>Best Streamers Unveiled An All-Round Comparison Guide</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/curated-insta-photos-in-slideshow/"><u>Curated Insta Photos in Slideshow</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/in-2024-harmonize-your-hearings-top-software-to-extract-clean-soundscapes-from-original-recordings/"><u>In 2024, Harmonize Your Hearings Top Software to Extract Clean Soundscapes From Original Recordings</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-most-effective-ways-to-bypass-iphone-xs-max-activation-lock-by-drfone-ios/"><u>In 2024, The Most Effective Ways to Bypass iPhone XS Max Activation Lock</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/1723015920321-insta360-x2-perfect-for-swimmers-and-surfers-on-the-go/"><u>Insta360 X2: Perfect for Swimmers and Surfers on the Go!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/is-web-optimizing-with-handbrake-beneficial-for-your-videos-learn-the-pros-and-cons/"><u>Is Web Optimizing with HandBrake Beneficial for Your Videos? Learn the Pros and Cons</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlock-a-whopping-300-off-on-atomi-alphas-top-electric-scooter-shop-smart-now-zdnet-savings/"><u>Unlock a Whopping $300 Off on Atomi Alpha's Top Electric Scooter - Shop Smart Now! | ZDNET Savings</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-your-phones-potential-activating-ultra-wideband-tech-on-android-devices-and-the-surprising-benefits-for-your-driving-experience-techsavvy-times/"><u>Unlocking Your Phone's Potential: Activating Ultra-Wideband Tech on Android Devices & The Surprising Benefits for Your Driving Experience | TechSavvy Times</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-ubers-new-feature-seamless-package-redirection-to-major-shipping-services-what-you-need-to-know/"><u>Unveiling Uber's New Feature: Seamless Package Redirection to Major Shipping Services - What You Need to Know!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/upcoming-opportunity-conduct-business-meetings-inside-a-luxurious-mercedes-benz-e-class-insights-from-zdnet/"><u>Upcoming Opportunity: Conduct Business Meetings Inside a Luxurious Mercedes-Benz E-Class - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/where-should-tesla-build-its-next-supercharger-cast-your-vote-in-our-in-depth-twitter-poll-analysis-powered-by-zdnet/"><u>Where Should Tesla Build Its Next Supercharger? Cast Your Vote in Our In-Depth Twitter Poll Analysis | Powered by ZDNet</u></a></li>
 </ul></div>
 

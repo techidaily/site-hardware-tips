@@ -1,7 +1,7 @@
 ---
 title: "Revolutionary Leap in Computing: The Initial RISC-V Laptop Now Features Enhanced Performance with Doubling of CPU Cores and Boosted Speed up to 2GHz + Integrated AI"
-date: 2024-08-19T02:51:52.964Z
-updated: 2024-08-20T02:51:52.964Z
+date: 2025-03-03T18:32:21.295Z
+updated: 2025-03-04T22:09:21.084Z
 tags:
   - laptop
 categories:
@@ -82,9 +82,6 @@ It's rare that my lasting impression about a laptop is all about style, but here
 | **Weight**                | 3.31 pounds (1.5 kg)                                                                         |
 | **Price (as configured)** | $1,699.99                                                                                    |
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Productivity Performance on the Asus Zenbook S16
 
  This review happens to be our first look at AMD's new Ryzen AI 9 HX 370, one of the company's very lengthily-named processors in its "Strix Point" lineup. This chip has four Zen 5 cores and eight Zen 5c cores (for a total of 12 cores). It has a base clock of 2 GHz and a max boost of up to 5.1 GHz. As chip companies attempt to one-up each other on AI, AMD is packing 50 TOPS in its NPU, surpassing the 45 TOPS in the Qualcomm Snapdragon X Elite and X Plus (the chip as a whole goes up to 80 TOPS).
@@ -95,18 +92,6 @@ It's rare that my lasting impression about a laptop is all about style, but here
 
 ![Asus Zenbook S16](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![Asus Zenbook S16](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
@@ -115,16 +100,10 @@ It's rare that my lasting impression about a laptop is all about style, but here
 
 ![Asus Zenbook S16](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![Asus Zenbook S16](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  On Geekbench 6, the Zenbook S16 achieved a single-core score of 2,765 and a multi-core score of 13,282\. This was enough to beat the M3 in Apple's MacBook Air, the 16-core Intel Core Ultra 7 155H in the[HP](https://tools.techidaily.com) Spectre x360 14, and the Qualcomm Snapdragon X Elite X1E-78-100 in the HP OmniBook X. The newest Ryzen fell only to the Apple M3 Max, with scores of 3,200 and 21,711 in the 16-inch MacBook Pro (and, to be fair, a review unit stocked with 128GB of RAM, making the MacBook Air a more apt comparison from a price perspective. While it's unclear that Apple has ever released an official number, various sites have tested the M3 Max to be using significantly more power than the Ryzen AI CPU here, which is rated at 28W and configured to 17W TDP out of the box).
@@ -151,9 +130,6 @@ It's rare that my lasting impression about a laptop is all about style, but here
   
  I also tried a preview of Camo Studio, which uses the NPU to blur backgrounds, though you can already do that with Windows Studio Effects. There are other uses, like AI upscaling in Gigapixel AI, but these are mostly tools for creators. The average person, at the moment, doesn't seem to have a lot of reasons to use local AI features, and should probably focus more on productivity performance and battery life.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Display on the Asus Zenbook S16
 
  The screen on the Zenbook 16 makes a colorful first impression. The 16-inch, 2880 x 1800 OLED touch panel was vivid to my eye, but not as bright as some others. It also goes up to 120 Hz refresh rate.
@@ -174,9 +150,6 @@ It's rare that my lasting impression about a laptop is all about style, but here
 
 ![Asus Zenbook S16](https://cdn.mos.cms.futurecdn.net/aW7bBZzL8RWWNJL5FgJbTR-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  The keyboard is set back slightly further than I'd like because the touchpad is so tall. I got used to it but some of my coworkers found it a bit uncomfortable.
@@ -191,9 +164,6 @@ It's rare that my lasting impression about a laptop is all about style, but here
 
  The Zenbook S16 trades volume for detail. Don't get me wrong, it's loud enough, especially if you're sitting right in front of it, but it didn't quite fill an entire meeting room with sound. But when I was listening to Charli XCX's "Von dutch," I was surprised to hear a bit of bass. The speakers, tuned with Dolby Atmos, sounded great when I switched from "balanced" to "detailed," with clear vocals, pounding drums and whirring synths.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Upgradeability of the Asus Zenbook S16
 
 There isn't much to upgrade or repair on the Zenbook S16.
@@ -206,9 +176,6 @@ There isn't much to upgrade or repair on the Zenbook S16.
 
  Once you're in, there are two parts you could replace. The first is the battery, which takes up most of the room inside the system. The other is the SSD. Despite the size of the laptop, there isn't a secondary M.2 slot, so you'll have to replace the drive if you want more storage space. The wireless module and RAM are soldered to the motherboard.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Battery Life on the Asus Zenbook S16
 
  While the Zenbook S16 will likely last you an entire workday, the new Asus device didn't last as long on a charge as competitors based on Arm platforms.
@@ -245,18 +212,12 @@ There isn't much to upgrade or repair on the Zenbook S16.
 
  Asus sells the Zenbook S16 with a one-year warranty. A card included in the box offers one free year of accidental damage protection in exchange for registering the laptop.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ## Asus Zenbook S16 Configurations
 
  We tested the Asus Zenbook S16 with an AMD Ryzen AI 9 HX 370, 32GB of RAM, and a 1TB SSD, which goes for $1,699.99.
 
  A cheaper version[sold at Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fshop-links.co%2Flink%3Fpublisher%255Fslug%3Dfuture%26exclusive%3D1%26u1%3Dtomshardware-us-4910217774050973812%26url%3Dhttps%253A%252F%252Fwww.bestbuy.com%252Fsite%252Fasus-zenbook-s-16-16-3k-oled-touch-screen-laptop-amd-ryzen-ai-9-365-24gb-memory-1tb-ssd-scandinavian-white%252F6584435.p%26article%255Fname%3DAsus%2520Zenbook%2520S16%2520review%253A%2520AMD%2520Ryzen%2520AI%25209%2520HX%2520370%2520tested%2520%257C%2520Tom%27s%2520Hardware%26article%255Furl%3Dhttps%253A%252F%252Fwww.tomshardware.com%252Flaptops%252Fgaming-laptops%252Fasus-zenbook-s16-amd-ryzen-ai-9-hx-370-review) is $1,399.99 with a Ryzen AI 9 HX 365 and 24GB of memory, as well as a white chassis.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Bottom Line
 
  The Asus Zenbook S16 is a solid showcase for AMD's new AI-focused processors, even if AI applications themselves aren't quite ready to excite most people.
@@ -283,8 +244,6 @@ There isn't much to upgrade or repair on the Zenbook S16.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -292,4 +251,26 @@ There isn't much to upgrade or repair on the Zenbook S16.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-camstudio-recording-tech-a-comprehensive-2023-analysis/"><u>[New] CamStudio Recording Tech A Comprehensive 2023 Analysis</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/outubes-journey-seamlessly-converted-into-high-quality-avis-for-2024/"><u>[New] YouTube's Journey Seamlessly Converted Into High-Quality AVIs for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-flying-into-photography-discovering-the-dji-spark-advantage/"><u>[Updated] 2024 Approved Flying Into Photography Discovering the DJI Spark Advantage</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-top-ten-skype-capture-devices-reviewed-for-2024/"><u>[Updated] Top Ten Skype Capture Devices Reviewed for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/mts-to-mp4-movavi/"><u>「フリーなオンラインでのMTS to MP4変換 - Movaviソリューション」</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/configure-win11s-registry-editor-with-ease/"><u>Configure Win11's Registry Editor with Ease</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-ultimate-convenience-with-sharks-latest-hands-free-vacuums-the-top-choice-for-hassle-free-cleaning-insights-from-zdnet/"><u>Discover Ultimate Convenience with Shark's Latest Hands-Free Vacuums – The Top Choice for Hassle-Free Cleaning | Insights From ZDNET</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-your-android-devices-model-number-with-easy-steps/"><u>Discover Your Android Device's Model Number with Easy Steps</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-analysis-on-the-shark-ion-robovac-av751-excellent-dust-suction-vs-misplaced-pathfinding-issues-gadgetpundit/"><u>Expert Analysis on the Shark ION RoboVac AV751: Excellent Dust Suction Vs. Misplaced Pathfinding Issues | GadgetPundit</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-six-simple-ways-to-ease-vr-headset-nausea/"><u>In 2024, Six Simple Ways to Ease VR Headset Nausea</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-google-pixel-8-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Google Pixel 8 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Infinix Smart 7? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/next-level-home-hygiene-achieved-with-the-multifaceted-roborock-s8-pro-vacuummop-an-in-depth-zdnet-assessment/"><u>Next-Level Home Hygiene Achieved with the Multifaceted Roborock S8 Pro Vacuum/Mop: An In-Depth ZDNET Assessment</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/review-ions-shark-automated-vac-av751-performs-well-struggles-with-pathfinding-gadgetguru/"><u>Review: ION's Shark Automated Vac AV751 Performs Well, Struggles with Pathfinding | GadgetGuru</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/tackling-large-spills-with-ease-discover-the-surprising-capabilities-of-a-dinner-plate-sized-bot-zdnet/"><u>Tackling Large Spills with Ease - Discover the Surprising Capabilities of a Dinner Plate-Sized Bot | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-10-tips-to-boost-your-robot-vacuums-battery-longevity-insights-from-zdnet/"><u>Top 10 Tips to Boost Your Robot Vacuum's Battery Longevity: Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-11-robotic-playthings-the-perfect-presents-spotted-by-zdnet/"><u>Top 11 Robotic Playthings: The Perfect Presents Spotted by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transform-your-lawn-maintennace-into-fun-time-using-our-cutting-edge-remote-control-lawnmower/"><u>Transform Your Lawn Maintennace Into Fun Time Using Our Cutting-Edge Remote Control Lawnmower!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-tomorrows-possibtilities-apples-plans-for-advanced-domestic-assistants/"><u>Unveiling Tomorrow's Possibtilities - Apple's Plans for Advanced Domestic Assistants</u></a></li>
+</ul></div>
 

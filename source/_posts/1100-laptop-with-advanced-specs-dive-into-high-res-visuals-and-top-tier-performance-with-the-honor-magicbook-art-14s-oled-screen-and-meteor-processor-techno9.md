@@ -1,7 +1,7 @@
 ---
 title: $1,100 Laptop with Advanced Specs - Dive Into High-Res Visuals & Top-Tier Performance With the Honor MagicBook Art 14'S OLED Screen & Meteor Processor Technology
-date: 2024-08-19T02:53:19.653Z
-updated: 2024-08-20T02:53:19.653Z
+date: 2025-03-02T22:34:49.602Z
+updated: 2025-03-04T16:35:06.104Z
 tags:
   - laptop
 categories:
@@ -82,9 +82,6 @@ It's rare that my lasting impression about a laptop is all about style, but here
 | **Weight**                | 3.31 pounds (1.5 kg)                                                                         |
 | **Price (as configured)** | $1,699.99                                                                                    |
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Productivity Performance on the Asus Zenbook S16
 
  This review happens to be our first look at AMD's new Ryzen AI 9 HX 370, one of the company's very lengthily-named processors in its "Strix Point" lineup. This chip has four Zen 5 cores and eight Zen 5c cores (for a total of 12 cores). It has a base clock of 2 GHz and a max boost of up to 5.1 GHz. As chip companies attempt to one-up each other on AI, AMD is packing 50 TOPS in its NPU, surpassing the 45 TOPS in the Qualcomm Snapdragon X Elite and X Plus (the chip as a whole goes up to 80 TOPS).
@@ -95,9 +92,6 @@ It's rare that my lasting impression about a laptop is all about style, but here
 
 ![Asus Zenbook S16](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![Asus Zenbook S16](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
@@ -106,9 +100,6 @@ It's rare that my lasting impression about a laptop is all about style, but here
 
 ![Asus Zenbook S16](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![Asus Zenbook S16](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
@@ -129,9 +120,6 @@ It's rare that my lasting impression about a laptop is all about style, but here
 
 ![Asus Zenbook S16](https://cdn.mos.cms.futurecdn.net/kyTb4Yk4LUiQN83wEJXLtQ-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  In a reviewer's guide sent to the press, AMD suggested a number of applications to try that make use of local AI. Chief among them was a beta of Amuse 2.0, which includes image generation with Stable Diffusion, as well as paint-to-image features that are very similar to image creator in Paint on Copilot Plus PCs (though that uses DALL-E). In a way, this app, made to work well with AMD's hardware, can fill in the blanks until[Microsoft](https://tools.techidaily.com) adds Copilot Plus features to Ryzen AI laptops.
@@ -142,9 +130,6 @@ It's rare that my lasting impression about a laptop is all about style, but here
   
  I also tried a preview of Camo Studio, which uses the NPU to blur backgrounds, though you can already do that with Windows Studio Effects. There are other uses, like AI upscaling in Gigapixel AI, but these are mostly tools for creators. The average person, at the moment, doesn't seem to have a lot of reasons to use local AI features, and should probably focus more on productivity performance and battery life.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Display on the Asus Zenbook S16
 
  The screen on the Zenbook 16 makes a colorful first impression. The 16-inch, 2880 x 1800 OLED touch panel was vivid to my eye, but not as bright as some others. It also goes up to 120 Hz refresh rate.
@@ -159,18 +144,12 @@ It's rare that my lasting impression about a laptop is all about style, but here
 
  At 357 nits, I found the Zenbook 16 to be usable, but competitors do better. The 16-inch MacBook Pro was the brightest at 563 nits, and both the MacBook Air (476.4 nits) and HP Spectre x360 366.2 nits were also brighter.
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Keyboard and Touchpad on the Asus Zenbook S16
 
  Despite just 1.1 mm travel, the Zenbook S16’s keyboard is snappy. Don't get me wrong, it's still a membrane keyboard, but it's relatively comfortable and even has a bit of bounce. On monkeytype, I hit 112 words per minute with a 2% error rate, which isn't my best, but is pretty close.
 
 ![Asus Zenbook S16](https://cdn.mos.cms.futurecdn.net/aW7bBZzL8RWWNJL5FgJbTR-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  The keyboard is set back slightly further than I'd like because the touchpad is so tall. I got used to it but some of my coworkers found it a bit uncomfortable.
@@ -209,27 +188,18 @@ There isn't much to upgrade or repair on the Zenbook S16.
 
  But the MacBook Air M3 (15:03), HP OmniBook X on a Snapdragon X Elite (16:18), and the 16-inch MacBook Pro lasted an incredible 17:11.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Heat on the Asus Zenbook S16
 
  During our ten runs of Cinebench 2024, we took skin temperature measurements to see how the Zenbook performs under an intense workload.
 
  The keyboard hit a warm (but not uncomfortable) 99.5 degrees Fahrenheit, while the touchpad stayed cool at 87.4 F. The hottest point on the top on the grille at 110 F, but that's not usually a place you put your hands. On the bottom, the hottest touchpoint, near the ventilation, was at 116.2 F.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Webcam on the Asus Zenbook S16
 
  There's a 1080p webcam on the Zenbook S16's top bezel. While it's color-accurate, catching the exact shade of green in my shirt and the blue in my mesh office chair, some details, like my hair, came across a bit fuzzy.
 
  The camera supports infrared to log in with Windows Hello for facial recognition. It's the sole biometric option on the device.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Software and Warranty on the Asus Zenbook S16
 
  Asus includes four pieces of software on the Zenbook S16\. The first is MyAsus, which allows you to manage your warranty, and also shows system settings and lets you check for updates. This app now prompts you for an account, which it didn't use to do (and in my opinion, shouldn't need to). Despite its appearance, you can skip this prompt.  
@@ -274,8 +244,6 @@ There isn't much to upgrade or repair on the Zenbook S16.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -283,4 +251,24 @@ There isn't much to upgrade or repair on the Zenbook S16.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-the-shoppers-quick-guide-to-choosing-top-notch-360cams/"><u>[Updated] 2024 Approved The Shopper’s Quick Guide to Choosing Top-Notch 360Cams</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-lava-yuva-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Lava Yuva 2 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-explore-the-finest-10-free-video-conferencing-services-for-corporates-and-academia/"><u>In 2024, Explore the Finest 10 Free Video Conferencing Services for Corporates & Academia</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-vivo-y100i-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Vivo Y100i Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Samsung Galaxy S21 FE 5G (2023)? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-nubia-z50-ultra-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Nubia Z50 Ultra to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/june-2n-d4s-ultimate-best-buy-bargains-showcased-by-zdnet-save-big-now/"><u>June 2N D4's Ultimate Best Buy Bargains Showcased by ZDNet: Save Big Now!</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-from-live-action-to-toon-town-how-to-turn-videos-into-cartoons/"><u>New 2024 Approved From Live-Action to Toon Town How to Turn Videos Into Cartoons</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionizing-connected-living-spaces-exploring-new-communication-protocols-for-advanced-smart-home-systems/"><u>Revolutionizing Connected Living Spaces: Exploring New Communication Protocols for Advanced Smart Home Systems</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionizing-kitchen-design-the-impact-of-innovative-under-cabinet-lighting-on-style-and-functionality-insight-by-zdnet/"><u>Revolutionizing Kitchen Design: The Impact of Innovative Under-Cabinet Lighting on Style and Functionality - Insight by ZDNET</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/scrutinizing-vivid-visuals-enhanced-by-hd-and-luminance-for-2024/"><u>Scrutinizing Vivid Visuals Enhanced by HD and Luminance for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-viewing-guide-experience-the-conjuring-series-sequentially/"><u>The Ultimate Viewing Guide: Experience The 'Conjuring' Series Sequentially</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-june-2024-savings-exclusive-best-buy-offers-featured-on-zdnet/"><u>Top June 2024 Savings: Exclusive Best Buy Offers Featured on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-philips-hue-lighting-solutions-detailed-comparison-by-tech-gurus-zdnet/"><u>Top-Rated Philips Hue Lighting Solutions - Detailed Comparison by Tech Gurus | Zdnet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-security-floodlighting-solutions-in-2/"><u>Top-Rated Security Floodlighting Solutions in 2</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1726809233592-top-rated-smart-home-gadgets-in-depth-analysis-by-tech-experts-zdnet/"><u>Top-Rated Smart Home Gadgets : In-Depth Analysis by Tech Experts - ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transform-your-office-into-a-tranquil-oasis-using-sustainable-fish-tank-lights-at-unbeatable-prices-on-amazon-prime-expert-analysis-by-zdnet/"><u>Transform Your Office Into a Tranquil Oasis Using Sustainable Fish Tank Lights at Unbeatable Prices on Amazon Prime – Expert Analysis by ZDNet</u></a></li>
+</ul></div>
 

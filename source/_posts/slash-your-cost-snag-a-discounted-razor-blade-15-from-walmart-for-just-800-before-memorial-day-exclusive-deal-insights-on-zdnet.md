@@ -1,7 +1,7 @@
 ---
 title: "Slash Your Cost: Snag a Discounted Razor Blade 15 From Walmart for Just $800 Before Memorial Day - Exclusive Deal Insights on ZDNet"
-date: 2025-02-13T21:33:15.555Z
-updated: 2025-02-15T22:29:56.432Z
+date: 2025-02-27T16:38:32.030Z
+updated: 2025-03-04T21:23:57.309Z
 tags:
   - laptops
 categories:
@@ -24,10 +24,6 @@ HP includes an Nvidia GeForce RTX 3050 graphics card and a screen capable of a 1
 **Also: [The best budget gaming laptops: Expert tested](https://www.zdnet.com/article/best-budget-gaming-laptop/)** 
 
 With 8GB of RAM, a 512GB SSD, and an Intel Core i5-12450H series processor, this system has quick speeds and the ability to put the power to where your system needs it most. But, you'd think with all the powerful components in this laptop, the battery life would suffer. Wrong. This laptop features a battery that can last up to 8 hours and 15 minutes while being able to be charged up to 50% in as little as 30 minutes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -63,20 +59,20 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-embark-on-a-joyful-journey-downloading-tiktok-for-macbook/"><u>[New] Embark on a Joyful Journey Downloading TikTok for MacBook</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-free-yourself-from-cash-for-sound-the-best-18-audio-crackers-on-youtube/"><u>[Updated] 2024 Approved Free Yourself From Cash for Sound The Best 18 Audio Crackers on YouTube</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-skype-meeting-recording-made-easy-for-both-oses/"><u>2024 Approved Skype Meeting Recording Made Easy for Both OSes</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/diy-enthusiast-creates-homemade-liquid-nitrogen-using-common-cooling-equipment/"><u>DIY Enthusiast Creates Homemade Liquid Nitrogen Using Common Cooling Equipment</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-toms-hardware-the-ultimate-tech-resource/"><u>Exploring Tom's Hardware: The Ultimate Tech Resource</u></a></li>
-<li><a href="https://change-location.techidaily.com/home-button-not-working-on-vivo-y28-5g-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Vivo Y28 5G? Here Are Real Fixes | Dr.fone</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/inspiration-for-individuality-on-snapchat-a-resource-of-over-120-private-story-concepts/"><u>Inspiration for Individuality on Snapchat A Resource of Over 120 Private Story Concepts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/leading-solder-iron-and-station-choices-for-electronics-enthusiasts-2024-edition/"><u>Leading Solder Iron & Station Choices for Electronics Enthusiasts - 2024 Edition</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/optimize-computer-performance-with-the-right-fan-unveiling-differences-between-pwm-and-dc-varieties/"><u>Optimize Computer Performance with the Right Fan: Unveiling Differences Between PWM and DC Varieties</u></a></li>
-<li><a href="https://program-issues.techidaily.com/practices-like-crop-rotation-intercropping-organic-amendments-and-biological-pest-control-decrease-reliance-on-chemical-fertilizers-and-pesticides-while-pro446/"><u>Practices Like Crop Rotation, Intercropping, Organic Amendments, and Biological Pest Control Decrease Reliance on Chemical Fertilizers and Pesticides While Promoting Natural Soil Fertility and Plant Health</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/reaching-new-heights-a-comprehensive-review-of-crucial-pro-6000-series-ddr5-memory-for-advanced-system-tuning-and-performance-optimization/"><u>Reaching New Heights: A Comprehensive Review of Crucial Pro 6000 Series DDR5 Memory for Advanced System Tuning and Performance Optimization</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revolutionize-heat-therapy-with-grizzly-discover-the-solid-to-liquid-transitioning-pad-effective-from-45c-upwards/"><u>Revolutionize Heat Therapy with Grizzly – Discover the Solid to Liquid Transitioning Pad Effective From 45°C Upwards</u></a></li>
-<li><a href="https://common-error.techidaily.com/system-deadlock-irreparable-error/"><u>System Deadlock: Irreparable Error</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-essential-resource-for-cutting-edge-tech-toms-hardware-rundown/"><u>The Essential Resource for Cutting-Edge Tech: Tom's Hardware Rundown</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-in-depth-insights-into-the-latest-hardware/"><u>Tom's Tech Review: In-Depth Insights Into the Latest Hardware</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-professional-film-techniques-for-drones/"><u>[New] Professional Film Techniques for Drones</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-unveiling-advanced-features-of-vlc/"><u>[New] Unveiling Advanced Features of VLC</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-8-best-video-conferencing-software-for-small-business-safely-for-2024/"><u>[Updated] 8 Best Video Conferencing Software for Small Business Safely for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96512018-9781462902125-beginning-qigong/"><u>Beginning Qigong | Free Book</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/discover-the-10-best-cookie-places-in-town-with-unbeatable-taste-for-2024/"><u>Discover the 10 Best Cookie Places in Town with Unbeatable Taste for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/faster-teams-cleaner-systems-microsofts-pivot/"><u>Faster Teams, Cleaner Systems: Microsoft's Pivot</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-vivo-v30-lite-5g-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Vivo V30 Lite 5G</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-resolve-the-wolcen-pc-version-instability-issue/"><u>How to Resolve the Wolcen PC Version Instability Issue</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-the-art-of-battle-strategies-for-dominating-the-mandalorians-tatooine-shootout-challenge/"><u>Mastering the Art of Battle: Strategies for Dominating The Mandalorian's Tatooine Shootout Challenge</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/memorial-day-deal-alert-save-big-with-400-off-on-the-top-rated-segway-max-g2-ev-scooter-now-at-unbeatable-prices/"><u>Memorial Day Deal Alert: Save Big with $400 Off on the Top-Rated Segway Max G2 EV Scooter - Now at Unbeatable Prices!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-through-turbulence-potential-solutions-to-streamline-airborne-wi-fi-services/"><u>Navigating Through Turbulence: Potential Solutions to Streamline Airborne Wi-Fi Services</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/next-bold-move-transform-your-professional-gatherings-with-the-comfort-of-mercedes-benz-e-class-featured-on-zdnet/"><u>Next Bold Move: Transform Your Professional Gatherings with the Comfort of Mercedes-Benz E Class - Featured on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/next-level-virtual-conferencing-in-style-with-mercedes-benz-e-class-discover-how-at-zdnet/"><u>Next Level Virtual Conferencing in Style with Mercedes-Benz E Class | Discover How at ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/pioneering-ai-development-for-driverless-cars-unveiled-by-latest-machine-learning-endeavor-on-zdnet/"><u>Pioneering AI Development for Driverless Cars Unveiled by Latest Machine Learning Endeavor on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/potential-hidden-issue-at-southwest-airlines-what-passengers-need-to-be-aware-of/"><u>Potential Hidden Issue at Southwest Airlines: What Passengers Need to Be Aware Of</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Tom's Tech Reviews: In-Depth Hardware Analysis"
-date: 2024-08-15T06:31:39.835Z
-updated: 2024-08-16T06:31:39.835Z
+date: 2025-02-27T16:05:14.734Z
+updated: 2025-03-04T22:18:00.645Z
 tags:
   - cooling
 categories:
@@ -47,9 +47,6 @@ The AIO liquid cooler market has become much more competitive in the past year o
  The packaging of the AIO incorporates molded foam, plastic coverings, and cardboard to protect the contents.
 
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/HBEL4vNSov3znrPrC4pAqX-320-80.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -66,15 +63,9 @@ Included in the box are the following:
 * Cable management clips
 
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/ELy55NXgeJdRSAWWqA8RwY-320-80.jpg)
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Features of ID-Cooling’s FX 360 Pro
 
 **▶ Budget $60 USD MSRP**
@@ -86,9 +77,6 @@ Included in the box are the following:
  As an AIO does not interfere or overhang DIMM slots in any manner, all sizes of RAM, no matter how tall, are compatible with ID-Cooling’s FX360 Pro. The tubes of the of the AIO are braided and are fully rotatable for ease of installation and setup.
 
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/RfAz98Bd2YY8mCoRtq6Wch-320-80.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -150,18 +138,12 @@ The top of the CPU black features a reflective black etched metal design.
 
  (Image credit: Tom's Hardware)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ## LGA1700 Socket Bending
 
  There are many factors other than the CPU cooler that can influence your cooling performance, including the case you use and the fans installed in it. A system's motherboard can also influence this, especially if it[suffers from bending](https://www.tomshardware.com/news/intel-comments-on-alder-lakes-warping-and-bending-issues-mods-void-warranty) , which results in poor cooler contact with the CPU.
 
  In order to prevent bending from impacting our cooling results, we’ve installed Thermalright’s[LGA 1700 contact frame](https://www.tomshardware.com/reviews/thermalright-lga1700-bcf-contact-frame) into our testing rig. If your motherboard is affected by bending, your thermal results will be worse than those shown below. Not all motherboards are affected equally by this issue. I tested Raptor Lake CPUs in two motherboards. And while one of them showed significant thermal improvements after installing Thermalright’s LGA1700 contact frame, the other motherboard showed no difference in temperatures whatsoever! Check out[our review of the contact frame](https://www.tomshardware.com/reviews/thermalright-lga1700-bcf-contact-frame) for more information.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Testing Methodology, and how my testing differs vs the competition
 
  My previous review of[Arctic’s Liquid Freezer III AIOs](https://www.tomshardware.com/pc-components/liquid-cooling/arctic-liquid-freezer-iii-aio-review) was quite controversial, and it made me realize that I need to better explain my testing methodology.
@@ -194,9 +176,6 @@ The top of the CPU black features a reflective black etched metal design.
 
  The thermal results included are for 10-minute testing runs. To be sure that was sufficiently long to tax the cooler, we tested both Thermalright’s Assassin X 120 R SE and DeepCool’s LT720 with a 30-minute Cinebench test with Intel’s i9-13900K for both 10 minutes and 30 minutes. The results didn’t change much at all with the longer test: The average clock speeds maintained dropped by 29 MHz on DeepCool’s LT720 and 31 MHz on Thermalright’s Assassin X 120 R SE. That’s a very small 0.6% difference in clock speeds maintained, a margin of error difference that tells us that the 10-minute tests are indeed long enough to properly test the coolers.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Testing configuration – Intel LGA1700 platform
 
  Swipe to scroll horizontally
@@ -230,8 +209,6 @@ powered by
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -239,4 +216,26 @@ powered by
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-easy-replay-on-iphone-set-videos-cycling/"><u>[New] 2024 Approved Easy Replay on iPhone Set Videos Cycling</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-transition-tunes-mastering-crossfading-in-music/"><u>[New] In 2024, Transition Tunes Mastering Crossfading in Music</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-drive-more-traffic-effective-strategies-for-youtube-outros/"><u>[Updated] 2024 Approved Drive More Traffic Effective Strategies for YouTube Outros</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/action-ammo-face-off-prodigy-cameras-compared-black-vs-session-for-2024/"><u>Action Ammo Face-Off Prodigy Cameras Compared – Black vs Session for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/collagecraft-stitching-videos-for-instagram-on-iosandroid/"><u>CollageCraft Stitching Videos for Instagram on iOS/Android</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-problems-with-unknown-usb-devices-in-win-11/"><u>Eliminating Problems with Unknown USB Devices in Win 11</u></a></li>
+<li><a href="https://article-files.techidaily.com/expressive-faces-with-motion-blur-in-picsart/"><u>Expressive Faces with Motion Blur in Picsart</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-watch-hulu-outside-us-on-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On HTC U23 Pro | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/huge-savings-alert-up-to-50-discount-on-amazons-4tb-samsung-portable-ssd-shop-before-labor-day/"><u>Huge Savings Alert: Up to 50% Discount on Amazon's 4TB Samsung Portable SSD - Shop Before Labor Day!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ideal-mothers-day-present-the-new-beginner-kindle-paperwhite-a-smart-choice-according-to-zdnet/"><u>Ideal Mother’s Day Present: The New Beginner Kindle Paperwhite - A Smart Choice According to ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-zdnet-the-rigorous-process-of-assessing-modern-tablets/"><u>Inside ZDNet: The Rigorous Process of Assessing Modern Tablets</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ipad-pro-evolution-with-os-version-162-mastering-stage-managers-new-external-monitor-functionality-gadgetguru-insights/"><u>IPad Pro Evolution with OS Version 16.2: Mastering Stage Manager's New External Monitor Functionality | GadgetGuru Insights</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/jokes-aplenty-incorrante-guide-to-snapchats-cartoon-filters-for-2024/"><u>Jokes Aplenty Incorrante Guide to Snapchat's Cartoon Filters for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/maximizing-efficiency-in-your-remote-job-the-ultimate-guide-to-powering-up-with-an-ipad-pro-advice-by-zdnet/"><u>Maximizing Efficiency in Your Remote Job: The Ultimate Guide to Powering Up with an iPad Pro - Advice by ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/next-gen-tablet-for-children-surpasses-ipad-and-goes-on-discount-discover-how/"><u>Next-Gen Tablet for Children Surpasses iPad & Goes On Discount – Discover How!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/professionals-guide-to-choosing-a-surface-pro-n8-comprehensive-zdnet-review-and-recommendations/"><u>Professional's Guide to Choosing a Surface Pro N8: Comprehensive ZDNet Review & Recommendations</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revamp-your-digital-experience-with-an-amazon-fire-tablet-today-score-one-for-only-50-by-trading-in-at-our-spectacular-labor-day-promotion/"><u>Revamp Your Digital Experience with an Amazon Fire Tablet Today | Score One for Only $50 by Trading in at Our Spectacular Labor Day Promotion!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/surprising-top-movie-watching-tablet-unveiled-discover-hidden-gems-beyond-popular-brands-insights-by-zdnet/"><u>Surprising Top Movie-Watching Tablet Unveiled: Discover Hidden Gems Beyond Popular Brands - Insights by ZDNet</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transform-your-video-files-easy-steps-to-convert-vob-to-mp4-on-pc-and-mac/"><u>Transform Your Video Files: Easy Steps to Convert VOB to MP4 on PC and Mac</u></a></li>
+</ul></div>
 

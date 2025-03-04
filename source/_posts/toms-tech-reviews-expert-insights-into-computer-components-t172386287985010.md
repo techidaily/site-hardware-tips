@@ -1,7 +1,7 @@
 ---
 title: "Tom's Tech Reviews: Expert Insights Into Computer Components"
-date: 2024-08-19T02:53:50.341Z
-updated: 2024-08-20T02:53:50.341Z
+date: 2025-02-28T20:05:57.898Z
+updated: 2025-03-04T21:36:11.856Z
 tags:
   - laptop
 categories:
@@ -59,10 +59,6 @@ Acer Swift 14 AI  (Image credit: Qualcomm)
 
  On the connectivity front, there are two USB-C, two USB-A ports, and HDMI 1.4\. For your wireless needs, you'll find Wi-Fi 7 and Bluetooth 5.4\. Power comes from a 73 WHr battery, rated for up to 12 hours.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -81,9 +77,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
 ![Qualcomm Snapdragon X Series](https://cdn.mos.cms.futurecdn.net/6ajDJXDRMCTNS5JfXuENyN-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 Lenovo Yoga Slim 7x 14 Gen 9  (Image credit: Qualcomm)
 
  Your "window" into the computing world is through a 14.5-inch PureSight OLED panel with a 90Hz refresh rate and a 2944 x 1840 resolution. Lenovo says you'll get 100% coverage of sRGB and the P3 color gamuts. Other features include a 1080p webcam with IR support for Windows Hello and a four-speaker[audio](https://tools.techidaily.com) system.
@@ -107,9 +100,6 @@ Lenovo Yoga Slim 7x 14 Gen 9  (Image credit: Qualcomm)
 
 ![Qualcomm Snapdragon X Series](https://cdn.mos.cms.futurecdn.net/QXLgUBPHQLuoQKnKFXBYAN-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 Lenovo ThinkPad T14s Gen 6  (Image credit: Qualcomm)
 
  Lenovo provides three display options with the ThinkPad T14s Gen 6: the first two are 14-inch 400-nit IPS panels with a 1920 x 1200 resolution, but one supports touch, and the other doesn't. The third option is a 2.8K OLED panel with 100% coverage of DCI-P3 and VESA HDR True Black 500 compliance.
@@ -120,18 +110,12 @@ Lenovo ThinkPad T14s Gen 6  (Image credit: Qualcomm)
 
  According to Lenovo, the Yoga Slim 7x and ThinkPad T14s Gen 6 will debut next month, priced from $1,199 and $1,699, respectively.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Dell XPS 13, Inspiron 14 Plus, and Latitude 7455
 
  Dell’s lineup of Snapdragon X laptops[leaked early last week](https://tools.techidaily.com) , so things here should look somewhat familiar. The XPS 13 has a striking design, with a keyboard that goes nearly to the left and right edge of the CNC-machined aluminum chassis (available in Platinum or Graphite). You'll also find the controversial capacitive touch function row above the keyboard, which we discussed in our[reviews of the XPS 14 and XPS 16](https://tools.techidaily.com) . The haptic touchpad is also seamlessly integrated into the keyboard deck, which is covered in Gorilla Glass 3.
 
 ![Qualcomm Snapdragon X Series](https://cdn.mos.cms.futurecdn.net/cXqoxKsRoc29VARWi2JunN-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Dell XPS 13  (Image credit: Qualcomm)
 
  Dell makes the Snapdragon X Elite or the Snapdragon X Plus available, although the latter is only coming to the Chinese market (at least for now). Customers can choose from 16GB, 32GB, or 64GB of dual-channel LPDDR5x memory and 512GB, 1TB, 2TB, or 4TB (later availability) SSDs.
@@ -169,13 +153,6 @@ Dell Latitude 7455  (Image credit: Qualcomm)
 
  The XPS 13 and Inspiron 14 Plus are scheduled to launch "later this year," priced from $1,299 and $1,099, respectively. Pricing and availability aren't yet known for the Latitude 7455.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ## Hewlett-Packard OmniBook X and EliteBook Ultra
 
  The[HP](https://tools.techidaily.com) OmniBook X and HP EliteBook Ultra share the same aluminum chassis design, weighing 2.97 pounds, and they measure 12.32 x 8.8 x 0.57 inches. The primary difference is that the latter features a blue finish with a Physical Vapor Deposition (PVD) coating to help resist fingerprints.
@@ -205,8 +182,6 @@ HP OmniBook X and EliteBook Ultra  (Image credit: Qualcomm)
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -214,4 +189,22 @@ HP OmniBook X and EliteBook Ultra  (Image credit: Qualcomm)
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-online-no-cost-fb-sound-archive/"><u>[New] 2024 Approved Online, No Cost FB Sound Archive</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-5-leading-resources-to-masterfully-add-text-flair-online/"><u>[Updated] 2024 Approved 5 Leading Resources to Masterfully Add Text Flair Online</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-the-excellent-ten-of-hexa-flying-drones/"><u>[Updated] The Excellent Ten of Hexa-Flying Drones</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-harnessing-windows-11s-high-dynamic-range-auto-hdr-for-better-visuals/"><u>2024 Approved Harnessing Windows 11'S High Dynamic Range (Auto HDR) for Better Visuals</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/after-one-month-comparing-the-health-and-fitness-capabilities-of-fitbit-sense-2-and-versa-4-caution-on-gps-functionality/"><u>After One Month: Comparing the Health & Fitness Capabilities of Fitbit Sense 2 & Versa 4 - Caution on GPS Functionality</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/from-skeptic-to-believer-how-three-key-apple-watch-features-convinced-me-of-its-value-zdnet/"><u>From Skeptic to Believer: How Three Key Apple Watch Features Convinced Me of Its Value | ZDNet</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-oneplus-nord-ce-3-lite-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track OnePlus Nord CE 3 Lite 5G without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-tecno-spark-go-2024-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Tecno Spark Go (2024) Location | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/ps5-headphone-connection-blue-tooth-methods/"><u>PS5 Headphone Connection: Blue-Tooth Methods</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/step-up-your-fitness-game-with-this-350-sporty-android-watch-the-better-battery-and-style-alternative-to-apples-pixel-timepiece-gadgetfocus/"><u>Step Up Your Fitness Game with This $350 Sporty Android Watch: The Better Battery and Style Alternative to Apple's Pixel Timepiece | GadgetFocus</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-complete-insight-into-googles-new-pixel-watch-series-3-all-about-its-capabilities-and-cost-cnet/"><u>The Complete Insight Into Google's New Pixel Watch Series 3 – All About Its Capabilities and Cost | CNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-presidents-day-sales-unbeatable-discounts-at-amazon-walmart-and-best-buy-dont-miss-out/"><u>Top President's Day Sales: Unbeatable Discounts at Amazon, Walmart & Best Buy – Don't Miss Out!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/total-war-warhammer-3-pc-version-now-reliable-and-crash-free-update-details-inside/"><u>Total War: Warhammer 3 PC Version Now Reliable and Crash-Free - Update Details Inside</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlock-a-potentially-life-saving-trick-on-your-pixel-watch-similar-to-zdnet-exposes/"><u>Unlock a Potentially Life-Saving Trick on Your Pixel Watch # Similar to ZDNet Exposes</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-perfect-blend-of-style-and-endurance-in-my-top-pick-for-hybrid-smartwatches-exclusive-review/"><u>Unveiling the Perfect Blend of Style & Endurance in My Top Pick for Hybrid Smartwatches - Exclusive Review</u></a></li>
+</ul></div>
 

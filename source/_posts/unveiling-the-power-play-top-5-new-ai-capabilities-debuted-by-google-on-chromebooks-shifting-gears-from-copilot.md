@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Power Play: Top 5 New AI Capabilities Debuted by Google on Chromebooks, Shifting Gears From Copilot"
-date: 2025-02-08T16:31:53.882Z
-updated: 2025-02-15T21:44:49.328Z
+date: 2025-02-26T19:46:27.267Z
+updated: 2025-03-04T17:56:13.789Z
 tags:
   - laptops
 categories:
@@ -59,10 +59,6 @@ While the webcam houses most of the AI features, there is one AI-enabled feature
 
 I recommend using the Magic Eraser on small stuff in pictures. When you use the feature for objects that take up a large amount of space in photographs, the after-effect can make the image look warped. So, while the tool is good, it's no substitute for Adobe Photoshop. Besides Magic Eraser, Chromebook Plus models now have the nifty File Sync feature, which keeps a copy of Google Drive files on your computer at all times. It's a handy tool that I got a lot of use out of when I was outside away from a Wi-Fi connection.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## ZDNET's buying advice
 
 I highly recommend grabbing the [Chromebook Plus CX34](https://www.awin1.com/cread.php?awinmid=31828&awinaffid=423585&clickref=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&ued=https%3A%2F%2Fwww.asus.com%2Fus%2Flaptops%2Ffor-home%2Fchromebook%2Fasus-chromebook-plus-cx34-cx3402%2F), especially if you want a laptop that will appreciate in features over time. In the same announcement from early October, Google revealed the Chromebook Plus series will obtain other AI features. One is a writing tool that will be able to improve short-form content. You'll even gain your very own custom wallpaper generator in the settings menu. It's unknown when exactly these updates will roll out, but it will be sometime in 2024
@@ -103,24 +99,16 @@ It does appear there may be a third model down the line. Asus' official product 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ow-to-live-without-the-temptation-of-youtube-shorts-for-2024/"><u>[New] How To Live Without the Temptation of YouTube Shorts for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-innovative-pathways-broadcasting-facebook-videos-via-whatsapp/"><u>[New] In 2024, Innovative Pathways Broadcasting Facebook Videos via WhatsApp</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-fading-out-sound-fl-studio-guide/"><u>[Updated] 2024 Approved Fading Out Sound FL Studio Guide</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-innovative-methods-blurring-the-line-between-work-and-distractions/"><u>[Updated] In 2024, Innovative Methods Blurring the Line Between Work and Distractions</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-screen-capture-connoisseurs-your-guide-to-preserving-twitvid-media/"><u>[Updated] In 2024, Screen Capture Connoisseurs Your Guide to Preserving TwitVid Media</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-ultimate-guide-to-top-9-online-microphone-recorder-choices/"><u>[Updated] In 2024, Ultimate Guide to Top 9 Online Microphone Recorder Choices</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/diy-solutions-for-broken-or-absent-keys-on-a-laptop-keyboard/"><u>DIY Solutions for Broken or Absent Keys on a Laptop Keyboard</u></a></li>
-<li><a href="https://fox-links.techidaily.com/efficient-passport-photography-our-top-10-low-cost-digital-options/"><u>Efficient Passport Photography Our Top 10 Low-Cost Digital Options</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/guide-to-silencing-alerts-and-alarms-on-smartphones/"><u>Guide to Silencing Alerts and Alarms on Smartphones</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/how-does-wireless-power-sharing-work-understanding-reverse-charging/"><u>How Does Wireless Power Sharing Work: Understanding Reverse Charging</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-tecno-camon-30-pro-5g-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Tecno Camon 30 Pro 5G</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/how-to-uninstall-samsungs-built-in-calendar-app-on-galaxy-smartphones/"><u>How to Uninstall Samsung's Built-In Calendar App on Galaxy Smartphones</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/identifying-power-hungry-applications-a-guide-to-managing-battery-drain-on-your-android-device/"><u>Identifying Power-Hungry Applications: A Guide to Managing Battery Drain on Your Android Device</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-xiaomi-redmi-note-12-proplus-5g-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Xiaomi Redmi Note 12 Pro+ 5G FRP</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/latest-video-editing-app-now-available-on-chromebooks-and-android-systems/"><u>Latest Video Editing App Now Available on Chromebooks & Android Systems</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/launch-of-oneplus-1/"><u>Launch of OnePlus 1</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-caller-id-management-tips-for-tracking-voicemail-messages-on-an-android-smartphone/"><u>Mastering Caller ID Management: Tips for Tracking Voicemail Messages on an Android Smartphone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-telegram-how-to-easily-sort-and-manage-chats-with-folder-features-a-regrettable-oversight/"><u>Mastering Telegram: How to Easily Sort and Manage Chats with Folder Features – A Regrettable Oversight</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-the-update-transitioning-to-android-12l-on-your-google-pixel-device/"><u>Mastering the Update: Transitioning to Android 12L on Your Google Pixel Device</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/asus-laptop-steal-deal-just-99-at-best-buys-hour-of-power-sale-see-the-listing/"><u>ASUS Laptop Steal Deal - Just $99 at Best Buy's Hour of Power Sale! See the Listing</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/building-an-unbeatable-pc-gaming-rig-must-have-components-for-gamers/"><u>Building an Unbeatable PC Gaming Rig: Must-Have Components for Gamers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/cyber-monday-deals-unbeatable-prices-on-apples-m2-macbook-air-the-ultimate-bargain/"><u>Cyber Monday Deals: Unbeatable Prices on Apple's M2 MacBook Air - The Ultimate Bargain</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-offer-save-big-on-the-perfect-lenovo-laptops-for-hybrid-professionals-this-october-prime-day-limited-time-1k-discount/"><u>Exclusive Offer: Save Big on the Perfect Lenovo Laptops for Hybrid Professionals This October Prime Day – Limited-Time 1K Discount!</u></a></li>
+<li><a href="https://facebook.techidaily.com/harnessing-the-power-of-multi-group-posts-for-greater-engagement/"><u>Harnessing the Power of Multi-Group Posts for Greater Engagement</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-itel-p55-5g-by-fonelab-android-recover-pictures/"><u>How To Restore Missing Pictures Files from Itel P55 5G.</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-realme-narzo-n55-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Realme Narzo N55 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-luminous-images-a-comprehensive-lightroom-guide/"><u>In 2024, Unlocking Luminous Images A Comprehensive Lightroom Guide</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-your-portal-to-successful-online-marketing-our-showcase-of-over-50-free-banners-awaits-you/"><u>In 2024, Your Portal to Successful Online Marketing - Our Showcase of Over 50 Free Banners Awaits You</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-vpn-providers-comprehensive-analysis-and-reviews-insights-by-techradar/"><u>Top-Rated VPN Providers : Comprehensive Analysis & Reviews - Insights by TechRadar</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/troubleshooting-your-pc-understanding-why-it-wont-turn-on-tech-solutions-by-yl/"><u>Troubleshooting Your PC: Understanding Why It Won't Turn On - Tech Solutions by YL</u></a></li>
 </ul></div>
 

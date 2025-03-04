@@ -1,7 +1,7 @@
 ---
 title: "Discover the Prime Deal: MacBook Air with Apple M1 Chip at Just $799 in October's Exclusive Prime Event - Insights"
-date: 2025-02-12T20:21:24.332Z
-updated: 2025-02-15T22:40:43.520Z
+date: 2025-02-28T18:04:24.996Z
+updated: 2025-03-04T16:45:38.078Z
 tags:
   - laptops
 categories:
@@ -22,10 +22,6 @@ During Amazon's Prime Early Access Sale -- otherwise known as 'Prime Day 2' -- t
 [![Apple Macbook Air | M1 2020 (save $200)](https://www.zdnet.com/a/img/resize/4e2d1af1a36bba35a744ceb3abdd99e04415b708/2021/08/25/96fc3e1c-9e32-405c-9e28-f7f819a45625/m1-macbook-air.jpg?auto=webp&fit=crop&height=172.5&width=294) Apple Macbook Air | M1 2020 (save $200) $799 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-MacBook-13-inch-256GB-Storage%2Fdp%2FB08N5KWB9H%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3232aa93-e881-4026-a4a6-e2d0d7febbb1%7Cdtp&dtb=1)
 
 Had the pandemic not forced me to stay home, I probably would've snagged the MacBook Air M1 two years ago. It was one of the first devices to feature Apple's M1 chipset, and [benchmark tests proved](https://www.zdnet.com/article/apple-m1-speed-tests-new-arm-macbook-air-blows-away-intel-based-macbook-pro/) that the lightweight MacBook could throw down against heavyweight, Intel-based computers -- including Apple's own MacBook Pro. For such a huge gap in performance, speed, and efficiency, it was hard to believe that Apple was selling the laptop for just $999\. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -67,17 +63,22 @@ At $799, the [MacBook Air M1](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FUR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-perfecting-npc-details-with-zoom-in-on-roblox/"><u>[New] Perfecting NPC Details with Zoom In on Roblox</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-how-to-schedule-and-dive-into-virtual-gatherings-with-zoom-on-an-android-platform/"><u>[Updated] How to Schedule and Dive Into Virtual Gatherings with Zoom on an Android Platform</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-gameplay-capture-simplified-the-ultimate-win10-guide/"><u>[Updated] In 2024, Gameplay Capture Simplified The Ultimate Win10 Guide</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-quintet-of-premium-picture-and-sound-recording-tools/"><u>[Updated] Quintet of Premium Picture & Sound Recording Tools</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-cutting-edge-devices-at-toms-electronic-emporium/"><u>Discover Cutting-Edge Devices at Tom's Electronic Emporium</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-innovative-hardware-solutions-on-toms-review-platform/"><u>Discover Innovative Hardware Solutions on Tom’s Review Platform</u></a></li>
-<li><a href="https://win-great.techidaily.com/easy-exploits-unveiled-by-ethical-hackers-in-microsofts-recalled-ai-system-insights-from-zdnet/"><u>Easy Exploits Unveiled by Ethical Hackers in Microsoft's Recalled AI System - Insights From ZDNet</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/evaluating-the-performance-of-the-dell-inspiron-3671-desktop-pc-a-moderate-option-for-home-users/"><u>Evaluating the Performance of the Dell Inspiron 3671 Desktop PC - A Moderate Option for Home Users</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-advice-and-analysis-on-cutting-edge-electronics-toms-hardware-experts/"><u>Expert Advice and Analysis on Cutting-Edge Electronics - Tom's Hardware Experts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/master-the-game-with-these-premier-gaming-chair-reviews-and-ratings/"><u>Master the Game with These Premier Gaming Chair Reviews and Ratings</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/mellowing-sound-piece-by-piece-in-fl/"><u>Mellowing Sound Piece-by-Piece in FL</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/review-the-77-aliexpress-3d-printer-delivers-quality-performance/"><u>Review: The $77 AliExpress 3D Printer Delivers Quality Performance</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-advanced-tech-the-most-reliable-webcams-for-podcasters/"><u>[New] In 2024, Advanced Tech The Most Reliable Webcams for Podcasters</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/2022s-finest-thermal-travel-mugs-ideal-for-tea-coffee-and-more-zdnet/"><u>2022'S Finest Thermal Travel Mugs: Ideal for Tea, Coffee & More | ZDNET</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/celestial-recovery-stellar-services-for-data-hubs/"><u>Celestial Recovery: Stellar Services for Data Hubs</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/easy-steps-to-restore-broken-movie-files-in-mp4mov-format-via-vlc/"><u>Easy Steps to Restore Broken Movie Files in MP4/MOV Format via VLC</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-quickly-change-or-forget-the-password-of-your-iosmacos-screen-time-lock/"><u>How to Quickly Change or Forget the Password of Your iOS/macOS Screen Time Lock</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-access-all-instagram-video-content-with-free-online-and-os-compatible-exporters/"><u>In 2024, Access All Instagram Video Content with Free Online and OS-Compatible Exporters</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-tecno-camon-20-premier-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigate-through-fake-responses-with-these-chatgpt-detection-resources-for-educators/"><u>Navigate Through Fake Responses with These ChatGPT Detection Resources for Educators</u></a></li>
+<li><a href="https://win11.techidaily.com/transform-your-computer-setup-mass-folder-formation-in-win11plus11/"><u>Transform Your Computer Setup: Mass Folder Formation in Win11+11</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ubers-fresh-interface-updates-unveiled-essential-info-revealed-by-zdnet/"><u>Uber's Fresh Interface Updates Unveiled: Essential Info Revealed by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbelievable-savings-alert-book-your-next-flight-at-just-6-of-the-price-with-dollar-flight-club-exclusive-insider-info-from-zdnet/"><u>Unbelievable Savings Alert! Book Your Next Flight at Just 6% of the Price with Dollar Flight Club | Exclusive Insider Info From ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/understanding-the-complexities-of-the-updated-electric-vehicle-tax-incentive-eligibility-criteria-revealed/"><u>Understanding the Complexities of the Updated Electric Vehicle Tax Incentive: Eligibility Criteria Revealed</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlock-the-future-of-food-retail-discover-zdnets-1-ai-innovation-transforming-shopping-trips/"><u>Unlock the Future of Food Retail: Discover ZDNet's #1 AI Innovation Transforming Shopping Trips!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/upcoming-redesign-of-your-uber-application-essential-insights-revealed-by-zdnet/"><u>Upcoming Redesign of Your Uber Application: Essential Insights Revealed by ZDNet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/usb-flash-drive-not-showing-up-easy-troubleshooting-steps-inside/"><u>USB Flash Drive Not Showing Up? Easy Troubleshooting Steps Inside!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnet-reveals-kalk-cake-electric-bike-your-eco-friendly-work-to-play-transporter-with-a-utilitarian-edge/"><u>ZDNet Reveals Kalk Cake Electric Bike: Your Eco-Friendly Work-to-Play Transporter with a Utilitarian Edge</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnets-comprehensive-guide-to-emporia-energys-economical-electric-vehicle-charger-with-enhanced-data-features/"><u>ZDNet's Comprehensive Guide to Emporia Energy’s Economical Electric Vehicle Charger with Enhanced Data Features</u></a></li>
 </ul></div>
 

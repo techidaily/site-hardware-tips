@@ -1,7 +1,7 @@
 ---
 title: "7-Device Charging Capacity: Unmatched 140W Portable Battery Backup That Lasts Longer Between Charges - Spotlight on Tech"
-date: 2025-02-09T18:22:36.281Z
-updated: 2025-02-15T18:54:08.789Z
+date: 2025-03-01T20:15:46.776Z
+updated: 2025-03-04T21:42:21.441Z
 tags:
   - laptops
 categories:
@@ -19,10 +19,6 @@ Taylor Clemons/ZDNET
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### ZDNET takeaways
 
@@ -80,10 +76,6 @@ The speaker system is also excellent for streaming music; I played the [Old Gods
 
 My one big complaint about the SteelSeries Arena 9 is that you really do feel that drop in control when dealing with a device that's been connected via USB or optical cable. The OLED dial allows you to choose between a few different presets but only offers a single option for a custom sound profile. In contrast, the Sonar app lets you create a custom soundscape for every media type and connected device. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## ZDNET's buying advice
 
 There is a lot that comes with the [SteelSeries Arena 9](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsteelseries-arena-9-5-1-bluetooth-gaming-speakers-with-rgb-lighting-6-piece-black%2F6515591.p%3FskuId%3D6515591&publisher_slug=itechdaily19598&exclusive=1), between the speakers and subwoofer, controller, and cables. It's easily one of the best-sounding systems I've tested, and the ability to tweak specific audio settings is game-changing. That said, if you mainly use a single platform like the PC or a console for gaming, you may want to opt for the smaller but still capable [Arena 7](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSteelSeries-Arena-Computer-Gaming-Speakers%2Fdp%2FB09KNYJL4R%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc4971bf4-e194-46b2-8b0b-6bcc868c45a4%7Cdtp&dtb=1) instead, since it comes with a single pair of speakers and a subwoofer. It doesn't include a control dial like the Arena 9, but you can quickly adjust basic volume and bass boost levels with the on-device knobs for watching shows and movies. 
@@ -91,10 +83,6 @@ There is a lot that comes with the [SteelSeries Arena 9](https://shop-links.co/l
 And if you're simply looking for a reliable set of PC speakers, the [Arena 3](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSteelSeries-Arena-Computer-Gaming-Speakers%2Fdp%2FB09KNYBT4Q%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc4971bf4-e194-46b2-8b0b-6bcc868c45a4%7Cdtp&dtb=1) is an excellent choice; they don't have the RGB lighting features like the Arena 7 and 9, making them a better choice for shared work spaces or home offices that double as gaming rooms. If you've been waiting for a decent deal to come along before you pick up the Arena 9, [Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsteelseries-arena-9-5-1-bluetooth-gaming-speakers-with-rgb-lighting-6-piece-black%2F6515591.p%3FskuId%3D6515591&publisher_slug=itechdaily19598&exclusive=1) is running a sale where the speaker system is $100 off its original price; this brings it down to $450, and while that's still on the pricey side, the multimedia support, ability to connect to multiple devices simultaneously, and incredible sound quality make it a worthy investment for your gaming space or home theater. 
 
 _This article was originally published on February 23, 2024, and was updated on September 17, 2024._
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## When does this deal expire?
 
@@ -130,22 +118,19 @@ Best Buy hasn't put a hard and fast end date for the $100 discount on the Arena 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-celebrating-soundtracks-the-ultimate-anime-list-for-2024/"><u>[New] Celebrating Soundtracks The Ultimate Anime List for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-from-base-to-pro-gopro-hero5-blacks-clash-with-hero4-silver/"><u>[New] From Base to Pro GoPro Hero5 Black's Clash with Hero4 Silver</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-apple-iphone-6-without-itunes-drfone-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked Apple iPhone 6 Without iTunes | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/advanced-tech-overviews-discover-more-at-tomngear/"><u>Advanced Tech Overviews: Discover More at Tom'n'Gear</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/an-android-enthusiasts-dream-customizing-your-phone-alerts-with-style-and-personality-for-2024/"><u>An Android Enthusiast’s Dream Customizing Your Phone Alerts with Style and Personality for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/effortless-installation-guide-wacom-intuos-pro-drivers-for-windows-11/"><u>Effortless Installation Guide: Wacom Intuos Pro Drivers for Windows 11</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/expert-techniques-for-high-quality-xbox-screenshots/"><u>Expert Techniques for High-Quality Xbox Screenshots</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/futureproof-your-pc-with-intels-latest-discovery-arrow-lake-processors-meet-z890-chipsets-in-leaked-imagery/"><u>Futureproof Your PC with Intel's Latest Discovery: Arrow Lake Processors Meet Z890 Chipsets in Leaked Imagery</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723125156692-get-the-ultimate-deal-highly-rated-eleegoo-neptune-4-pro-now-priced-at-240-on-newegg/"><u>Get the Ultimate Deal - Highly Rated Eleegoo Neptune 4 Pro Now Priced at $240 on Newegg!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/innovative-one-shot-3d-print-technology-unveils-robotic-hand-a-milestone-in-diy-prosthetics-and-amputation-solutions/"><u>Innovative One-Shot 3D Print Technology Unveils Robotic Hand: A Milestone in DIY Prosthetics and Amputation Solutions</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-voice-communication-barriers-to-enhance-teamwork-in-phasmophobia/"><u>Overcoming Voice Communication Barriers to Enhance Teamwork in Phasmophobia</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-most-convenient-bluetooth-mice-to-improve-your-workflow-and-comfort-2024-edition/"><u>The Most Convenient Bluetooth Mice to Improve Your Workflow and Comfort - 2024 Edition</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/top-8-android-apps-to-change-slow-motion-videos-to-regular-speed-vide/"><u>Top 8 Android Apps to Change Slow-Motion Videos to Regular-Speed Vide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-choice-air-cooled-heatsinks-of-2024-your-guide/"><u>Top Choice Air-Cooled Heatsinks of 2024: Your Guide</u></a></li>
-<li><a href="https://win-premium.techidaily.com/ultimate-guide-setting-up-a-new-ssd-or-hdd-on-your-windows-10-pc-quick-and-easy-steps/"><u>Ultimate Guide: Setting Up a New SSD or HDD on Your Windows 10 PC - Quick and Easy Steps!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unleashing-new-era-in-ai-performance-amperes-cutting-edge-512-core-ampereone-aurora-processor-with-custom-ai-engine-capabilities-and-hbm-memory-support-rede48/"><u>Unleashing New Era in AI Performance: Ampere's Cutting-Edge 512-Core AmpereOne Aurora Processor with Custom AI Engine Capabilities and HBM Memory Support Redefining Computational Excellence</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-gadgets-and-components-on-toms-digital-forge/"><u>Unveiling Gadgets and Components on Tom's Digital Forge</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-how-to-use-youcam-webcam-recorder/"><u>[New] 2024 Approved How to Use YouCam Webcam Recorder</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-past-paints-legal-freedoms-for-classics/"><u>[New] Past Paints Legal Freedoms for Classics</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-charting-the-course-from-adsense-income-to-savings-for-2024/"><u>[Updated] Charting the Course From AdSense Income to Savings for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-perfecting-self-portraits-iphones-burst-capability/"><u>[Updated] Perfecting Self-Portraits IPhone's Burst Capability</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-infusing-emotion-into-documentary-narratives/"><u>2024 Approved Infusing Emotion Into Documentary Narratives</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-epson-ds-530-printer-up-and-running-on-64-bit-windows-10-with-new-driver-download/"><u>Get Your Epson DS-530 Printer Up and Running on 64-Bit Windows 10 with New Driver Download</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-vivo-v27-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Vivo V27 | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/jabra-sound-problems-discover-easy-fixes-with-our-detailed-2024-headset-guide/"><u>Jabra Sound Problems? Discover Easy Fixes with Our Detailed 2024 Headset Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/rethinking-personnel-oversight-tactics-in-the-movement-industry-a-deep-dive-by-zdnet/"><u>Rethinking Personnel Oversight Tactics in the Movement Industry: A Deep Dive by ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionizing-the-road-how-modern-electric-vehicles-outshine-classic-priuses/"><u>Revolutionizing the Road: How Modern Electric Vehicles Outshine Classic Priuses</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/save-on-budget-friendly-electric-bikes-below-900-grab-yours-today/"><u>Save on Budget-Friendly Electric Bikes Below $900 - Grab Yours Today!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/score-over-2k-in-airfare-savings-join-the-dollar-flight-club-exclusive-offer-insider-info-by-zdnet/"><u>Score Over $2K in Airfare Savings: Join the Dollar Flight Club Exclusive Offer - Insider Info by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/singapore-airlines-launches-free-all-cabin-wi-fi-service-travelers-can-enjoy-continuous-connectivity-onboard-across-economy-to-first-class/"><u>Singapore Airlines Launches Free All-Cabin Wi-Fi Service - Travelers Can Enjoy Continuous Connectivity Onboard Across Economy to First Class.</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/streamline-your-ai-interactions-tools-for-sharing-chatgpt-dialogues-online/"><u>Streamline Your AI Interactions: Tools for Sharing ChatGPT Dialogues Online</u></a></li>
 </ul></div>
 

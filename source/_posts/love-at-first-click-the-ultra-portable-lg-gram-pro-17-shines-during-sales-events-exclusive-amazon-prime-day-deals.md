@@ -1,7 +1,7 @@
 ---
 title: "Love at First Click: The Ultra-Portable LG Gram Pro 17 Shines During Sales Events - Exclusive Amazon Prime Day Deals!"
-date: 2025-02-09T18:35:51.853Z
-updated: 2025-02-15T21:53:06.439Z
+date: 2025-03-03T17:32:54.712Z
+updated: 2025-03-04T22:31:25.642Z
 tags:
   - laptops
 categories:
@@ -24,10 +24,6 @@ HP includes an Nvidia GeForce RTX 3050 graphics card and a screen capable of a 1
 **Also: [The best budget gaming laptops: Expert tested](https://www.zdnet.com/article/best-budget-gaming-laptop/)** 
 
 With 8GB of RAM, a 512GB SSD, and an Intel Core i5-12450H series processor, this system has quick speeds and the ability to put the power to where your system needs it most. But, you'd think with all the powerful components in this laptop, the battery life would suffer. Wrong. This laptop features a battery that can last up to 8 hours and 15 minutes while being able to be charged up to 50% in as little as 30 minutes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -63,21 +59,22 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-pinnacle-of-hd-recording-expertly-curated-list/"><u>[New] Pinnacle of HD Recording Expertly Curated List</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-avatar-asymmetry-artistry-designing-your-animated-look/"><u>[Updated] Avatar Asymmetry Artistry Designing Your Animated Look</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-twilight-tones-adobe-premiere-blackouts/"><u>[Updated] Twilight Tones Adobe Premiere Blackouts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/amd-ryzen-ai-9-hx-370-outperforms-apple-m3-max-battle-of-laptop-chips-unfolds/"><u>AMD Ryzen AI 9 HX 370 Outperforms Apple M3 Max: Battle of Laptop Chips Unfolds</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-the-world-of-hardware-with-toms-systems/"><u>Exploring the World of Hardware with Tom's Systems</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-fix-windows-11-sync-options-disabled-issue/"><u>How to Fix Windows 11 Sync Options Disabled Issue</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/introducing-the-cutting-edge-flagship-k1c-from-creality-a-new-era-in-3d-printers/"><u>Introducing the Cutting-Edge Flagship K1C From Creality, a New Era in 3D Printers</u></a></li>
-<li><a href="https://techtrends.techidaily.com/missing-essential-files-learn-how-to-fix-physxloaderdll-not-found-problems/"><u>Missing Essential Files? Learn How to Fix 'PhysXLoader.dll' Not Found Problems</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/power-your-setup-cutting-edge-advice-by-toms-hardware-specialists/"><u>Power Your Setup: Cutting-Edge Advice by Tom's Hardware Specialists</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revolutionary-single-run-3d-printing-process-produces-operable-prosthetic-hands-paving-the-way-for-personalized-limb-fabrication-at-home/"><u>Revolutionary Single-Run 3D Printing Process Produces Operable Prosthetic Hands, Paving the Way for Personalized Limb Fabrication at Home</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revolutionizing-additive-manufacturing-the-top-review-of-elegoo-saturn-s-cutting-edge-resin-printer/"><u>Revolutionizing Additive Manufacturing: The Top Review of Elegoo Saturn ^'S Cutting-Edge Resin Printer</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/skydance-media-announces-strategic-acquisition-of-paramountplus-streaming-service-expands-entertainment-portfolio-with-pluto-tv-inclusion/"><u>Skydance Media Announces Strategic Acquisition of Paramount+ Streaming Service, Expands Entertainment Portfolio with Pluto TV Inclusion</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/the-best-ispoofer-alternative-to-try-on-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Infinix Smart 8 | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/the-best-ispoofer-alternative-to-try-on-samsung-galaxy-a54-5g-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Samsung Galaxy A54 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-staying-cool-with-the-best-nvme-ssd-cooler-on-market-t-forces-dark-airflow-i/"><u>Ultimate Guide to Staying Cool with the Best NVMe SSD Cooler on Market - T-Force's Dark AirFlow I</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-top-rated-free-wmv-video-joiner-programs/"><u>Updated 2024 Approved Top-Rated Free WMV Video Joiner Programs</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-exclusive-screen-savers-best-12-with-unlimited-recording/"><u>[New] Exclusive Screen Savers Best 12 with Unlimited Recording</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-deep-dive-into-apps-with-az-recorder/"><u>[Updated] Deep Dive Into Apps with AZ Recorder</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-effective-naming-adjustments-for-google-meet-users-laptopmobile/"><u>[Updated] Effective Naming Adjustments for Google Meet Users (Laptop/Mobile)</u></a></li>
+<li><a href="https://techtrends.techidaily.com/essential-7-summer-edc-products-you-cant-live-without/"><u>Essential 7 Summer EDC Products You Can't Live Without</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-successful-for-new-world-addressing-the-easy-anti-cheat-problems/"><u>Fix Successful for 'New World': Addressing the Easy Anti-Cheat Problems</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/in-2024-unbiased-review-how-to-use-filmora-for-free-without-risks/"><u>In 2024, Unbiased Review How to Use Filmora for Free Without Risks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/tailored-auto-coverage-based-on-telematics-data-get-a-fairer-rate-innovative-insurance-solutions/"><u>Tailored Auto Coverage Based on Telematics Data - Get a Fairer Rate! | Innovative Insurance Solutions</u></a></li>
+<li><a href="https://windows11.techidaily.com/tech-savvy-access-three-ways-to-game-directories/"><u>Tech Savvy Access: Three Ways to Game Directories</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/teslas-cybertruck-vindicated-as-ocean-crossing-vehicle-by-elon-musk-breakthrough-revealed-zdnet/"><u>Tesla's Cybertruck Vindicated as Ocean-Crossing Vehicle by Elon Musk - Breakthrough Revealed | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-complete-guide-to-activating-uwb-on-android-phones-enhance-your-in-car-experience-zdnet/"><u>The Complete Guide to Activating UWB on Android Phones - Enhance Your In-Car Experience | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-paradox-of-attractiveness-unveiling-the-clash-between-uniteds-branding-and-employee-sentiment-as-reported-by-zdnet/"><u>The Paradox of Attractiveness: Unveiling the Clash Between United's Branding & Employee Sentiment as Reported by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/thrilling-off-road-adventures-with-a-rugged-e-bike-a-joyful-journey-unveiled-on-zdnet/"><u>Thrilling Off-Road Adventures with a Rugged E-Bike: A Joyful Journey Unveiled on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-5-affordable-dashcams-comprehensive-review-by-zdnet/"><u>Top 5 Affordable Dashcams : Comprehensive Review by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-5-electric-vehicles-a-comprehensive-review-by-zdnet/"><u>Top 5 Electric Vehicles : A Comprehensive Review by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-5-electric-vehicles-comprehensive-review-by-zdnet/"><u>Top 5 Electric Vehicles : Comprehensive Review by ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/tricks-to-prevent-auto-sleep-on-macbook-when-you-close-the-lid/"><u>Tricks to Prevent Auto-Sleep on MacBook When You Close the Lid.</u></a></li>
+<li><a href="https://games-able.techidaily.com/what-is-nvidia-g-sync-heres-how-it-delivers-smoother-gaming/"><u>What Is Nvidia G-Sync? Here's How It Delivers Smoother Gaming</u></a></li>
 </ul></div>
 

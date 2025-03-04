@@ -1,7 +1,7 @@
 ---
 title: "A Step-by-Step Guide: Transforming Your FBX Models Into Compatible OBJ Files for 3D Printing"
-date: 2024-08-15T06:31:09.786Z
-updated: 2024-08-16T06:31:09.786Z
+date: 2025-02-28T20:19:54.373Z
+updated: 2025-03-04T16:50:48.631Z
 tags:
   - printer
 categories:
@@ -19,9 +19,6 @@ Blobs are excessive deposits of melted filament that appear as small and irregul
 
  It’s also advisable to increase the fan's speed to prevent overheating of the layers before the next ones are deposited, which leads to excess melted filament, which later forms blobs on the object.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ## 2\. Optimize Retraction Settings
 
  Retraction plays an essential role in pulling the filament back slightly when the nozzle is not moving between different locations. This helps prevent oozing which can result in blobs and other issues like[stringing in 3D prints](https://www.tomshardware.com/3d-printing/how-to-fix-stringing-in-3d-prints) .
@@ -36,9 +33,6 @@ Blobs are excessive deposits of melted filament that appear as small and irregul
 
  As you make the adjustments, you can also 3D print a[retraction test model](https://www.thingiverse.com/thing:909901) and use it to adjust the settings until you achieve the sweet spot.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -48,17 +42,11 @@ Blobs are excessive deposits of melted filament that appear as small and irregul
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
 ![How to Avoid Blobs and Zits in 3D Prints](https://cdn.mos.cms.futurecdn.net/bf3r7C9s6nZACJhsioefLA-320-80.png)
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
  You can begin with a lower retraction distance, like 2mm, print the model, and then check how it appears. It might have strings and other imperfections, and you can continue increasing by 0.5mm until you see improvement. You can then shift to retraction speed and start with a lower value, like 30 mm/s, and increase it gradually as you observe how the prints appear until you find the optimal value.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Use Coasting
 
  When you activate coasting settings, it stops the extruding filament slightly before the end of the path when the nozzle is about to travel over an area without printing. This is helpful as it minimizes the pressure build-up in the nozzle, which causes the filament to ooze out and turn into blobs or zits. You can find the coasting setting in the**Experimental** section, and check the**Enable coasting** box to activate it.
@@ -70,9 +58,6 @@ Blobs are excessive deposits of melted filament that appear as small and irregul
  When you enable it, other settings appear, like**Coasting Volume** ,**Minimum Volume Before Coasting** , and**Coasting Speed** .
 
 ![How to Avoid Blobs and Zits in 3D Prints](https://cdn.mos.cms.futurecdn.net/dddhLGSrhmwrGxEcJzAHYA-320-80.png)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -90,9 +75,6 @@ Blobs are excessive deposits of melted filament that appear as small and irregul
 
  The standard speed is usually between 50-60 mm/s, and anything above this can result in problems. If the temperature is too high, the filament can become too fluid and start oozing out. Alternatively, if it is too low, there can be incomplete melting which results in uneven extrusion which causes irregularities and inconsistencies in the printed layers. You must adjust the temperature until you find the perfect settings for your filament and printer.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Disable Power Recovery Feature
 
  If none of the above options don’t work, you should consider turning off the power recovery option if it’s turned on. Even though this feature helps save your 3D print instead of starting to print from scratch in case of power interruption, it can introduce blobs. This is because when the feature is activated, the 3D printers utilize the SD card to write “check-points” or the print job state to the card, which will help in resuming the print and this might start competing with the standard printing operation, resulting in blobs.
@@ -109,14 +91,11 @@ Blobs are excessive deposits of melted filament that appear as small and irregul
 
 **More:** [How to Use PrusaSlicer: A Beginners Guide](https://www.tomshardware.com/how-to/use-prusaslicer)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -125,4 +104,26 @@ Blobs are excessive deposits of melted filament that appear as small and irregul
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-3-ways-add-captions-to-instagram-videos/"><u>[Updated] In 2024, [3 Ways] Add Captions to Instagram Videos</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-innovating-mukbang-content-with-fresh-creative-ideas/"><u>[Updated] Innovating Mukbang Content with Fresh, Creative Ideas</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-the-instagram-analysts-handbook-decoding-engagement-and-reach/"><u>[Updated] The Instagram Analyst's Handbook Decoding Engagement and Reach</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-the-ultimate-screenshot-sticker-guide-for-iphones-and-androids/"><u>2024 Approved The Ultimate Screenshot-Sticker Guide for iPhones and Androids</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/athletic-advocates-mastering-machine-dialogue/"><u>Athletic Advocates, Mastering Machine Dialogue</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/gemini-milestone-the-1m-tokens-revolution/"><u>Gemini Milestone: The $1M Tokens Revolution</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-simple-steps-to-modify-screen-capture-on-macos/"><u>In 2024, Simple Steps to Modify Screen Capture on macOS</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-apple-iphone-8-plus-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 5 Tracking Apps to Track Apple iPhone 8 Plus without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Honor Magic 6 Pro? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/step-by-step-guide-enhancing-your-surface-pro-x-with-an-ssd-upgrade-a-detailed-walkthrough/"><u>Step-by-Step Guide: Enhancing Your Surface Pro X with an SSD Upgrade - A Detailed Walkthrough</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/step-by-step-instructions-for-downloading-the-first-android-13-beta-is-immediate-installation-advised-zdnet/"><u>Step-by-Step Instructions for Downloading the First Android 13 Beta: Is Immediate Installation Advised? | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/storage-solution-a-4tb-samsung-portable-ssd-available-only-at-amazon/"><u>Storage Solution – A 4TB Samsung Portable SSD Available Only at Amazon!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-comprehensive-guide-to-apples-intelligent-ipad-mini-vs-new-iphone-16-models-thought-leadership-by-zdnet-analyst/"><u>The Comprehensive Guide to Apple's Intelligent iPad Mini Vs. New iPhone 16 Models | Thought Leadership by ZDNet Analyst</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-iphone-n16-phenomenon-most-popular-variants-and-their-availability-timelines-as-analyzed-by-zdnet/"><u>The iPhone #N#16 Phenomenon: Most Popular Variants and Their Availability Timelines as Analyzed by ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-10-internet-coffee-shops-the-leading-hotspots-of-2024-insights-from-zdnet/"><u>Top 10 Internet Coffee Shops: The Leading Hotspots of 2024 - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-5-premier-hotel-applications-in-2e-24-a-comprehensive-review-by-zdnet/"><u>Top 5 Premier Hotel Applications in 2E-24: A Comprehensive Review by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-tier-durable-windows-tablet-with-active-pen-in-depth-review-and-testing-insights/"><u>Top-Tier Durable Windows Tablet with Active Pen: In-Depth Review and Testing Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-tier-ultrabook-showdown-how-the-huawei-matebook-es-premium-oled-screen-rises-to-challenge-the-microsoft-surface-pro-8-insights-from-zdnet/"><u>Top-Tier Ultrabook Showdown: How the Huawei MateBook E's Premium OLED Screen Rises to Challenge the Microsoft Surface Pro 8 | Insights From ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transforming-my-note-taking-game-a-two-week-journey-on-the-vibrant-colored-inks-of-remarkable-tablets-zdnet-insights/"><u>Transforming My Note-Taking Game: A Two-Week Journey on the Vibrant Colored Inks of Remarkable Tablets | ZDNet Insights</u></a></li>
+</ul></div>
 

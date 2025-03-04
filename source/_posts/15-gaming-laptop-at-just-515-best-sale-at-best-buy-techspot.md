@@ -1,7 +1,7 @@
 ---
 title: 15 Gaming Laptop at Just $515 - Best Sale at Best Buy | TechSpot
-date: 2025-02-12T18:04:40.651Z
-updated: 2025-02-15T17:46:53.849Z
+date: 2025-03-03T19:18:23.037Z
+updated: 2025-03-04T21:38:10.817Z
 tags:
   - laptops
 categories:
@@ -24,10 +24,6 @@ HP includes an Nvidia GeForce RTX 3050 graphics card and a screen capable of a 1
 **Also: [The best budget gaming laptops: Expert tested](https://www.zdnet.com/article/best-budget-gaming-laptop/)** 
 
 With 8GB of RAM, a 512GB SSD, and an Intel Core i5-12450H series processor, this system has quick speeds and the ability to put the power to where your system needs it most. But, you'd think with all the powerful components in this laptop, the battery life would suffer. Wrong. This laptop features a battery that can last up to 8 hours and 15 minutes while being able to be charged up to 50% in as little as 30 minutes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -63,24 +59,21 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-getting-involved-in-the-global-village-facebook/"><u>[New] Getting Involved in the Global Village (Facebook)</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-streaming-tweets-on-whatsapp-a-2023-guide/"><u>[New] Streaming Tweets on WhatsApp A 2023 Guide</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-unlock-old-facebook-memories-with-a-click/"><u>[New] Unlock Old Facebook Memories with a Click</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-navigating-to-superior-cloud-solutions-for-your-needs/"><u>[Updated] Navigating to Superior Cloud Solutions for Your Needs</u></a></li>
-<li><a href="https://blog-min.techidaily.com/youtubevimeo/"><u>「YouTubeやVimeoで動画テキストを隠すための最新手法とおすすめアプリ」</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-xiaomi-13-ultra-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Xiaomi 13 Ultra Activity | Dr.fone</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-dissecting-ustreams-features-and-rivals/"><u>2024 Approved Dissecting Ustream's Features and Rivals</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/amplify-your-pcs-performance-the-duoblast-air-chiller-by-cyberflow-cools-dual-cpus-seamlessly/"><u>Amplify Your PC’s Performance: The DuoBlast Air Chiller by CyberFlow Cools Dual CPUs Seamlessly</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/best-laptops-for-academic-excellence-and-beyond-extensively-tested-options-for-research-writing-gaming-and-more/"><u>Best Laptops for Academic Excellence and Beyond: Extensively Tested Options for Research, Writing, Gaming, and More</u></a></li>
-<li><a href="https://fox-that.techidaily.com/comprehensive-troubleshooting-mastering-the-most-frequent-iphone-glitches-with-15-expert-tips/"><u>Comprehensive Troubleshooting: Mastering the Most Frequent iPhone Glitches with 15 Expert Tips</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/cpu-showdown-conclusion-how-ryzens-zen-5-powered-ai9-hx-outstrips-intel-and-apple-in-a-passmark-performance-clash/"><u>CPU Showdown Conclusion: How Ryzen's Zen 5 Powered AI9 HX Outstrips Intel & Apple in a PassMark Performance Clash</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/detailed-breakdown-of-intels-new-extended-warranty-inclusive-coverage-for-core-processor-series-i5-i7-i9-13th-to-14th-generation/"><u>Detailed Breakdown of Intel's New Extended Warranty: Inclusive Coverage for Core Processor Series (I5, I7, I9) - 13Th to 14Th Generation</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-computer-hardware-with-tom-your-go-to-guide/"><u>Exploring Computer Hardware with Tom - Your Go-To Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-rust-program-termination-errors-tips-and-solutions/"><u>Fixing Rust Program Termination Errors - Tips & Solutions</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/inside-the-world-of-gadgets-toms-in-depth-hardware-analysis/"><u>Inside the World of Gadgets: Tom's In-Depth Hardware Analysis</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/intel-cpu-owners-take-note-game-dev-offers-solutions-to-mitigate-crashes-on-13th-and-14th-gen-models-click-for-guide/"><u>Intel CPU Owners, Take Note! Game Dev Offers Solutions to Mitigate Crashes on 13Th & 14Th Gen Models – Click for Guide!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/master-the-art-of-keeping-a-clean-nozzle-on-your-3d-printing-device/"><u>Master the Art of Keeping a Clean Nozzle on Your 3D Printing Device</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-the-latest-game-monitors-budget-essentials-to-high-end-curved-displays-with-g-sync/"><u>Navigating the Latest Game Monitors : Budget Essentials to High-End Curved Displays with G-Sync</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/user-defined-initialization-options-panel-for-custom-application-deployment/"><u>User-Defined Initialization Options Panel for Custom Application Deployment</u></a></li>
+<li><a href="https://win-answers.techidaily.com/the-ascent-optimization-guide-steps-to-boost-frames-per-second-and-eradicate-stuttering-issues/"><u>'The Ascent' Optimization Guide: Steps to Boost Frames per Second & Eradicate Stuttering Issues</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-maximizing-channel-potential-across-diverse-digital-venues/"><u>[New] 2024 Approved Maximizing Channel Potential Across Diverse Digital Venues</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-easy-efficient-and-essential-top-23-tools-to-downgrade-youtube-audios-for-2024/"><u>[New] Easy, Efficient, and Essential Top 23 Tools to Downgrade YouTube Audios for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-the-art-of-curating-digital-stories-on-fb-for-2024/"><u>[New] The Art of Curating Digital Stories on FB for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/free-electronic-signature-for-docx-by-ldigisigner-sign-a-word-sign-a-word/"><u>Free electronic signature - For .docx </u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-sky-high-savings-lock-in-lower-airfare-prices-with-the-exclusive-deals-from-dollar-flight-club-secure-your-passage-now/"><u>Get Sky-High Savings: Lock in Lower Airfare Prices with the Exclusive Deals From Dollar Flight Club - Secure Your Passage Now!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-bmws-wireless-charging-system-could-affect-iphone-models-beyond-m15-insights-from-zdnet/"><u>How BMW's Wireless Charging System Could Affect iPhone Models Beyond M15 - Insights From ZDNet</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Samsung Galaxy F54 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/innovative-approach-in-airline-industry-southwest-boosts-customer-experience-says-zdnet-analysis/"><u>Innovative Approach in Airline Industry: Southwest Boosts Customer Experience, Says ZDNet Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/integration-of-qualcomm-technology-in-hyundais-next-gen-pbv-infotainment-revealed-by-zdnet/"><u>Integration of Qualcomm Technology in Hyundai's Next-Gen PBV Infotainment, Revealed by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/investigation-launched-into-fords-autonomous-driving-tech-following-tragic-accidents-key-insights/"><u>Investigation Launched Into Ford’s Autonomous Driving Tech Following Tragic Accidents: Key Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/is-pocketing-your-parcel-by-drone-on-consumers-wishlist-the-prospects-and-pricing/"><u>Is Pocketing Your Parcel by Drone on Consumer's Wishlist? The Prospects and Pricing!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mega-cyber-monday-specials-snag-dji-mini-2-drones-and-accessories-for-up-to-65-off-save-big/"><u>Mega Cyber Monday Specials: Snag DJI Mini 2 Drones & Accessories for Up To 65% Off - Save Big !</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/schritte-zum-wiederaufbau-eines-windows-servers-aus-backupdaten-in-einer-virtual-machine/"><u>Schritte Zum Wiederaufbau Eines Windows-Servers Aus Backupdaten in Einer Virtual Machine.</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-the-impact-of-generative-ai-on-modern-misinformation-tactics/"><u>Understanding the Impact of Generative AI on Modern Misinformation Tactics</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlocking-digital-reading-how-to-easily-download-and-read-google-ebooks-on-amazons-kindle-fire/"><u>Unlocking Digital Reading: How to Easily Download & Read Google eBooks on Amazon's Kindle Fire</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Authoritative Hardware Insights Powered by Tom'nTech Critics
-date: 2024-08-15T06:31:48.981Z
-updated: 2024-08-16T06:31:48.981Z
+date: 2025-03-01T17:06:18.055Z
+updated: 2025-03-04T19:01:34.801Z
 tags:
   - best-picks
 categories:
@@ -48,18 +48,12 @@ When buying a Raspberry Pi HAT, ask yourself these questions:
 11. Adafruit Capacitive Touch HAT
 12. Raspberry Pi M.2 HAT+
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Best Raspberry Pi HATs
 
 ![Pimoroni Inventor HAT Mini](https://cdn.mos.cms.futurecdn.net/Pdgb5CBBk68VjxQGeN8GFE-320-80.jpg)
 
  (Image credit: Tom's Hardware)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ### 1\. Pimoroni Inventor HAT Mini
 
 Best General Purpose Raspberry Pi HAT
@@ -116,9 +110,6 @@ Simple Python module
 
  (Image credit: Tom's Hardware)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 2\. Build HAT
 
 Best Raspberry Pi HAT for Lego Projects
@@ -224,10 +215,6 @@ Add 14 GPIO pins
  There is nothing not to like about the Pimoroni IO Expander, which is small in size but big in features and it should be in the bits box of every Raspberry Pi enthusiast.
 
 ![Best Raspberry Pi HATs](https://cdn.mos.cms.futurecdn.net/m7hyCqNXZXwVbdfCjGR8wb-320-80.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 
  (Image credit: Pimoroni)
 
@@ -276,9 +263,6 @@ Blocks CPU and raises temperature
  One potential issue with the Picade X HAT is that, because gaming puts a load on your processor and the board covers your CPU, it can trap in heat, which is a particular problem for Raspberry Pi 4s. If you use a stacker to raise the height, you can put a fan or heat sink below it.
 
 ![Best Raspberry Pi HATs](https://cdn.mos.cms.futurecdn.net/jiysLLyHNsrXxo3nMJDR8c-320-80.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  (Image credit: Raspberry Pi Trading)
 
@@ -323,16 +307,9 @@ Works with Python and Scratch
  If you’re working with kids or just want to have fun getting started with a Pi, the Sense HAT should be at the top of your shopping list. The amount of learning offered by this board is superb. Two Sense HATs live aboard the International Space Station and every year students compete to have their code run on it . . . from the AstroPi, a Raspberry Pi in space.
 
 ![Best Raspberry Pi HATs](https://cdn.mos.cms.futurecdn.net/nnELAU9czPx2B3uyGbnzPc-320-80.png)
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 
  (Image credit: Pimoroni)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ### 6\. Pimoroni Breakout Garden
 
  Best Raspberry Pi HAT for Using Multiple Sensors
@@ -373,9 +350,6 @@ Breakout I2C boards can be expensive
 
  (Image credit: Raspberry Pi Trading)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### 7\. Raspberry Pi PoE HAT
 
  Best Raspberry Pi HAT for Power over Ethernet
@@ -424,9 +398,6 @@ Only works on Pi 3B+ and later
 
  (Image credit: Gareth Halfacree)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ### 8\. Google AIY Voice Kit (with HAT)
 
  Best Raspberry Pi HAT for Artificial Intelligence
@@ -466,15 +437,9 @@ Initial purchase is expensive
  To accompany this Raspberry Pi HAT is a robust Python 3 module which simplifies the task of creating a voice assistant. This HAT can be used with all 40 pin models of Raspberry Pi including the Pi Zero W. A great kit to start your AI learning!
 
 ![Best Raspberry Pi HATs](https://cdn.mos.cms.futurecdn.net/RA4pe4KswtZXjFnmvx2fsc-320-80.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  (Image credit: Les Pounder)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ### 9\. Cyntech Pibrella
 
 Best Raspberry Pi HAT for Younger Makers
@@ -563,9 +528,6 @@ Expensive for multiple boards
 
  (Image credit: Adafruit)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 11\. Adafruit Capacitive Touch HAT
 
  Best Raspberry Pi HAT for Inspiring Creativity
@@ -612,9 +574,6 @@ Lots of wires for all 12 connections
 
  (Image credit: Tom's Hardware)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### [12. Raspberry Pi M.2 HAT+](https://www.tomshardware.com/raspberry-pi/raspberry-pi-m2-hat-review)
 
 Best Raspberry Pi 5 M.2 HAT for Storage
@@ -717,8 +676,6 @@ powered by
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -726,4 +683,16 @@ powered by
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-vanguard-designs-evaluation-studio-25-examined-current-year/"><u>[Updated] 2024 Approved Vanguard Designs Evaluation Studio 25 Examined, Current Year</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-decoding-the-functionality-of-youtubes-media-hub/"><u>[Updated] Decoding the Functionality of YouTube's Media Hub</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ving-peak-performance-in-video-submissions-on-youtube/"><u>Achieving Peak Performance in Video Submissions on YouTube</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-boundaries-of-chatgpt-token-usage-can-it-be-expanded/"><u>Exploring the Boundaries of ChatGPT Token Usage: Can It Be Expanded?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/google-unveils-a-decade-of-search-expertise-to-boost-green-startups-in-its-new-accelerator-initiative-the-tech-chronicle/"><u>Google Unveils a Decade of Search Expertise to Boost Green Startups in Its New Accelerator Initiative | The Tech Chronicle</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-analysis-of-paralympics-and-olympics-data-can-drive-energy-efficiency-at-the-upcoming-games-a-zdnet-perspective/"><u>How Analysis of Paralympics & Olympics Data Can Drive Energy Efficiency at the Upcoming Games: A ZDNet Perspective</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/innovating-green-pioneering-tech-strategies-for-a-sustainable-future-zdnet/"><u>Innovating Green: Pioneering Tech Strategies for a Sustainable Future | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-the-green-giant-of-telecom-how-the-galaxy-s23-takes-sustainability-to-new-heights-zdnet-insider/"><u>Introducing the Green Giant of Telecom: How the Galaxy S23 Takes Sustainability to New Heights | ZDNet Insider</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/upcoming-revelations-at-apples-autumn-unveiling-delving-into-the-new-m4-mac-mini-latest-ipad-features-enhanced-siri-capabilities-and-other-surprises/"><u>Upcoming Revelations at Apple's Autumn Unveiling: Delving Into the New M4 Mac Mini, Latest iPad Features, Enhanced Siri Capabilities & Other Surprises</u></a></li>
+</ul></div>
 

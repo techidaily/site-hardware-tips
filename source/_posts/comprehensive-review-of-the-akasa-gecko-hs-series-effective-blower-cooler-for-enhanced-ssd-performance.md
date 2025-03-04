@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Review of the Akasa Gecko HS Series: Effective Blower Cooler for Enhanced SSD Performance"
-date: 2024-08-15T06:31:02.297Z
-updated: 2024-08-16T06:31:02.297Z
+date: 2025-03-03T20:46:20.000Z
+updated: 2025-03-04T16:34:15.848Z
 tags:
   - cooling
 categories:
@@ -53,9 +53,6 @@ Until recently, cooling and storage was at best an afterthought for most enthusi
 
  We check over 250 million products every day for the best prices
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Packing and Included Contents
 
  ID-Cooling’s ZERO M05 arrives in a small 12 (L) x 6.5 (W) x 2 (D) cm box. The M15 is the same but with a larger depth of 4.5cm. The M15 is protected by molded foam for the protection of the heatsink, whereas the M05 arrives in molded plastic. Included with each unit are the heatsink, screws, and thermal pads necessary to use the product.
@@ -70,9 +67,6 @@ Until recently, cooling and storage was at best an afterthought for most enthusi
 
  (Image credit: Tom's Hardware)
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Installation
 
  The installation of the NVMe heatsinks is simple and generally quick to complete.
@@ -101,9 +95,6 @@ Until recently, cooling and storage was at best an afterthought for most enthusi
 
  (Image credit: Tom's Hardware)
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ## Features of ID Cooling's Zero M05 and M15 SSD heatsinks
 
 **▶ Double sided SSD support**
@@ -115,9 +106,6 @@ Until recently, cooling and storage was at best an afterthought for most enthusi
  The M05 model is fairly basic, featuring a simple aluminum heatsink with thick fins. As it is only 6mm tall, it is fully compatible with any component you might consider installing nearby.
 
 ![ID-Cooling Zero M05 and M15](https://cdn.mos.cms.futurecdn.net/M5p4GAuseXo8axuCSkSR5-320-80.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -130,17 +118,11 @@ Until recently, cooling and storage was at best an afterthought for most enthusi
  While the M05 is petite, designed for maximum compatibility,the M15 is 30mm thick and designed for enhanced thermal dissipation. In addition to the array of aluminum fins, heat is also transferred away from the SSD via the 6mm copper heatpipe integrated into the heatsink.
 
 ![ID-Cooling Zero M05 and M15](https://cdn.mos.cms.futurecdn.net/ZFAzSXoiJYomVHeA9JfKb6-320-80.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
  As this is a taller heatsink, there will be some compatibility restrictions. You won’t be able to install this next to a CPU with some air coolers like[DeepCool’s Assassin IV](https://www.tomshardware.com/reviews/deepcool-assassin-iv) \- the heatpipes of the unit interfere with it. Other air coolers like[ID-Cooling’s A720](https://www.tomshardware.com/pc-components/cooling/id-cooling-frozn-a720-and-a620-review) , and virtually all liquid coolers, shouldn’t have compatibility issues and you can install taller heatsinks like the M15 next to them.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Testing Methodology
 
  With SSD heatsinks, a lot of you are probably asking if it really matters. And if you’re a typical user who merely loads a few applications and games from time to time – you probably don’t need an advanced heatsink. I’ve run a variety of tests, and for common tasks like loading a game or application, you generally don’t need more than a basic heatsink – at least not with current SSDs and workloads.
@@ -153,9 +135,6 @@ Until recently, cooling and storage was at best an afterthought for most enthusi
 
  This test will cause throttling when paired with lower-end heatsinks. For those heatsinks, we’ll be looking at the IOPS of the drive during testing. The more advanced heatsinks and coolers will be capable of keeping the SSD under its peak temperature – for these units, we’ll compare the actual temperatures of the TeamGroup Z540 SSD.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ## How hot is too hot? Does cooling even matter for a SSD?
 
  When I was determining how to test these units, I consulted with many storage industry experts before I started testing. They emphasized that modern PCIe 5.0 drives need at least some sort of cooling to avoid throttling and that even basic workloads can be impacted by minor throttling without a heatsink.
@@ -197,17 +176,12 @@ Until recently, cooling and storage was at best an afterthought for most enthusi
  powered by
 
 ![Toms Hardware](https://search-api.fie.futurecdn.net/img/sites/tomshardware.png "Toms Hardware")
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -216,4 +190,20 @@ Until recently, cooling and storage was at best an afterthought for most enthusi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-the-complete-guide-to-downloading-and-enjoying-ifunny-memes/"><u>[New] The Complete Guide to Downloading and Enjoying iFunny Memes</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-direct-routine-for-easy-fishy-tone-change-on-your-win-computer/"><u>[Updated] Direct Routine for Easy Fishy Tone Change on Your Win Computer</u></a></li>
+<li><a href="https://win-online.techidaily.com/1-resolving-issues-with-non-appearing-iphone-playlist-on-itunes-top-4-solutions/"><u>1. Resolving Issues with Non-Appearing iPhone Playlist on iTunes: Top 4 Solutions</u></a></li>
+<li><a href="https://article-posts.techidaily.com/download-and-generate-free-official-passport-pictures-now-for-2024/"><u>Download & Generate Free, Official Passport Pictures Now for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-budget-friendly-ultra-panoramic-video-cameras/"><u>In 2024, Budget-Friendly Ultra-Panoramic Video Cameras</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-perfecting-iphone-photo-albums-seamless-integration-with-icloud/"><u>In 2024, Perfecting iPhone Photo Albums Seamless Integration with iCloud</u></a></li>
+<li><a href="https://win-top.techidaily.com/leading-belgium-seo-experts-and-firms-boost-your-websites-rankings-with-our-comprehhavenship/"><u>Leading Belgium SEO Experts & Firms: Boost Your Website's Rankings with Our Comprehhavenship</u></a></li>
+<li><a href="https://program-issues.techidaily.com/league-of-legends-freezing-up-fix-it-fast-with-these-simple-solutions/"><u>League of Legends Freezing Up? Fix It Fast with These Simple Solutions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranking-samsung-tablet-reviews-professional-insights-from-zdnet/"><u>Top-Ranking Samsung Tablet Reviews : Professional Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-amazon-tablet-reviews-the-ultimate-guide/"><u>Top-Rated Amazon Tablet Reviews: The Ultimate Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-artists-choice-drawing-tablets-featured-by-zdnet/"><u>Top-Rated Artists' Choice Drawing Tablets - Featured by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-kids-tablets-in-depth-analysis-by-tech-gurus-and-parental-approval-zdnet/"><u>Top-Rated Kid's Tablets: In-Depth Analysis by Tech Gurus & Parental Approval | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transform-your-aged-fire-tablet-into-a-functional-echo-show-tips-and-tricks-techguide/"><u>Transform Your Aged Fire Tablet Into a Functional Echo Show - Tips & Tricks | TechGuide</u></a></li>
+</ul></div>
 

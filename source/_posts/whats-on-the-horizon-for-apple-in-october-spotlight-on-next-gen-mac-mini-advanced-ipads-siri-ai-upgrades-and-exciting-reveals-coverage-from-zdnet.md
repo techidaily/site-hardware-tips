@@ -1,7 +1,7 @@
 ---
 title: What's on the Horizon for Apple in October? Spotlight on Next-Gen Mac Mini, Advanced iPads, Siri AI Upgrades & Exciting Reveals | Coverage From ZDNET
-date: 2025-02-14T20:56:42.678Z
-updated: 2025-02-15T19:53:08.841Z
+date: 2025-03-02T17:57:54.691Z
+updated: 2025-03-04T21:53:16.327Z
 tags:
   - laptops
 categories:
@@ -28,10 +28,6 @@ So far this year, we've already seen new [iPhones](https://www.zdnet.com/article
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. M4 Macs
 
 Kerry Wan/ZDNET
@@ -43,10 +39,6 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 [In his most recent newsletter](https://www.bloomberg.com/news/articles/2024-10-01/apple-readies-iphone-se-4-upgraded-ipad-air-for-early-2025?srnd=undefined), Apple watcher Mark Gurman stated that the M4 chip will be used in the upcoming MacBook Pros and iMacs. Gurman doesn't say whether or not there will be different configurations, but we expect to see the base M4 as well as M4 Pro and M4 Max options for the two Mac models. 
 
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
 
@@ -60,10 +52,6 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. New iPads
 
 Adam Breeden/ZDNET
@@ -73,10 +61,6 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 **Also: [Why I'm more excited about an iPad Mini with Apple Intelligence than the new iPhone 16 models](https://www.zdnet.com/article/why-im-more-excited-about-an-ipad-mini-with-apple-intelligence-than-the-new-iphone-16-models/)**
 
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
 
@@ -118,24 +102,17 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/n-2024-easy-peasy-youtube-tutorials-making-content-that-works-for-all/"><u>[New] In 2024, Easy-Peasy YouTube Tutorials Making Content That Works for All</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-elevate-youtube-content-advanced-editing-using-wm-maker/"><u>[New] In 2024, Elevate YouTube Content Advanced Editing Using WM Maker</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-instas-power-players-a-guide-to-your-niches-movers-and-shakers/"><u>[New] In 2024, Insta’s Power Players A Guide to Your Niche's Movers & Shakers</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-elite-gamers-showcase-premium-setups-unveiled/"><u>[Updated] Elite Gamers' Showcase – Premium Setups Unveiled</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-how-to-block-spotifys-unrequested-podcast-episodes/"><u>[Updated] In 2024, How to Block Spotify's Unrequested Podcast Episodes</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ai-enabled-msi-desktops-with-front-mounted-1080p-touch-screens-for-interactive-experience/"><u>AI-Enabled MSI Desktops with Front-Mounted 1080P Touch Screens for Interactive Experience</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/creepy-crawly-crisis-pc-overrun-by-fire-ants-eating-thermal-paste-gamers-nightmare-revealed-in-vivid-pictures/"><u>Creepy-Crawly Crisis: PC Overrun by Fire Ants Eating Thermal Paste, Gamer's Nightmare Revealed in Vivid Pictures</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-the-latest-in-pc-components-with-toms-hardware-guides/"><u>Exploring the Latest in PC Components with Tom's Hardware Guides</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/fast-and-economical-snag-your-elegoo-neptune-4-pro-today-for-up-to-20-quicker-and-save-75/"><u>Fast & Economical: Snag Your Elegoo Neptune 4 Pro Today for Up to 20% Quicker and Save $75</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/fx360-pro-from-id-cooling-exceptional-cooling-solutions-at-just-60-detailed-review/"><u>FX360 Pro From ID-Cooling: Exceptional Cooling Solutions at Just $60 – Detailed Review</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-quickly-fix-issues-with-realtek-rtl8811au-device-drivers/"><u>How to Quickly Fix Issues With Realtek RTL8811AU Device Drivers</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-facebook-photo-exploration-a-step-by-step-guide/"><u>Mastering Facebook Photo Exploration: A Step-by-Step Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/optimal-psu-selection-for-effective-etherium-and-bitcoin-mining-operations-best-picks-reviewed/"><u>Optimal PSU Selection for Effective Etherium & Bitcoin Mining Operations: Best Picks Reviewed</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-samsung-galaxy-a14-4g-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Samsung Galaxy A14 4G to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-top-usb-c-laptop-chargers-with-efficient-gan-technology/"><u>Ultimate Guide to Top USB-C Laptop Chargers with Efficient GaN Technology</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/ultimate-list-of-top-quality-cost-free-luts-for-2024/"><u>Ultimate List of Top-Quality, Cost-Free LUTs for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unbeatable-price-elegoo-neptone-4-pro-laser-cutter-just-284/"><u>Unbeatable Price: Elegoo Neptone 4 Pro Laser Cutter - Just $284!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-pc-gear-with-toms-equipment-insights/"><u>Unveiling the Latest in PC Gear with Tom's Equipment Insights</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-the-top-4k-video-editing-solutions-for-professionals-for-2024/"><u>Updated The Top 4K Video Editing Solutions for Professionals for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-mastering-movie-capture-pc-mac-and-mobile-devices/"><u>[New] Mastering Movie Capture PC, Mac, & Mobile Devices</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-streamlining-skype-calls-with-advanced-zoom-use-for-2024/"><u>[New] Streamlining Skype Calls with Advanced Zoom Use for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-the-essential-how-to-for-extracting-youtube-srt-files/"><u>[Updated] 2024 Approved The Essential How-To for Extracting YouTube SRT Files</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-7-best-budget-friendly-dvd-players-for-computers/"><u>2024 Approved 7 Best Budget-Friendly DVD Players for Computers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-to-overcome-the-critical-videodxgkrnlerror-on-your-pc/"><u>Step-by-Step Solutions to Overcome the Critical Video_dxgkrnl_error on Your PC</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/mline-your-surf-tips-for-multiple-youtube-views/"><u>Streamline Your Surf Tips for Multiple Youtube Views</u></a></li>
+<li><a href="https://win-top.techidaily.com/top-effective-forex-trading-techniques-how-to-excel-with-mt4-and-mt5-copying-tools/"><u>Top Effective Forex Trading Techniques: How to Excel with MT4 & MT5 Copying Tools</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unleashing-the-power-of-adventure-thrilling-rides-on-a-high-performance-electric-bike/"><u>Unleashing the Power of Adventure: Thrilling Rides on a High-Performance Electric Bike</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlock-exclusive-savings-hotel-discounts-and-more-with-our-travel-buyers-club-offer-insights-from-zdnet/"><u>Unlock Exclusive Savings: Hotel Discounts & More With Our Travel Buyers Club Offer - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlock-savings-get-300-off-the-atomi-alpha-electric-scooter-now-dont-miss-out-learn-how-at-zdnet/"><u>Unlock Savings: Get $300 Off the Atomi Alpha Electric Scooter Now! Don’t Miss Out – Learn How at ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unsettling-recommendation-by-american-airlines-crews-that-may-alter-passengers-in-flight-journey-analysis-and-discussion-on-zdnet/"><u>Unsettling Recommendation by American Airlines Crews That May Alter Passenger's In-Flight Journey | Analysis & Discussion on ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-lincolns-spectacular-insights-into-self-driving-cars-with-zdnet-a-deep-dive/"><u>Unveiling Lincoln's Spectacular Insights Into Self-Driving Cars with ZDNet - A Deep Dive</u></a></li>
 </ul></div>
 

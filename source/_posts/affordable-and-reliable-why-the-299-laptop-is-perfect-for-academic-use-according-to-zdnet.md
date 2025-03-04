@@ -1,7 +1,7 @@
 ---
 title: "Affordable and Reliable: Why the $299 Laptop Is Perfect for Academic Use, According to ZDNET"
-date: 2025-02-08T20:25:19.833Z
-updated: 2025-02-15T17:56:15.120Z
+date: 2025-03-02T18:03:31.963Z
+updated: 2025-03-04T21:51:23.960Z
 tags:
   - laptops
 categories:
@@ -39,10 +39,6 @@ This laptop isn't solely for business professionals, though. It's well-rounded e
 
 Right now is the best time to buy the [Lenovo Gen 12 ThinkPad X1 Carbon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D1D5J1J1%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7167cbe9-1e10-48ab-a1ae-74ec214adf7f%7Cdtp&dtb=1) since it's currently on sale at Amazon for $1,498 which is a little over $1,000 off the original price. I should also mention that there is a variant of the laptop with a 2.8K OLED display, which is the model [I tested back in February](https://www.zdnet.com/article/the-thinkpad-i-recommend-for-hybrid-workers-is-not-lenovos-newest-model/). The [OLED version](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D5SNKGZ4%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7167cbe9-1e10-48ab-a1ae-74ec214adf7f%7Cdtp&dtb=1) is much more expensive, but I do recommend it as an alternative if you can afford it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## When will this deal expire?
 
 Since October Prime Day has already wrapped up, we're not entirely sure how long these sales will continue, but if you've got your eye on a new machine, we recommend acting fast. 
@@ -77,14 +73,24 @@ Since October Prime Day has already wrapped up, we're not entirely sure how long
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-unleash-the-power-of-obs-in-live-gaming-streams/"><u>[New] In 2024, Unleash the Power of OBS in Live Gaming Streams</u></a></li>
-<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Tecno Spark 10 4G | Dr.fone</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-brand-your-channel-innovative-banner-templates-for-gamers/"><u>In 2024, Brand Your Channel Innovative Banner Templates for Gamers</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revolutionizing-your-pc-with-corsair-icue-link-h150i-rgb-performance-and-personalization-in-one/"><u>Revolutionizing Your PC with Corsair iCUE Link H150i 🖤RGB - Performance and Personalization in One</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/speedy-and-reliable-nvme-solid-state-drives-to-supercharge-your-steam-deck-adventures/"><u>Speedy and Reliable NVMe Solid State Drives to Supercharge Your Steam Deck Adventures</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/toms-tech-gear-guide-your-ultimate-computer-components-resource/"><u>Tom's Tech Gear Guide: Your Ultimate Computer Components Resource</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-your-guide-to-cutting-edge-electronics/"><u>Tom's Tech Hub: Your Guide to Cutting-Edge Electronics</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-ranking-virtual-reality-headsets-ideal-choices-for-gamers-and-pc-users/"><u>Top-Ranking Virtual Reality Headsets: Ideal Choices for Gamers and PC Users</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Oppo Find X7? | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-11-excellent-choices-for-high-quality-audio-logging-for-2024/"><u>[New] 11 Excellent Choices for High-Quality Audio Logging for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-easy-methods-for-downloading-vimeo-clips/"><u>[New] Easy Methods for Downloading Vimeo Clips</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-top-6-youtube-shorts-downloaders-free-and-online/"><u>[New] In 2024, Top 6 YouTube Shorts Downloaders [Free & Online]</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-learn-to-link-zoom-effortlessly-with-email-clients-like-gmail/"><u>[Updated] Learn to Link Zoom Effortlessly with Email Clients Like Gmail</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-radiance-routines-pro-tips-for-video-illumination/"><u>[Updated] Radiance Routines Pro Tips for Video Illumination</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-step-up-your-content-quality-with-these-8-mirrorless-cams-for-2024/"><u>[Updated] Step Up Your Content Quality with These 8 Mirrorless Cams for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-windows-11s-fresh-perspectives-explored/"><u>[Updated] Windows 11'S Fresh Perspectives Explored</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/2022s-ultimate-rv-guide-expert-rankings-of-top-motorhomes-and-campervans-zdnet/"><u>2022'S Ultimate RV Guide: Expert Rankings of Top Motorhomes and Campervans | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advancing-autonomous-vehicles-key-ml-breakthrough-spotted/"><u>Advancing Autonomous Vehicles: Key ML Breakthrough Spotted!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/american-airlines-crew-members-raise-concern-inducing-idea-affecting-flyers-insights-revealed-on-zdnet/"><u>American Airlines Crew Members Raise Concern-Inducing Idea Affecting Flyers, Insights Revealed on ZDnet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/bluetooth-fixer-pen-reveals-culprit-behind-check-engine-indicator-tech-insights/"><u>Bluetooth Fixer Pen Reveals Culprit Behind Check Engine Indicator - Tech Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/bluetooth-solutions-for-car-troubles-how-to-identify-issues-behind-a-check-engine-warning-signal/"><u>Bluetooth Solutions for Car Troubles: How to Identify Issues Behind a Check Engine Warning Signal</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/breaking-news-massive-disruption-as-southwest-airlines-hits-20000plus-flight-cancellations-zdnet-insights/"><u>Breaking News: Massive Disruption as Southwest Airlines Hits 20,000+ Flight Cancellations | ZDNet Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/can-using-an-in-car-charger-damage-your-iphone-unveiling-the-truth-with-rigorous-tests-zdnet/"><u>Can Using an In-Car Charger Damage Your iPhone? Unveiling the Truth with Rigorous Tests | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/can-you-believe-it-southwests-new-strategy-prompts-customers-to-try-something-funny-zdnet-insider/"><u>Can You Believe It? Southwest's New Strategy Prompts Customers to Try Something Funny | ZDNet Insider</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/can-you-trust-car-adapters-for-iphone-charging-unveiling-the-truth-after-thorough-tests-and-analysis-zdnet/"><u>Can You Trust Car Adapters for iPhone Charging? Unveiling the Truth After Thorough Tests and Analysis | ZDNET</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/downloadable-youtube-sound-capture-tool-easily-record-any-audio-from-youtube-videos/"><u>Downloadable YouTube Sound Capture Tool: Easily Record Any Audio From YouTube Videos</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-2023-convert-facebook-video-to-mp4-720p1080phd-online-and-free/"><u>In 2024, 2023 | Convert Facebook Video to MP4 720P/1080p/HD Online and Free?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/navigating-copyright-laws-for-instagram-music-postings-for-2024/"><u>Navigating Copyright Laws for Instagram Music Postings for 2024</u></a></li>
 </ul></div>
 

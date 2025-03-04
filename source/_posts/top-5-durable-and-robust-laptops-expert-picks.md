@@ -1,7 +1,7 @@
 ---
 title: Top 5 Durable and Robust Laptops - Expert Picks
-date: 2025-02-13T19:37:52.566Z
-updated: 2025-02-15T22:27:22.106Z
+date: 2025-02-25T18:43:29.414Z
+updated: 2025-03-04T16:51:55.113Z
 tags:
   - laptops
 categories:
@@ -71,10 +71,6 @@ Cons
 
 ## Panasonic ToughBook 40 Mk2
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Best rugged laptop for battery life
 
 When you're working on location or traveling for your job, you need a laptop that can keep up, even when you can't reliably plug in to recharge. The Panasonic ToughBook 40 Mk2 allows you to configure it with either a single or dual battery, giving you up to 22 hours of use on a single charge. This makes it perfect for mobile professionals who may need to visit work sites for inspections or scout new locations for construction.
@@ -99,10 +95,6 @@ Pros
 
 Cons 
 * Can't upgrade RAM or storage
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Acer Chromebook Spin 512
 
@@ -188,10 +180,6 @@ I chose the Getac S510 as the best rugged laptop for its highly customizable con
 | Asus ZenBook Pro Duo 15 OLED | $1,700              | 1TB SSD       | Intel Core i7-12700H          |
 | Asus TUF A14                 | $1,400              | 1TB SSD       | AMD Ryzen 7 8845HS            |
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Which rugged laptop is right for you?
 
 Beyond the usual laptop features -- like screen size and price -- you get to choose just how durable you'd like your rugged laptop to be. Manufacturers try to make the choice easier by dividing systems into "semi-rugged" and "rugged" -- the former meeting many everyday durability requirements, while the latter provides additional levels of protection for the harshest conditions. 
@@ -216,29 +204,17 @@ Laptop manufacturers helpfully label these systems as "semi-rugged" or "rugged,"
 
 The rugged laptops listed here are from major manufacturers in the space (Dell, Panasonic, Getac), including some with which ZDNET staff have had hands-on experience. For more on how we test laptops, check out our comprehensive [laptop testing methodology](https://www.zdnet.com/article/how-we-test-laptops/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What does "rugged laptop" mean?
 
 A rugged laptop, sometimes listed as a "ruggedized" laptop, is a computer that is built specifically to handle extreme situations and weather conditions. Many rugged laptops are water- and dirt-resistant, resistant to drops and shocks, and can operate in both very hot and very cold temperatures. 
 
 These kinds of laptops are great for anyone who has to work outdoors for any length of time, such as people at construction sites, on geological surveys, and in the military.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What does "military grade" mean?
 
 A laptop that is listed as "military grade" doesn't necessarily mean that it was developed for use by the Army or other military branches. Rather, it has been tested against military standards for dirt and water resistance as well as resistance to shocks, drops, and operating temperatures. 
 
 Laptops meant for military use are more rigorously tested against a laundry list of conditions, while commercially available laptops labeled "military grade" are only tested against a few of the MIL-STD-810 standards.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Does Apple make a rugged laptop?
 
@@ -264,10 +240,6 @@ Show less
 
 Full Review [Read Full Review](https://www.zdnet.com/article/best-rugged-laptop/Design: Mini Listicle)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Getac B360
 
 I got the chance to test out the Getac B360 and saw first-hand just how tough it really is. Weighing in at a hefty 5.1 pounds, it's both MIL-STD-810H and MIL-STD-416G certified for shock and moisture resistance and can be customized for salt fog and Class I electrical hazard certification. 
@@ -279,10 +251,6 @@ Show less
 [View now at Panasonic](https://connect.na.panasonic.com/toughbook/rugged-computers/toughbook-55)
 
 Full Review [Read Full Review](https://www.zdnet.com/article/best-rugged-laptop/Design: Mini Listicle)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Panasonic Toughbook 55
 
@@ -330,21 +298,24 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-the-beginners-guide-to-captivating-instagram-video-audiences/"><u>[New] 2024 Approved The Beginner's Guide to Captivating Instagram Video Audiences</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-craft-digital-laughter-kapwing-meme-maker/"><u>2024 Approved Craft Digital Laughter – Kapwing Meme Maker</u></a></li>
-<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/avoid-voiding-your-intels-cpu-warranty-the-essential-guide-to-choosing-the-right-liquid-freezer-iii-from-arctic-with-contact-frames/"><u>Avoid Voiding Your Intels CPU Warranty: The Essential Guide to Choosing the Right Liquid Freezer III From Arctic With Contact Frames</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/best-in-class-ultrawide-gaming-monitors-reviewed-2024-edition/"><u>Best-in-Class Ultrawide Gaming Monitors Reviewed: 2024 Edition</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/future-proof-power-the-ultimate-selection-of-psus-for-gamers/"><u>Future-Proof Power: The Ultimate Selection of PSUs for Gamers</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-discover-premier-portable-audio/"><u>In 2024, Discover Premier Portable Audio</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-embedded-recorder-usage-in-huaweis-mate-series-and-the-p-lineup/"><u>In 2024, Embedded Recorder Usage in Huawei's Mate Series and the P Lineup</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-the-tech-landscape-professional-insights-from-toms-hardware/"><u>Navigating the Tech Landscape: Professional Insights From Tom's Hardware</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/precision-equipment-evaluations-at-toms-systems-critique/"><u>Precision Equipment Evaluations at Tom's Systems Critique</u></a></li>
-<li><a href="https://techidaily.com/recover-apple-iphone-12-pro-max-data-from-ios-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 12 Pro Max Data From iOS iCloud | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-honor-80-pro-straight-screen-edition-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Honor 80 Pro Straight Screen Edition Step-by-Step Solutions | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-into-intelligent-search-with-bing-quick-registration/"><u>Step Into Intelligent Search with Bing: Quick Registration</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-in-depth-computer-and-electronics-analysis/"><u>Tom's Tech Reviews: In-Depth Computer and Electronics Analysis</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unlock-potential-in-additive-manufacturing-learn-the-five-key-stages-of-design-optimization/"><u>Unlock Potential in Additive Manufacturing: Learn the Five Key Stages of Design Optimization</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-from-disc-to-device-converting-dvds-to-digital-video-files-for-2024/"><u>Updated From Disc to Device Converting DVDs to Digital Video Files for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-mastering-the-art-of-friendly-pins-in-snapchat/"><u>[New] Mastering the Art of Friendly Pins in Snapchat</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-elevate-your-virtual-meetings-mastering-zoom-filter-tech/"><u>[Updated] 2024 Approved Elevate Your Virtual Meetings Mastering Zoom Filter Tech</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-inside-kinemaster-the-ultimate-guide-to-its-android-avatar/"><u>[Updated] Inside KineMaster The Ultimate Guide to Its Android Avatar</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-selecting-the-perfect-drone-stabilizer-a-guide/"><u>[Updated] Selecting the Perfect Drone Stabilizer A Guide</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-superior-gameplay-androids-leading-gba-emulators-for-2024/"><u>[Updated] Superior Gameplay Android's Leading GBA Emulators for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-windows-mac-owners-discover-top-8-no-cost-4k-viewers-for-2024/"><u>[Updated] Windows Mac Owners - Discover Top 8 No-Cost 4K Viewers for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/amazon-fire-tv-omni-series-qled-now-at-a-steal-grab-the-150-off-deal-via-zdnet/"><u>Amazon Fire TV Omni Series QLED Now at a Steal! Grab the $150 Off Deal via ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/beyond-giants-uncover-the-best-gaming-tv-experience-not-from-sony-or-samsung-revealed-by-zdnet/"><u>Beyond Giants: Uncover the Best Gaming TV Experience Not From Sony or Samsung Revealed by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/boost-tv-visuals-instantly-by-mastering-these-essential-picture-settings-expert-tips-inside/"><u>Boost TV Visuals Instantly by Mastering These Essential Picture Settings - Expert Tips Inside</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/choosing-the-right-8k-tv-for-your-home-insights-from-a-consumer-electronics-specialist-on-what-you-need-to-know-before-buying/"><u>Choosing the Right 8K TV for Your Home: Insights From a Consumer Electronics Specialist on What You Need to Know Before Buying</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/clearing-your-television-cache-for-enhanced-functionality-and-security-a-step-by-step-tutorial/"><u>Clearing Your Television Cache for Enhanced Functionality and Security – A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://network-issues.techidaily.com/display-output-stabilized/"><u>Display Output Stabilized</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dont-miss-out-enjoy-massive-savings-of-up-to-25-on-the-incredible-85-inch-tcl-tv-this-labor-day-limited-time-offer-at-zdnet/"><u>Don't Miss Out! Enjoy Massive Savings of Up to 25% on the Incredible 85-Inch TCL TV This Labor Day – Limited Time Offer at ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/enhance-picture-clarity-with-just-5-tv-adjustments-expert-tips-from-a-zdnet-article/"><u>Enhance Picture Clarity with Just 5 TV Adjustments – Expert Tips From a ZDNet Article</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/enhance-tv-sound-quality-discover-5-proven-methods-including-2-cost-free-solutions/"><u>Enhance TV Sound Quality: Discover 5 Proven Methods, Including 2 Cost-Free Solutions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exciting-news-lg-television-sound-enhancements-now-compatible-with-ios-devices-a-huge-win-for-tech-lovers/"><u>Exciting News: LG Television Sound Enhancements Now Compatible with iOS Devices - A Huge Win for Tech Lovers!</u></a></li>
+<li><a href="https://win11.techidaily.com/initiating-the-quake-setting-on-windows-terminal/"><u>Initiating the Quake Setting on Windows Terminal</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-ultimate-strategy-for-elevating-your-video-visibility-for-2024/"><u>The Ultimate Strategy for Elevating Your Video Visibility for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-your-tecno-pova-5-pro-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Tecno Pova 5 Pro Auto Does Not Work | Dr.fone</u></a></li>
 </ul></div>
 

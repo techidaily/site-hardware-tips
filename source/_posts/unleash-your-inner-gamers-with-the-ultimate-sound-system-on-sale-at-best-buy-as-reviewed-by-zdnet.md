@@ -1,7 +1,7 @@
 ---
 title: Unleash Your Inner Gamers with the Ultimate Sound System on Sale at Best Buy, as Reviewed by ZDNet
-date: 2025-02-10T20:53:26.341Z
-updated: 2025-02-15T22:34:14.075Z
+date: 2025-02-28T17:57:54.731Z
+updated: 2025-03-04T20:07:43.170Z
 tags:
   - laptops
 categories:
@@ -19,10 +19,6 @@ Taylor Clemons/ZDNET
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### ZDNET takeaways
 
@@ -74,10 +70,6 @@ The speaker system is also excellent for streaming music; I played the [Old Gods
 
 My one big complaint about the SteelSeries Arena 9 is that you really do feel that drop in control when dealing with a device that's been connected via USB or optical cable. The OLED dial allows you to choose between a few different presets but only offers a single option for a custom sound profile. In contrast, the Sonar app lets you create a custom soundscape for every media type and connected device. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## ZDNET's buying advice
 
 There is a lot that comes with the [SteelSeries Arena 9](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsteelseries-arena-9-5-1-bluetooth-gaming-speakers-with-rgb-lighting-6-piece-black%2F6515591.p%3FskuId%3D6515591&publisher_slug=itechdaily19598&exclusive=1), between the speakers and subwoofer, controller, and cables. It's easily one of the best-sounding systems I've tested, and the ability to tweak specific audio settings is game-changing. That said, if you mainly use a single platform like the PC or a console for gaming, you may want to opt for the smaller but still capable [Arena 7](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSteelSeries-Arena-Computer-Gaming-Speakers%2Fdp%2FB09KNYJL4R%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C5dd59b58-2fbd-4ce7-897c-548dbd18762e%7Cdtp&dtb=1) instead, since it comes with a single pair of speakers and a subwoofer. It doesn't include a control dial like the Arena 9, but you can quickly adjust basic volume and bass boost levels with the on-device knobs for watching shows and movies. 
@@ -85,10 +77,6 @@ There is a lot that comes with the [SteelSeries Arena 9](https://shop-links.co/l
 And if you're simply looking for a reliable set of PC speakers, the [Arena 3](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSteelSeries-Arena-Computer-Gaming-Speakers%2Fdp%2FB09KNYBT4Q%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C5dd59b58-2fbd-4ce7-897c-548dbd18762e%7Cdtp&dtb=1) is an excellent choice; they don't have the RGB lighting features like the Arena 7 and 9, making them a better choice for shared work spaces or home offices that double as gaming rooms. If you've been waiting for a decent deal to come along before you pick up the Arena 9, [Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsteelseries-arena-9-5-1-bluetooth-gaming-speakers-with-rgb-lighting-6-piece-black%2F6515591.p%3FskuId%3D6515591&publisher_slug=itechdaily19598&exclusive=1) is running a sale where the speaker system is $100 off its original price; this brings it down to $450, and while that's still on the pricey side, the multimedia support, ability to connect to multiple devices simultaneously, and incredible sound quality make it a worthy investment for your gaming space or home theater. 
 
 _This article was originally published on February 23, 2024, and was updated on September 17, 2024._
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## When does this deal expire?
 
@@ -124,22 +112,15 @@ Best Buy hasn't put a hard and fast end date for the $100 discount on the Arena 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-efficient-way-to-broadcast-tiktok-videos-via-facebook/"><u>[New] Efficient Way to Broadcast TikTok Videos via Facebook</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-innovative-8-cameras-transforming-online-broadcasting/"><u>[New] In 2024, Innovative 8 Cameras Transforming Online Broadcasting</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-innovative-education-prime-15-youtube-science-outlets/"><u>[New] Innovative Education Prime 15 YouTube Science Outlets</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-educational-history-vlogs-the-ultimate-list/"><u>[Updated] Educational History Vlogs - The Ultimate List</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-from-static-to-spectaculous-the-yi-hero-video-journey/"><u>[Updated] From Static to Spectaculous The Yi Hero Video Journey</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-unlocking-kinemasters-full-potential-in-zoomed-sections-for-2024/"><u>[Updated] Unlocking Kinemaster's Full Potential in Zoomed Sections for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-unlocking-the-secrets-of-instagram-scheduling/"><u>2024 Approved Unlocking the Secrets of Instagram Scheduling</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bridging-minds-and-devices-chatgpt-on-android/"><u>Bridging Minds & Devices: ChatGPT on Android</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discovering-the-future-the-revolutionary-google-pixel-fold/"><u>Discovering the Future: The Revolutionary Google Pixel Fold</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/easy-methods-for-detecting-and-locating-airtags-with-android-smartphones/"><u>Easy Methods for Detecting and Locating AirTags with Android Smartphones</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/easy-tutorial-capturing-audio-from-voice-calls-on-android-phones/"><u>Easy Tutorial: Capturing Audio From Voice Calls on Android Phones</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/effective-methods-to-retrieve-deleted-android-contacts/"><u>Effective Methods to Retrieve Deleted Android Contacts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/experience-innovation-in-smartphones-the-latest-galaxy-z-fold-5-by-samsung-boasts-a-refined-hinge-mechanism-and-enhanced-brightness-for-unmatched-viewing-pl2/"><u>Experience Innovation in Smartphones: The Latest Galaxy Z Fold 지빌드 5 by Samsung Boasts a Refined Hinge Mechanism and Enhanced Brightness for Unmatched Viewing Pleasure</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-the-future-insights-and-predictions-for-googles-2024-creation-post-pixel-9-era/"><u>Exploring the Future: Insights and Predictions for Google's 2024 Creation - Post-Pixel 9 Era</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/googles-new-foldable-pixel-expectations-for-potential-adjustments-to-camera-specifications/"><u>Google's New Foldable Pixel: Expectations for Potential Adjustments to Camera Specifications</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/green-technology-and-gadgets-the-role-of-google-in-promoting-prolonged-device-usage-for-environmental-conservation/"><u>Green Technology and Gadgets: The Role of Google in Promoting Prolonged Device Usage for Environmental Conservation</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-honor-90-lite-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Honor 90 Lite For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-analyzing-youtube-shorts-economic-impact-for-2024/"><u>[New] Analyzing YouTube Shorts Economic Impact for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-mastering-photo-editing-in-minutes-pixlr-quick-hacks-for-2024/"><u>[Updated] Mastering Photo Editing in Minutes Pixlr Quick Hacks for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-exceptional-hd-video-documentation-gear/"><u>2024 Approved Exceptional HD Video Documentation Gear</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-honor-x7b-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Honor X7b | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/compreran-gaming-hurdles-enhance-gamesplay-on-windows/"><u>Compreran Gaming Hurdles: Enhance Gamesplay on Windows</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/slash-your-electricity-cost-with-these-5-smart-tv-adjustments-a-proven-strategy-from-zdnet/"><u>Slash Your Electricity Cost with These 5 Smart TV Adjustments: A Proven Strategy From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/slash-your-entertainment-costs-by-switching-to-a-high-performance-projector-get-200-savings-today/"><u>Slash Your Entertainment Costs by Switching to a High-Performance Projector: Get $200 Savings Today!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/stream-or-tune-in-full-guide-to-watch-the-super-bowl-cnet-networks/"><u>Stream or Tune In? Full Guide to Watch the Super Bowl - CNET Networks</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722994132990-the-need-for-careful-design-considerations-to-optimize-esp-performance-while-avoiding-problems-like-back-corona-discharge-or-dust-re-entrainment/"><u>The Need for Careful Design Considerations to Optimize ESP Performance While Avoiding Problems Like Back Corona Discharge or Dust Re-Entrainment.</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-6-must-have-devices-that-will-transform-your-outdoor-soirees-insights-from-zdnet/"><u>Top 6 Must-Have Devices That Will Transform Your Outdoor Soirees - Insights From ZDNet</u></a></li>
 </ul></div>
 

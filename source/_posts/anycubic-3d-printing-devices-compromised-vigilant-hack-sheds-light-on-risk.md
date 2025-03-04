@@ -1,7 +1,7 @@
 ---
 title: Anycubic 3D Printing Devices Compromised - Vigilant Hack Sheds Light on Risk
-date: 2024-08-15T06:30:58.114Z
-updated: 2024-08-16T06:30:58.114Z
+date: 2025-02-25T20:51:14.760Z
+updated: 2025-03-04T17:08:13.077Z
 tags:
   - printer
 categories:
@@ -50,9 +50,6 @@ The Anycubic Kobra 2 Max is a massive improvement over its predecessor, but suff
 
  There’s a paper copy of the quick start guide to help you build the printer. The printer has sample models in the memory, and the UBB card has a PDF copy of the manual, Anycubic Slicer and a profile for PLA to get you started.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Assembling the Anycubic Kobra 2 Max
 
 ![Anycubic Kobra 2 Max](https://cdn.mos.cms.futurecdn.net/4Hz6pRRyeuh3iXnHHtfBiC-320-80.jpg)
@@ -73,24 +70,15 @@ The Anycubic Kobra 2 Max is a massive improvement over its predecessor, but suff
 
  To level the bed, select Control → Auto-level. The machine will home itself, preheat and then double tap 49 spots in a grid across the bed surface.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ## Loading Filament in the Anycubic Kobra 2 Max
 
  To load filament, press Prepare on the main menu. Select Filament. Now select Filament In or Filament Remove. The machine will now heat up to 230 C, taking about 60 seconds. Put your spool on the spool holder, and place the end of the filament into the runout sensor. Press Filament In and wait for the filament to be pulled to the extruder, or pinch the tension release on the front of the extruder and push it through by hand. Press Stop when the filament is coiling below the hotend.
 
  Removing the filament works the same, just in reverse. Let the hotend preheat, select Filament Remove and let the gears back the filament out. Feel free to manually pull the filament out of the Bowden tube as soon as it’s left the hotend.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ## Design of the Anycubic Kobra 2 Max
 
 ![Anycubic Kobra 2 Max](https://cdn.mos.cms.futurecdn.net/zxKpUzUZPxsNhyuXx9kDxB-320-80.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -108,15 +96,9 @@ The Anycubic Kobra 2 Max is a massive improvement over its predecessor, but suff
 
  The touch screen is the same 4.3-inch display Anycubic has used for the last several years. The menu is still very easy to navigate for beginners, with options in logical locations.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ## Preparing Files / Software
 
 ![Anycubic Kobra 2 Max](https://cdn.mos.cms.futurecdn.net/4GQbb2fqoUPZGRxNwHD5XC-320-80.png)
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -139,18 +121,12 @@ The Anycubic Kobra 2 Max is a massive improvement over its predecessor, but suff
  Everywhere else, the print is clean. The little duck (at 100%) took 1 hour and 35 minutes, while the big duck (at 400% and 425mm tall), 22 hours and 43 minutes. Both were printed at 230 mm/s with .28 layer height and lightning infill. The failed print ate into my supply of[Inland Yellow Pla+](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FInland-1-75mm-PLA-Printer-Filament%2Fdp%2FB081S6L18J%2Fref%3Dasc%5Fdf%5FB081S6L18J%2F%3FlinkCode%3Ddf0%26hvadid%3D459662621197%26hvpos%3D%26hvnetw%3Dg%26hvrand%3D16727744446955775203%26hvpone%3D%26hvptwo%3D%26hvqmt%3D%26hvdev%3Dc%26hvdvcmdl%3D%26hvlocint%3D%26hvlocphy%3D9022877%26hvtargid%3Dpla-955336668852%26mcid%3De30f547730933e0bbd4bacfab03fd6a0%26gclid%3DCjwKCAiA1MCrBhAoEiwAC2d64TOScv8MUb%5FBDkSXPE3scZzhbGYrX3eh3SCD8QFkTrnB42vowSZYKBoCtI0QAvD%5FBwE%26th%3D1%26tag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1485920082472074590-20) , so we switched to Printerior orange halfway through.
 
 ![Anycubic Kobra 2 Max](https://cdn.mos.cms.futurecdn.net/N6QEzKnBBdR9ZMvGotUjmB-320-80.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 
 [_Rubber Duck_](https://www.thingiverse.com/thing:4820726) _by Chr5500_  (Image credit: Tom's Hardware)
 
  Next up was a practical print: a clip for a bike air pump. This was made in Tinkercad to custom fit the bike frame and the size of the pump. The print turned out wonderfully smooth with no stringing. 42 minutes and 12 seconds, at a .2 layer height and 230 mm/s. I printed it in[Greengate recycled Purple Reign PETG.](https://greengate3d.com/products/purple-reign-pet-g-filament)
 
 ![Anycubic Kobra 2 Max](https://cdn.mos.cms.futurecdn.net/R9reT9ueiTZtVy3HT2GJGD-320-80.jpg)
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 _PETG air pump holder, Made with Tinkercad_  (Image credit: Tom's Hardware)
 
@@ -170,14 +146,11 @@ _PETG air pump holder, Made with Tinkercad_  (Image credit: Tom's Hardware)
 
  If you want a massive printer that works great out of the box, the[Elegoo Neptune 3 Max](https://www.tomshardware.com/reviews/elegoo-neptune-3-max) is still your best bet, and quite a steal at $409\. It remains our[Editor's choice for large format printers.](https://www.tomshardware.com/best-picks/best-3d-printers#section-best-for-props-and-cosplay)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -186,4 +159,22 @@ _PETG air pump holder, Made with Tinkercad_  (Image credit: Tom's Hardware)
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-text-transformation-tricks-for-media/"><u>[New] In 2024, Text Transformation Tricks for Media</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/1716069671277-updated-in-2024-using-inbuilt-recorders-for-screen-capture-on-huaweis-mate-and-p-series-devices/"><u>[Updated] In 2024, Using Inbuilt Recorders for Screen Capture on Huawei's Mate and P Series Devices.</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-tiktok-malfunctions-resetting-or-repairing-for-2024/"><u>[Updated] TikTok Malfunctions Resetting or Repairing for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-superior-alternative-to-remarkable-and-kindle-experts-guide-to-exceptional-e-ink-tablets-on-zdnet/"><u>Discover the Superior Alternative to Remarkable and Kindle: Expert's Guide to Exceptional E Ink Tablets on ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-whats-next-for-the-newest-ipad-pro-and-artificial-intelligence-breakthroughs-coming-to-wwdc-insights-from-zdnet/"><u>Discover What's Next for the Newest iPad Pro and Artificial Intelligence Breakthroughs Coming to WWDC | Insights From ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/diy-conversion-upgrade-your-obsolete-fire-tablet-to-echo-show-with-simple-steps-innovationhub/"><u>DIY Conversion: Upgrade Your Obsolete Fire Tablet to Echo Show with Simple Steps | InnovationHub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exciting-opportunity-save-on-amazons-kid-friendly-fire-tablet-snag-it-for-a-steal-at-only-90-before-time-runs-out/"><u>Exciting Opportunity: Save on Amazon’s Kid-Friendly Fire Tablet - Snag It for a Steal at Only $90 Before Time Runs Out!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-the-value-of-nokias-new-t20-104-android-tab-on-techradar-comprehensive-breakdown-and-user-impressions/"><u>Experience the Value of Nokia's New T20, 10.4 Android Tab on TechRadar: Comprehensive Breakdown & User Impressions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-analysis-elite-selection-of-ipad-pro-keyboard-accessories-zdnet/"><u>Expert Analysis: Elite Selection of iPad Pro Keyboard Accessories | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experts-guide-10-crucial-settings-and-tips-every-new-apple-user-should-master-on-their-ipad-zdnet/"><u>Expert's Guide: 10 Crucial Settings and Tips Every New Apple User Should Master on Their iPad | ZDNet</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Lava Blaze Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Motorola Moto G24 | Dr.fone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-from-words-to-music-audio-conversion-of-textual-content-on-various-platforms/"><u>New From Words to Music Audio Conversion of Textual Content on Various Platforms</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-heat-management-kit-for-your-steam-deck/"><u>The Ultimate Heat Management Kit for Your Steam Deck</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-mac-video-maker-effortless-slideshow-creation-for-mac-users-for-2024/"><u>Updated Mac Video Maker Effortless Slideshow Creation for Mac Users for 2024</u></a></li>
+</ul></div>
 

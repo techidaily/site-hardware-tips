@@ -1,7 +1,7 @@
 ---
 title: Secure Your Exclusive $8 iPhone Shoot-Out Gear on Sale - Final Deals of Cyber Monday Event | ZDNET.
-date: 2025-02-13T16:22:09.696Z
-updated: 2025-02-15T21:46:38.147Z
+date: 2025-02-28T16:12:08.855Z
+updated: 2025-03-04T16:57:45.334Z
 tags:
   - laptops
 categories:
@@ -24,10 +24,6 @@ I've seen the likes of Belkin put out [quality iPhone mounts for this purpose](h
 [Elephant Card iPhone Mount for $8 (save $2) $8 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2FB0B93QFCP8%3Ft%3D%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C55a82509-6e9b-4ee8-94dd-e251ac03841a%7Cdtp&dtb=1)
 
 All that's needed to make Continuity Camera happen is a Mac computer running MacOS Ventura, an iPhone running on iOS 16, and a mount to keep the handset afloat. That's where the Elephant Card comes in.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -81,17 +77,18 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-unlocking-classic-facebook-narratives-laptop-and-mobile-strategies/"><u>[New] Unlocking Classic Facebook Narratives Laptop & Mobile Strategies</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-unveiling-the-best-phones-for-your-gear-vr-experience/"><u>[New] Unveiling the Best Phones for Your Gear VR Experience</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-turning-viewers-into-cash-a-youtube-advertising-primer-for-2024/"><u>[Updated] Turning Viewers Into Cash A YouTube Advertising Primer for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/free-and-simple-steps-to-editing-wav-audio-without-costs/"><u>Free & Simple Steps to Editing WAV Audio Without Costs</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-troubleshooting-error-connecting-to-the-apple-id-server-from-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, Troubleshooting Error Connecting to the Apple ID Server From iPhone 11 Pro Max</u></a></li>
-<li><a href="https://windows11.techidaily.com/is-the-windows-start-button-not-working-heres-how-to-fix-it/"><u>Is the Windows Start Button Not Working? Here's How to Fix It</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-the-ai-enabled-microsoft-bing-application-on-your-android-device/"><u>Mastering the AI-Enabled Microsoft Bing Application on Your Android Device</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/optimized-guide-how-to-seamlessly-operate-windows-os-on-your-steam-decks-oled-screen/"><u>Optimized Guide: How to Seamlessly Operate Windows OS on Your Steam Deck's OLED Screen</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/pro-review-the-high-end-ring-doorbell-with-powerful-battery-is-it-a-smart-investment/"><u>Pro Review: The High-End Ring Doorbell with Powerful Battery - Is It a Smart Investment?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/production-of-fitbit-wearables-halted-forever/"><u>Production of Fitbit Wearables Halted Forever</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/resolution-revealed-unpacking-the-visual-impact-of-1080p-vs-1440p-vs-deciphering-display-quality-the-true-difference-between-1080p-1440p-and-4k-monitors/"><u>Resolution Revealed: Unpacking the Visual Impact of 1080P Vs. 1440P Vs. Deciphering Display Quality: The True Difference Between 1080P, 1440P & 4K Monitors</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/salmon-en-croute/"><u>Salmon en Croute</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-critical-asmr-video-elements-to-note/"><u>[Updated] Critical ASMR Video Elements to Note</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-recommended-apps-and-sites-for-photo-frames/"><u>[Updated] Expert-Recommended Apps & Sites for Photo Frames</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-exploring-the-best-phone-apps-to-modify-voice-quality/"><u>[Updated] Exploring the Best Phone Apps to Modify Voice Quality</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/33(br-)re-release-5639/"><u>33<Br />Re-Release: 56:39</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-ideal-gaming-ssds-for-enhanced-experience-on-pc-xbox-and-ps5-expert-review/"><u>Discover the Ideal Gaming SSDs for Enhanced Experience on PC, Xbox and PS5 | Expert Review</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-realme-gt-3-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Realme GT 3 without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-successfully-watch-movies-from-a-usb-drive-on-your-vizio-television/"><u>How To Successfully Watch Movies From A USB Drive On Your Vizio Television</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-6-proven-ways-to-unlock-infinix-smart-8-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Infinix Smart 8 Phone When You Forget the Password</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-poco-f5-5g-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Poco F5 5G FRP</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/prime-days-hottest-gaming-discounts-for-october-2024-sneak-peek-zdnet/"><u>Prime Day's Hottest Gaming Discounts for October 2024 Sneak Peek | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbelievable-deal-save-1100-on-top-notch-gaming-and-video-production-laptops-exclusive-offer-by-zdnet/"><u>Unbelievable Deal: Save $1,100 on Top-Notch Gaming & Video Production Laptops - Exclusive Offer by ZDNet!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/upcoming-apple-product-launches-unveiled-in-october-meet-the-new-m4-mac-mini-enhanced-ipads-and-advanced-ai-features/"><u>Upcoming Apple Product Launches Unveiled in October - Meet the New M4 Mac Mini, Enhanced iPads & Advanced AI Features</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/why-more-and-more-users-choose-this-laptop-over-macbook-air-and-you-can-get-it-cheaper-now/"><u>Why More and More Users Choose This Laptop Over MacBook Air - And You Can Get It Cheaper Now!</u></a></li>
 </ul></div>
 

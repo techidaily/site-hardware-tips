@@ -1,7 +1,7 @@
 ---
 title: "Introducing Apple's Latest Upgrade: The MacBook Air Now Comes in 13 & 15 Sizes Featuring the Powerful M3 Chip - Discover All You Need to Know"
-date: 2025-02-11T20:54:22.612Z
-updated: 2025-02-15T19:07:43.713Z
+date: 2025-03-03T16:38:28.383Z
+updated: 2025-03-04T18:03:46.490Z
 tags:
   - laptops
 categories:
@@ -28,10 +28,6 @@ So far this year, we've already seen new [iPhones](https://www.zdnet.com/article
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. M4 Macs
 
 Kerry Wan/ZDNET
@@ -43,10 +39,6 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 [In his most recent newsletter](https://www.bloomberg.com/news/articles/2024-10-01/apple-readies-iphone-se-4-upgraded-ipad-air-for-early-2025?srnd=undefined), Apple watcher Mark Gurman stated that the M4 chip will be used in the upcoming MacBook Pros and iMacs. Gurman doesn't say whether or not there will be different configurations, but we expect to see the base M4 as well as M4 Pro and M4 Max options for the two Mac models. 
 
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
 
@@ -60,10 +52,6 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. New iPads
 
 Adam Breeden/ZDNET
@@ -73,10 +61,6 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 **Also: [Why I'm more excited about an iPad Mini with Apple Intelligence than the new iPhone 16 models](https://www.zdnet.com/article/why-im-more-excited-about-an-ipad-mini-with-apple-intelligence-than-the-new-iphone-16-models/)**
 
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
 
@@ -118,24 +102,16 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-maximizing-reach-tweeting-on-facebook/"><u>[New] 2024 Approved Maximizing Reach Tweeting on Facebook</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-co-creating-video-marketing-with-brand-participants/"><u>[New] Co-Creating Video Marketing with Brand Participants</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-defending-your-youtube-profile/"><u>[Updated] 2024 Approved Defending Your YouTube Profile</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/67521528-updated-2024-approved-profile-pictures-download-for-free/"><u>[Updated] 2024 Approved Profile Pictures - Download for FREE!</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-shutterbug-secrets-iphone-night-photography/"><u>[Updated] Shutterbug Secrets IPhone Night Photography</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/best-practices-elevating-your-virtual-identity-on-facebook/"><u>Best Practices Elevating Your Virtual Identity on Facebook</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/best-premium-flash-memory-sticks-for-efficient-data-transfer-and-ample-space-2024-edition/"><u>Best Premium Flash Memory Sticks for Efficient Data Transfer and Ample Space - 2024 Edition</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/breaking-down-the-features-of-arctic-freezer-36-setting-new-standards-for-entry-level-acs/"><u>Breaking Down the Features of Arctic Freezer 36: Setting New Standards for Entry-Level ACs</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>How to Turn Off Google Location to Stop Tracking You on Apple iPhone XS Max | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-unlock-nokia-c210-without-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Nokia C210 Without Password?</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Honor 90 Pro | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-syncing-songs-with-stories-and-videos-on-instagram/"><u>In 2024, Syncing Songs with Stories and Videos on Instagram</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/master-your-pc-knowledge-with-toms-authoritative-tech-articles/"><u>Master Your PC Knowledge with Tom's Authoritative Tech Articles</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-through-computer-hardware-the-toms-expertise/"><u>Navigating Through Computer Hardware - The Tom's Expertise</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-best-charging-and-transportable-usb-hubs-with-quickconnect-technology-type-c/"><u>The Best Charging and Transportable USB Hubs with QuickConnect Technology (Type-C)</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-resource-for-high-performance-hardware-by-toms-team/"><u>The Ultimate Resource for High-Performance Hardware by Tom's Team</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-in-depth-hardware-reviews-and-insights-1723267249481/"><u>Tom's Tech Hub: In-Depth Hardware Reviews & Insights</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-6-frequently-encountered-cura-mistakes-and-solutions/"><u>Top 6 Frequently Encountered Cura Mistakes & Solutions</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveil-cutting-edge-tech-the-ultimate-guide-to-hardware-by-tom/"><u>Unveil Cutting-Edge Tech: The Ultimate Guide to Hardware by Tom</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-revised-interview-guidelines-for-captivating-listeners/"><u>2024 Approved Revised Interview Guidelines for Captivating Listeners</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1725285239963-dvd/"><u>最新型免費全錄DVD或主要電影複製器：解決方案及選用導引</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-infinix-note-30-5g-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Infinix Note 30 5G</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/1722903322325-expert-picks-the-top-of-the-line-htpc-devices/"><u>Expert Picks: The Top-of-the-Line HTPC Devices !</u></a></li>
+<li><a href="https://win-answers.techidaily.com/god-of-war-overload-strategies-to-lower-cpu-usage-and-improve-play-experience/"><u>God of War Overload? Strategies to Lower CPU Usage and Improve Play Experience</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-non-ipad-and-non-samsung-alternative-uncovering-one-of-the-most-entertaining-tablet-options-on-zdnet/"><u>Top Non-iPad and Non-Samsung Alternative: Uncovering One of The Most Entertaining Tablet Options on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-ipad-gadgets-and-add-ons-expert-picks-from-zdnet/"><u>Top Rated iPad Gadgets and Add-Ons : Expert Picks From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-reasons-to-fall-in-love-with-an-economical-android-tablet-a-tech-gurus-perspective-on-quality-and-value/"><u>Top Reasons to Fall in Love with an Economical Android Tablet – A Tech Guru's Perspective on Quality and Value</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranked-tablets-for-students-in-depth-review-by-professionals-zdnet/"><u>Top-Ranked Tablets for Students: In-Depth Review by Professionals | ZDNet</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-computer-hardware-with-tom-expert-insights-and-tips/"><u>Unveiling the Latest in Computer Hardware with Tom - Expert Insights and Tips</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/windows-compatible-solutions-for-using-apples-imessage-a-comprehensive-how-to/"><u>Windows Compatible Solutions for Using Apple's iMessage: A Comprehensive How-To</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Exciting News: MediaTek Announces ARM-Based Chips Coming to Windows Devices - Post Qualcomm Monopoly"
-date: 2024-08-19T02:54:07.754Z
-updated: 2024-08-20T02:54:07.754Z
+date: 2025-02-27T18:04:06.462Z
+updated: 2025-03-04T19:06:55.251Z
 tags:
   - laptop
 categories:
@@ -57,16 +57,10 @@ Several PC manufacturers recently[launched Qualcomm-powered laptops](https://too
 
  The biggest advantage of the XPS 13 is the screen options available: it starts with a 13.4-inch display with an FHD+ resolution, but you can upgrade it to a QHD+ display. But if you want the best image quality, the XPS 13 can be had with a 3K OLED screen. The XPS 13 starts at $1,299.99 but can quickly jump to $2,499.99 if you max out its specs. It’s now available on the[Dell website](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-8900246-12578053%3Fsid%3Dtomshardware-us-3641429059046625036%26url%3Dhttps%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Flaptops%2Fsnapdragon%2Fspd%2Fxps-13-9345-laptop%2Fusexchcto9345qcm02) .
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Dell Inspiron 14 Plus
 
 ![Dell Inspiron 14 Plus Laptop](https://cdn.mos.cms.futurecdn.net/RxhbpuMwEyZwzgdfQ5xe7T-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 (Image credit: Dell)
 
  If you don’t have the budget for a premium laptop, but still trust Dell’s quality, you can pick the Inspiron 14 Plus to get on the Copilot+ PC bandwagon. This laptop uses the less potent (but still powerful) Snapdragon X Plus X1P-64-100 chip with 16GB of RAM and a 512GB SSD.
@@ -87,32 +81,12 @@ Several PC manufacturers recently[launched Qualcomm-powered laptops](https://too
 
 ![HP OmniBook X 14](https://cdn.mos.cms.futurecdn.net/gu94E6KZHnHWC6swaVeuab-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 (Image credit: HP)
 
  This laptop is the budget Copilot+ PC from HP, but it doesn’t mean that you’re losing out on features. The OmniBook X 14 still uses the same chip as the EliteBook Ultra 14 with 16GB of RAM. It also has a 512GB SSD, which you can upgrade to 1TB for $100 extra. It also has a 14-inch 2.2K display, but this one is multi-touch enabled.
 
  Although this laptop is thicker than the EliteBook Ultra 14, it’s also substantially more affordable at $1,149.99\. You can purchase and customize this laptop now on[the HP website](https://www.anrdoezrs.net/click-8900246-15852945?sid=tomshardware-us-1154629704587710143&url=https://www.hp.com/us-en/shop/ConfigureView?langId=-1&storeId=10151&catalogId=10051&catEntryId=3074457345621303820&urlLangId=&quantity=1) , but shipments will begin on July 9.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ## Lenovo Yoga Slim 7x
 
 ![Lenovo Yoga Slim 7x](https://cdn.mos.cms.futurecdn.net/J3XYYNCds6rXWkSQVXZc49-320-80.jpg)
@@ -123,9 +97,6 @@ Key features:
 
  The Yoga Slim 7x uses a 14.5-inch 3K OLED display with a 90 Hz refresh rate. It’s also VESA-certified DisplayHDR True Black 600, giving you a great viewing experience. The laptop starts at $1,199.00 and is available for Pre-Order on[the Lenovo site](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Flenovo.7eer.net%2Fc%2F5597632%2F218864%2F3808%3FsubId1%3Dtechidaily-us-8727768493894058412%26sharedId%3Dtechidaily-us%26u%3Dhttps%253A%252F%252Fwww.lenovo.com%252Fus%252Fen%252Fp%252Flaptops%252Fyoga%252Fyoga-slim-series%252Fyoga-slim-7x-gen-9-%252814-inch-snapdragon%2529%252Flen101y0049) at the time of writing.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Lenovo ThinkPad T14s Gen 6
 
 ![Lenovo ThinkPad T14s Gen 6](https://cdn.mos.cms.futurecdn.net/By8PYnaLQtTDyDkoyxvmNd-320-80.jpg)
@@ -136,16 +107,10 @@ Key features:
 
  This laptop has a 14-inch IPS display and two USB4 ports, two USB-A ports, an HDMI 2.1 port, and a 3.5mm headphone jack. You also have the option to add a Nano Sim slot. The ThinkPad T14s Gen 6 starts at $1,889.30 and is available for Pre-Order direct[from Lenovo](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Flenovo.7eer.net%2Fc%2F5597632%2F218864%2F3808%3FsubId1%3Dtechidaily-us-1250424839333332531%26sharedId%3Dtechidaily-us%26u%3Dhttps%253A%252F%252Fwww.lenovo.com%252Fus%252Fen%252Fp%252Flaptops%252Fthinkpad%252Fthinkpadt%252Flenovo-thinkpad-t14s-gen-6-%252814-inch-snapdragon%2529%252Flen101t0099) at the time of writing.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ## Microsoft Surface Laptop
 
 ![Microsoft Surface Laptop](https://cdn.mos.cms.futurecdn.net/C6DJ6XaHjf2BKnT2gskUhk-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
  (Image credit: Microsoft)
 
  Of course,[Microsoft](https://tools.techidaily.com) will not lag behind the competition when it comes to Copilot+ PCs. It is offering the most affordable Snapdragon X option, with the Surface Laptop, which starts at $999.99\. This model has a Snapdragon X Plus processor and a 13.8-inch display. It also comes with 16GB of RAM and a 512GB SSD.
@@ -156,18 +121,12 @@ Key features:
 
 ![Microsoft Surface Pro](https://cdn.mos.cms.futurecdn.net/FDVeU5mue9SMrJ7zU7yjHB-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Microsoft)
 
  If you prefer the tablet form factor, you can still get a Copilot+ PC with the Microsoft Surface Pro. This 2-in-1 starts at $999.99 for the Snapdragon X Plus version with a 13-inch LCD display, 16GB of RAM, and a 256GB SSD for the Platinum colorway. The three other colors — Sapphire, Dune, and Black — start at $1,199.99 with a larger 512GB SSD.
 
  The Snapdragon X Elite model gets a 13-inch OLED screen and 16GB of RAM, but you now also have a choice between a 512GB or a 1TB SSD. The Snapdragon X Elite Surface Pro starts at $1,499.99 but jumps to $1,699.99 for the larger storage version. You can also spec this chip with 32GB of RAM and 1TB SSD, but you’ll have to shell out $2,099.99 for this model. You can get it now from[Microsoft](https://www.microsoft.com/en-us/store/configure/surface-pro-11th-edition/8n9t09p96cmj) if you want a new Windows 11 tablet.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Samsung Galaxy Book4 Edge
 
 ![Samsung Galaxy Book4 Edge](https://cdn.mos.cms.futurecdn.net/92Lc3j6TS3cq5HjHkBqebH-320-80.jpg)
@@ -186,8 +145,6 @@ Key features:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -195,4 +152,26 @@ Key features:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-master-the-art-of-archiving-with-these-13-key-techniques/"><u>[New] Master the Art of Archiving with These 13 Key Techniques</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-recording-your-iphoneipad-whats-new/"><u>[New] Recording Your iPhone/iPad What's New</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-5-innovative-apps-to-design-stunning-openings/"><u>[Updated] 2024 Approved 5 Innovative Apps to Design Stunning Openings</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-mastering-clear-video-capture-with-obs-even-when-dark/"><u>[Updated] Mastering Clear Video Capture with OBS, Even When Dark</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/aplus-rating-for-apple-watch-ultra-bands-of-2er-2024s-best-selection-as-tested-by-professionals-zdnet-insights/"><u>A+ Rating for Apple Watch Ultra Bands of 2Er: 2024'S Best Selection as Tested by Professionals - ZDNET Insights</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/budget-friendly-cinema-experience-your-guide-to-free-movie-access-both-online-and-in-person/"><u>Budget-Friendly Cinema Experience: Your Guide to Free Movie Access Both Online & in Person</u></a></li>
+<li><a href="https://os-tips.techidaily.com/epic-games-brings-fortnite-back-to-ios-devices-and-debuts-on-android-platform/"><u>Epic Games Brings Fortnite Back to iOS Devices and Debuts on Android Platform</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-of-the-garmin-quatix-7-top-navigation-device-for-mariners/"><u>In-Depth Analysis of the Garmin Quatix 7 - Top Navigation Device for Mariners</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/integrating-public-transport-cards-with-apple-wallet-a-step-by-step-guide/"><u>Integrating Public Transport Cards with Apple Wallet: A Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/is-it-time-to-upgrade-your-apple-watch-picking-the-right-model-series-8-vs-ultra-vs-awaiting-series-9/"><u>Is It Time to Upgrade Your Apple Watch? Picking the Right Model: Series 8 vs Ultra vs Awaiting Series 9</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/is-the-apple-watch-ultra-2-worth-upgrading-from-the-original-watch-ultra-comprehensive-review-by-zdnet/"><u>Is the Apple Watch Ultra 2 Worth Upgrading From the Original Watch Ultra? Comprehensive Review by ZDNet</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-windows-printer-drivers-error-successful-strategies-for-finding-the-right-one/"><u>Resolving Windows Printer Drivers Error: Successful Strategies for Finding the Right One</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionizing-wearables-unveiling-huaweis-flip-up-smartwatch-featuring-built-in-compact-truebuds-gadget-digest/"><u>Revolutionizing Wearables: Unveiling Huawei's Flip-Up Smartwatch Featuring Built-In Compact TrueBuds - Gadget Digest</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionizing-your-fitness-routine-with-the-shokjz-openrun-pro-zdnet-review-on-cutting-edge-bone-conduction-technology-for-athletes/"><u>Revolutionizing Your Fitness Routine with the Shokjz OpenRun Pro - Zdnet Review on Cutting-Edge Bone Conduction Technology for Athletes</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/step-by-step-guide-converting-your-vhs-tapes-into-digital-format-using-a-personal-computer/"><u>Step-by-Step Guide: Converting Your VHS Tapes Into Digital Format Using a Personal Computer</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/step-by-step-guide-sparkling-fresh-apple-watch-cleaning-techniques-zdnet-master-the-art/"><u>Step-by-Step Guide: Sparkling Fresh Apple Watch Cleaning Techniques (ZDNet) - Master the Art</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-hidden-truth-about-apple-watch-batteries-how-long-will-yours-really-last-tech-insights/"><u>The Hidden Truth About Apple Watch Batteries - How Long Will Yours Really Last? | Tech Insights</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/the-ultimate-guide-to-instagram-mastery-top-10-gadgets/"><u>The Ultimate Guide to Instagram Mastery Top 10 Gadgets</u></a></li>
+</ul></div>
 

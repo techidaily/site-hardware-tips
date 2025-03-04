@@ -1,7 +1,7 @@
 ---
 title: "Next-Gen Computing Evolves: StarFive's JH7110 SoC Board with DeepComputing and Framework Utilizes Advanced RISC-V Architecture"
-date: 2024-08-19T02:52:30.628Z
-updated: 2024-08-20T02:52:30.628Z
+date: 2025-02-27T20:31:46.827Z
+updated: 2025-03-04T16:02:37.194Z
 tags:
   - laptop
 categories:
@@ -45,8 +45,6 @@ DeepComputing, the maker of the DC-ROMA RISC-V Laptop, just released an upgrade 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -54,8 +52,24 @@ DeepComputing, the maker of the DC-ROMA RISC-V Laptop, just released an upgrade 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-revolutionize-your-social-media-experience-with-premier-tools/"><u>[New] In 2024, Revolutionize Your Social Media Experience with Premier Tools</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-captivate-crowds-secrets-to-screen-collaboration-via-social-media/"><u>[Updated] In 2024, Captivate Crowds Secrets to Screen Collaboration via Social Media</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-how-sharks-new-vacuum-model-revolutionizes-cleaning-with-unmatched-handless-operation-exclusive-at-zdnet/"><u>Discover How Shark's New Vacuum Model Revolutionizes Cleaning with Unmatched Handless Operation | Exclusive at ZDNET!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experts-picks-for-the-top-notch-smart-home-tech-of-2024-features-and-reviews-zdnet/"><u>Experts' Picks for the Top-Notch Smart Home Tech of 2024 - Features & Reviews | ZDNet</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-6s-plus-to-others-ios-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 6s Plus To Others ios devices? | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-breaking-boundaries-with-6-top-rated-nft-services/"><u>In 2024, Breaking Boundaries with 6 Top-Rated NFT Services</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-quality-and-cost-savings-unite-in-best-asmr-mics/"><u>In 2024, Quality and Cost Savings Unite in Best ASMR Mics</u></a></li>
+<li><a href="https://fox-that.techidaily.com/quick-fixes-for-a-broken-safari-browser-on-iphones-a-guide-to-the-10-most-effective-methods/"><u>Quick Fixes for a Broken Safari Browser on iPhones - A Guide to the 10 Most Effective Methods</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionary-robovac-the-latest-self-cleaning-bot-with-baseboard-wiping-capabilities-explore-now-on-zdnet/"><u>Revolutionary RoboVac: The Latest Self-Cleaning Bot with Baseboard Wiping Capabilities - Explore Now on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionizing-cleaning-with-roomba-combo-j7plus-the-nearly-perfect-hybrid-robotic-vacuum-assessment-zdnet-review/"><u>Revolutionizing Cleaning with Roomba Combo J7+: The Nearly Perfect Hybrid Robotic Vacuum Assessment - ZDNet Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-future-is-here-unveiling-apples-plans-for-intelligent-robotic-assistants-in-residential-spaces-zdnet/"><u>The Future Is Here: Unveiling Apple's Plans for Intelligent Robotic Assistants in Residential Spaces | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-strategies-to-extend-your-robot-vacuum-battery-durability-tips-by-zdnet/"><u>Top Strategies to Extend Your Robot Vacuum Battery Durability, Tips by ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/topmost-bargains-at-best-buy-in-june-2024-exclusive-finds/"><u>Topmost Bargains at Best Buy in June 2024: Exclusive Finds</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/troubleshooting-your-video-card-expert-advice-from-yl-software-on-display-driver-issues/"><u>Troubleshooting Your Video Card: Expert Advice From YL Software on Display Driver Issues</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unleashing-the-full-power-of-google-tv-top-10-features-every-user-needs-to-know/"><u>Unleashing the Full Power of Google TV: Top 10 Features Every User Needs to Know</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-ultimate-cleansing-companion-a-deep-dive-into-roborocks-premium-robotic-vacuum-zdnet-review/"><u>Unveiling the Ultimate Cleansing Companion: A Deep Dive Into Roborock's Premium Robotic Vacuum [ZDNet Review]</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/when-ai-serves-up-surprises-the-day-i-got-drenched-in-vino-by-a-bot-and-its-billfold-antics/"><u>When AI Serves Up Surprises - The Day I Got Drenched in Vino by a Bot and Its Billfold Antics</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->

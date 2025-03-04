@@ -1,7 +1,7 @@
 ---
 title: Elevate Your Gaming World with the Best Immersive Speaker System, Now Discounted at Best Buy | Insider Review From ZDNET
-date: 2025-02-10T22:14:33.383Z
-updated: 2025-02-15T16:09:16.821Z
+date: 2025-02-25T21:48:32.798Z
+updated: 2025-03-04T18:31:25.646Z
 tags:
   - laptops
 categories:
@@ -19,10 +19,6 @@ Taylor Clemons/ZDNET
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### ZDNET takeaways
 
@@ -74,10 +70,6 @@ The speaker system is also excellent for streaming music; I played the [Old Gods
 
 My one big complaint about the SteelSeries Arena 9 is that you really do feel that drop in control when dealing with a device that's been connected via USB or optical cable. The OLED dial allows you to choose between a few different presets but only offers a single option for a custom sound profile. In contrast, the Sonar app lets you create a custom soundscape for every media type and connected device. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## ZDNET's buying advice
 
 There is a lot that comes with the [SteelSeries Arena 9](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsteelseries-arena-9-5-1-bluetooth-gaming-speakers-with-rgb-lighting-6-piece-black%2F6515591.p%3FskuId%3D6515591&publisher_slug=itechdaily19598&exclusive=1), between the speakers and subwoofer, controller, and cables. It's easily one of the best-sounding systems I've tested, and the ability to tweak specific audio settings is game-changing. That said, if you mainly use a single platform like the PC or a console for gaming, you may want to opt for the smaller but still capable [Arena 7](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSteelSeries-Arena-Computer-Gaming-Speakers%2Fdp%2FB09KNYJL4R%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ccb6f578f-fb07-40e7-bf55-0f1795abef73%7Cdtp&dtb=1) instead, since it comes with a single pair of speakers and a subwoofer. It doesn't include a control dial like the Arena 9, but you can quickly adjust basic volume and bass boost levels with the on-device knobs for watching shows and movies. 
@@ -85,10 +77,6 @@ There is a lot that comes with the [SteelSeries Arena 9](https://shop-links.co/l
 And if you're simply looking for a reliable set of PC speakers, the [Arena 3](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSteelSeries-Arena-Computer-Gaming-Speakers%2Fdp%2FB09KNYBT4Q%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ccb6f578f-fb07-40e7-bf55-0f1795abef73%7Cdtp&dtb=1) is an excellent choice; they don't have the RGB lighting features like the Arena 7 and 9, making them a better choice for shared work spaces or home offices that double as gaming rooms. If you've been waiting for a decent deal to come along before you pick up the Arena 9, [Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsteelseries-arena-9-5-1-bluetooth-gaming-speakers-with-rgb-lighting-6-piece-black%2F6515591.p%3FskuId%3D6515591&publisher_slug=itechdaily19598&exclusive=1) is running a sale where the speaker system is $100 off its original price; this brings it down to $450, and while that's still on the pricey side, the multimedia support, ability to connect to multiple devices simultaneously, and incredible sound quality make it a worthy investment for your gaming space or home theater. 
 
 _This article was originally published on February 23, 2024, and was updated on September 17, 2024._
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## When does this deal expire?
 
@@ -124,22 +112,20 @@ Best Buy hasn't put a hard and fast end date for the $100 discount on the Arena 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-transforming-social-media-traffic-into-revenue/"><u>[New] In 2024, Transforming Social Media Traffic Into Revenue</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-swift-and-secure-efficient-downloads-of-podcasts-onto-iphone/"><u>[New] Swift and Secure Efficient Downloads of Podcasts Onto iPhone</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-ultimate-checklist-streamlining-and-maximizing-screencast-quality-with-mobizen/"><u>[New] Ultimate Checklist Streamlining and Maximizing Screencast Quality with Mobizen</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-exclusive-access-to-premium-playlists-on-mobile-devices/"><u>[Updated] 2024 Approved Exclusive Access to Premium Playlists on Mobile Devices</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/artistic-modifications-pic-editing-masterclass-for-2024/"><u>Artistic Modifications Pic Editing Masterclass for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/comprehensive-review-of-switchbots-all-in-one-remote-a-closer-look-at-its-features-and-limitations/"><u>Comprehensive Review of SwitchBot's All-in-One Remote: A Closer Look at Its Features and Limitations</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/cut-down-on-screen-strain-with-the-compact-multicolor-e-ink-monitor-from-dasung/"><u>Cut Down on Screen Strain with the Compact, Multicolor E-Ink Monitor From Dasung</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-samsungs-new-high-capacity-512gb-usb-c-portable-storage-device/"><u>Discover Samsung's New High-Capacity 512GB USB-C Portable Storage Device</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-your-ideal-arlo-security-package-a-step-by-step-guide/"><u>Discover Your Ideal Arlo Security Package: A Step-by-Step Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/dissecting-raycons-everyday-pro-earphones-debunking-the-overhyped-promises/"><u>Dissecting Raycon's Everyday Pro Earphones: Debunking the Overhyped Promises</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ensure-your-new-graphics-card-features-over-8gb-ram/"><u>Ensure Your New Graphics Card Features Over 8GB RAM</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/experience-gaming-evolution-with-razers-deathadder-v3-tailor-your-controllers-speed-like-never-before/"><u>Experience Gaming Evolution with Razer's DeathAdder V3 – Tailor Your Controller’s Speed Like Never Before!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-the-features-and-benefits-of-onyx-boox-note-air3-a-comprehensive-color-e-reader-review/"><u>Exploring the Features & Benefits of Onyx Boox Note Air3: A Comprehensive Color E-Reader Review</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-redmi-note-13-5g-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Xiaomi Redmi Note 13 5G Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/redefining-website-visibility-with-ai-insights/"><u>Redefining Website Visibility with AI Insights</u></a></li>
-<li><a href="https://techidaily.com/1723808215753-unlock-the-secrets-of-your-digital-footprint-find-your-ip-for-free-now/"><u>Unlock the Secrets of Your Digital Footprint: Find Your IP for Free Now!</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-video-editing-for-beginners-a-microsoft-guide-for-windows-users/"><u>Updated In 2024, Video Editing for Beginners A Microsoft Guide for Windows Users</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ecipe-rulers-must-follow-culinary-youtubers/"><u>[New] Recipe Rulers Must-Follow Culinary YouTubers</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-bypass-expenses-relish-films-anywhere-free-player/"><u>[Updated] Bypass Expenses, Relish Films Anywhere (FREE Player)</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-diy-video-meme-guide-boost-your-posts-on-fb-and-instagram/"><u>[Updated] In 2024, DIY Video Meme Guide Boost Your Posts on FB & Instagram</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-essential-techniques-recording-playstation-4-games/"><u>[Updated] In 2024, Essential Techniques Recording PlayStation 4 Games</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-micro-movie-maker/"><u>2024 Approved Micro Movie Maker</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-the-extraordinary-with-dells-premium-3k-gaming-rig-a-revolutionary-review-on-zdnet/"><u>Experience the Extraordinary with Dell's Premium $3K Gaming Rig - A Revolutionary Review on ZDNet</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/exploring-the-best-tools-for-snapshots-and-video-capture-for-2024/"><u>Exploring the Best Tools for Snapshots and Video Capture for 2024</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Apple iPhone 7 | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-asus-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Asus Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/last-minute-bargain-of-the-year-the-ultimate-guide-to-scoring-an-asus-laptop-for-only-99-bucks-on-best-buys-exclusive-sale-expert-advice-by-zdnet/"><u>Last-Minute Bargain of the Year: The Ultimate Guide to Scoring an ASUS Laptop for Only 99 Bucks on Best Buy's Exclusive Sale – Expert Advice by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/octobers-must-have-prime-gaming-bargains-for-gamers-save-big-on-the-latest-releases/"><u>October's Must-Have Prime Gaming Bargains for Gamers: Save Big on the Latest Releases</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/score-an-unbeatable-bargain-with-the-apple-macbook-air-m2-for-only-749-this-prime-day-dont-miss-out-on-amazons-ultimate-october-sale/"><u>Score an Unbeatable Bargain with the Apple MacBook Air (M2) for Only $749 This Prime Day – Don't Miss Out on Amazon's Ultimate October Sale!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-bargain-acers-chromebook-plus-strikes-gold-under-400-outshines-competitors-zdnet/"><u>The Ultimate Bargain: Acer's Chromebook Plus Strikes Gold Under $400, Outshines Competitors | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-prime-day-bargains-on-video-games-october-2024-preview-pcworld/"><u>Top Prime Day Bargains on Video Games: October 2024 Preview - PCWorld</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/why-apples-latest-macbook-pro-featuring-the-powerful-m2-pro-chip-is-an-irresistible-offer-insights-for-tech-enthusiasts/"><u>Why Apple’s Latest MacBook Pro, Featuring the Powerful M2 Pro Chip, Is an Irresistible Offer - Insights for Tech Enthusiasts</u></a></li>
 </ul></div>
 

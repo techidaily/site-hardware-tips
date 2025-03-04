@@ -1,7 +1,7 @@
 ---
 title: Unlock the Secrets of Advanced Gadgets at Tom’s Computer Review
-date: 2024-08-19T02:50:47.250Z
-updated: 2024-08-20T02:50:47.250Z
+date: 2025-02-28T21:03:12.283Z
+updated: 2025-03-04T19:20:20.958Z
 tags:
   - laptop
 categories:
@@ -82,9 +82,6 @@ It's rare that my lasting impression about a laptop is all about style, but here
 | **Weight**                | 3.31 pounds (1.5 kg)                                                                         |
 | **Price (as configured)** | $1,699.99                                                                                    |
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ## Productivity Performance on the Asus Zenbook S16
 
  This review happens to be our first look at AMD's new Ryzen AI 9 HX 370, one of the company's very lengthily-named processors in its "Strix Point" lineup. This chip has four Zen 5 cores and eight Zen 5c cores (for a total of 12 cores). It has a base clock of 2 GHz and a max boost of up to 5.1 GHz. As chip companies attempt to one-up each other on AI, AMD is packing 50 TOPS in its NPU, surpassing the 45 TOPS in the Qualcomm Snapdragon X Elite and X Plus (the chip as a whole goes up to 80 TOPS).
@@ -99,9 +96,6 @@ It's rare that my lasting impression about a laptop is all about style, but here
 
 ![Asus Zenbook S16](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![Asus Zenbook S16](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
@@ -120,23 +114,12 @@ It's rare that my lasting impression about a laptop is all about style, but here
 
  To stress the processor, we run Cinebench 2024 for 10 runs. During the test, the system started at 821.18 points and dipped into the high 700's, and then peaked up to 844.42 points before dipping again into the mid-to-high 700's. The Zen 5 cores ran at an average of 2.67 GHz, while the Zen 5C cores reached 1.9 GHz. The CPU ran at an average of 73.44 Celsius.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ## AI on the AMD Ryzen AI 9 HX 370
 
  Despite all of the hubbub around artificial intelligence, it's still only useful in so many consumer products. On Windows laptops, applications are still slowly adopting the technologies. While NPUs are often being used for background blur in video conferencing apps, generative AI is often using GPUs (at least, when it isn't looking to the cloud instead).
 
 ![Asus Zenbook S16](https://cdn.mos.cms.futurecdn.net/kyTb4Yk4LUiQN83wEJXLtQ-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  In a reviewer's guide sent to the press, AMD suggested a number of applications to try that make use of local AI. Chief among them was a beta of Amuse 2.0, which includes image generation with Stable Diffusion, as well as paint-to-image features that are very similar to image creator in Paint on Copilot Plus PCs (though that uses DALL-E). In a way, this app, made to work well with AMD's hardware, can fill in the blanks until[Microsoft](https://tools.techidaily.com) adds Copilot Plus features to Ryzen AI laptops.
@@ -155,18 +138,12 @@ It's rare that my lasting impression about a laptop is all about style, but here
 
 ![Asus Zenbook S16](https://cdn.mos.cms.futurecdn.net/FjNRA9Vy2XgumK64KwiTCT-320-80.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  Asus's 16-inch panel covers 79.7% of the color gamut (113%[sRGB](https://tools.techidaily.com) ), in range of both the MacBook Air and the HP OmniBook X. The 16-inch MacBook Air's mini-LED display and HP Spectre x360's OLED screen were both more vivid.
 
  At 357 nits, I found the Zenbook 16 to be usable, but competitors do better. The 16-inch MacBook Pro was the brightest at 563 nits, and both the MacBook Air (476.4 nits) and HP Spectre x360 366.2 nits were also brighter.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Keyboard and Touchpad on the Asus Zenbook S16
 
  Despite just 1.1 mm travel, the Zenbook S16’s keyboard is snappy. Don't get me wrong, it's still a membrane keyboard, but it's relatively comfortable and even has a bit of bounce. On monkeytype, I hit 112 words per minute with a 2% error rate, which isn't my best, but is pretty close.
@@ -187,9 +164,6 @@ It's rare that my lasting impression about a laptop is all about style, but here
 
  The Zenbook S16 trades volume for detail. Don't get me wrong, it's loud enough, especially if you're sitting right in front of it, but it didn't quite fill an entire meeting room with sound. But when I was listening to Charli XCX's "Von dutch," I was surprised to hear a bit of bass. The speakers, tuned with Dolby Atmos, sounded great when I switched from "balanced" to "detailed," with clear vocals, pounding drums and whirring synths.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ## Upgradeability of the Asus Zenbook S16
 
 There isn't much to upgrade or repair on the Zenbook S16.
@@ -202,27 +176,18 @@ There isn't much to upgrade or repair on the Zenbook S16.
 
  Once you're in, there are two parts you could replace. The first is the battery, which takes up most of the room inside the system. The other is the SSD. Despite the size of the laptop, there isn't a secondary M.2 slot, so you'll have to replace the drive if you want more storage space. The wireless module and RAM are soldered to the motherboard.
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ## Battery Life on the Asus Zenbook S16
 
  While the Zenbook S16 will likely last you an entire workday, the new Asus device didn't last as long on a charge as competitors based on Arm platforms.
 
 ![Asus Zenbook S16](https://cdn.mos.cms.futurecdn.net/qUjejmtkRBhxMYbsPzPwHT-320-80.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  The AMD-based Zenbook ran for 11 hours and 35 minutes on our battery test, which involves web browsing, OpenGL tests, and video streaming over Wi-Fi with the screen set to 150 nits. Only the Spectre x360, with Intel Core Ultra, did worse at 11:01 (and that's not far behind, especially considering that laptop has a smaller battery than the Zenbook).
 
  But the MacBook Air M3 (15:03), HP OmniBook X on a Snapdragon X Elite (16:18), and the 16-inch MacBook Pro lasted an incredible 17:11.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Heat on the Asus Zenbook S16
 
  During our ten runs of Cinebench 2024, we took skin temperature measurements to see how the Zenbook performs under an intense workload.
@@ -279,8 +244,6 @@ There isn't much to upgrade or repair on the Zenbook S16.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -288,4 +251,26 @@ There isn't much to upgrade or repair on the Zenbook S16.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-inside-look-best-practices-for-splitting-audiences-with-fb-live/"><u>[New] In 2024, Inside Look Best Practices for Splitting Audiences with FB Live</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/asterclass-in-eliminating-youtube-content/"><u>[New] Masterclass in Eliminating YouTube Content</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-creating-revenue-streams-on-snapchat/"><u>[Updated] 2024 Approved Creating Revenue Streams on Snapchat</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-effortless-transferring-5-pathways-to-download-igtv-on-computers/"><u>[Updated] In 2024, Effortless Transferring 5 Pathways to Download IGTV on Computers</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-the-ultimate-strategy-for-professional-gopro-filming/"><u>[Updated] In 2024, The Ultimate Strategy for Professional Gopro Filming</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1-dont-purchase-these-4-apple-devices-yet-a-zdnet-insight/"><u>1. Don't Purchase These 4 Apple Devices Yet: A ZDNet Insight</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/budget-friendly-beast-explore-how-this-compact-computing-marvel-outperforms-giants-at-a-surprising-price-point-gadgetguru/"><u>Budget-Friendly Beast: Explore How This Compact Computing Marvel Outperforms Giants at a Surprising Price Point | GadgetGuru</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/buy-the-ultimate-deal-over-half-off-on-a-4tb-samsung-usb-c-external-ssd-at-amazon-tech-advice/"><u>Buy the Ultimate Deal: Over Half Off on a 4TB Samsung USB-C External SSD at Amazon - Tech Advice</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/embracing-the-future-how-artificial-intelligence-is-redefining-computing-speeds-insights-from-zdnet/"><u>Embracing the Future: How Artificial Intelligence Is Redefining Computing Speeds - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/enhanced-ai-innovations-arriving-on-copilotplus-devices-what-macbook-owners-are-missing-out-on/"><u>Enhanced AI Innovations Arriving on Copilot+ Devices: What MacBook Owners Are Missing Out On</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-maximizing-your-video-content-on-zoom-for-fb-live/"><u>In 2024, Maximizing Your Video Content on ZOOM for FB Live</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-quiet-quality-of-comfort-asmr-expert-choices/"><u>In 2024, The Quiet Quality of Comfort ASMR Expert Choices</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/leveraging-local-computing-power-for-ai-model-deployment-managing-dozens-of-models-on-mac-or-pc-without-third-party-clouds-zdnet-insights/"><u>Leveraging Local Computing Power for AI Model Deployment: Managing Dozens of Models on Mac or PC Without Third-Party Clouds | ZDNet Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/survival-strategies-for-microsoft-amidst-falling-surface-revenue-expert-opinions-and-forecasts-zdnet/"><u>Survival Strategies for Microsoft Amidst Falling Surface Revenue - Expert Opinions and Forecasts | ZDNet</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/to-stick-or-swap-debating-an-enhanced-apple-watch/"><u>To Stick or Swap: Debating an Enhanced Apple Watch</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-tips-on-leveraging-the-power-of-google-gemini/"><u>Ultimate Tips on Leveraging the Power of Google Gemini</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-macos-stage-manager-a-comprehensive-guide-on-activation-and-features/"><u>Unlocking macOS Stage Manager: A Comprehensive Guide on Activation & Features</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-value-in-gaming-performance-our-picks-for-the-most-cost-effective-laptops-insiders-guide/"><u>Unlocking Value in Gaming Performance: Our Picks for the Most Cost-Effective Laptops - Insider's Guide</u></a></li>
+<li><a href="https://win-popular.techidaily.com/yl-computing-spearheads-the-sparkling-era-of-philippine-tech-embracing-bsv-blockchain/"><u>YL Computing Spearheads the Sparkling Era of Philippine Tech: Embracing BSV Blockchain</u></a></li>
+</ul></div>
 

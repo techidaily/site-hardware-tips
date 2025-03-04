@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Deal: Find the 4TB Samsung Portable SSD (T5) Now 50%% Discounted on Amazon – Limited Stock Available"
-date: 2025-02-13T19:28:46.979Z
-updated: 2025-02-15T18:05:23.911Z
+date: 2025-02-28T17:51:11.504Z
+updated: 2025-03-04T21:10:28.441Z
 tags:
   - laptops
 categories:
@@ -19,10 +19,6 @@ Taylor Clemons/ZDNET
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### ZDNET takeaways
 
@@ -74,10 +70,6 @@ The speaker system is also excellent for streaming music; I played the [Old Gods
 
 My one big complaint about the SteelSeries Arena 9 is that you really do feel that drop in control when dealing with a device that's been connected via USB or optical cable. The OLED dial allows you to choose between a few different presets but only offers a single option for a custom sound profile. In contrast, the Sonar app lets you create a custom soundscape for every media type and connected device. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## ZDNET's buying advice
 
 There is a lot that comes with the [SteelSeries Arena 9](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsteelseries-arena-9-5-1-bluetooth-gaming-speakers-with-rgb-lighting-6-piece-black%2F6515591.p%3FskuId%3D6515591&publisher_slug=itechdaily19598&exclusive=1), between the speakers and subwoofer, controller, and cables. It's easily one of the best-sounding systems I've tested, and the ability to tweak specific audio settings is game-changing. That said, if you mainly use a single platform like the PC or a console for gaming, you may want to opt for the smaller but still capable [Arena 7](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSteelSeries-Arena-Computer-Gaming-Speakers%2Fdp%2FB09KNYJL4R%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1698828e-5b08-40b1-af47-ba57099be65e%7Cdtp&dtb=1) instead, since it comes with a single pair of speakers and a subwoofer. It doesn't include a control dial like the Arena 9, but you can quickly adjust basic volume and bass boost levels with the on-device knobs for watching shows and movies. 
@@ -85,10 +77,6 @@ There is a lot that comes with the [SteelSeries Arena 9](https://shop-links.co/l
 And if you're simply looking for a reliable set of PC speakers, the [Arena 3](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSteelSeries-Arena-Computer-Gaming-Speakers%2Fdp%2FB09KNYBT4Q%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1698828e-5b08-40b1-af47-ba57099be65e%7Cdtp&dtb=1) is an excellent choice; they don't have the RGB lighting features like the Arena 7 and 9, making them a better choice for shared work spaces or home offices that double as gaming rooms. If you've been waiting for a decent deal to come along before you pick up the Arena 9, [Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsteelseries-arena-9-5-1-bluetooth-gaming-speakers-with-rgb-lighting-6-piece-black%2F6515591.p%3FskuId%3D6515591&publisher_slug=itechdaily19598&exclusive=1) is running a sale where the speaker system is $100 off its original price; this brings it down to $450, and while that's still on the pricey side, the multimedia support, ability to connect to multiple devices simultaneously, and incredible sound quality make it a worthy investment for your gaming space or home theater. 
 
 _This article was originally published on February 23, 2024, and was updated on September 17, 2024._
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## When does this deal expire?
 
@@ -124,16 +112,18 @@ Best Buy hasn't put a hard and fast end date for the $100 discount on the Arena 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-behind-the-scenes-insights-deciphering-what-unlisted-means-for-youtube-users/"><u>[New] In 2024, Behind-the-Scenes Insights Deciphering What 'Unlisted' Means for YouTube Users</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-getting-started-with-youtube-tv-a-must-read-article/"><u>[Updated] In 2024, Getting Started with YouTube TV A Must-Read Article</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-the-ultimate-guide-to-no-charge-subtitle-makers-srt-for-2024/"><u>[Updated] The Ultimate Guide to No-Charge Subtitle Makers (SRT) for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/cd/"><u>専門家が選ぶCDコンバータプログラム：高解像度、豊富機能。ストレス無くオーディオファイル作り！</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/-guide-extracting-specific-segments-from-youtube/"><u>Quick Guide Extracting Specific Segments From YouTube</u></a></li>
-<li><a href="https://some-tips.techidaily.com/struggling-with-gift-selection-let-googles-cutting-edge-ai-create-the-perfect-present-insights-from-zdnet/"><u>Struggling with Gift Selection? Let Google's Cutting-Edge AI Create the Perfect Present: Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-tutorial-implementing-interactive-buttons-in-android-applications/"><u>The Ultimate Tutorial: Implementing Interactive Buttons in Android Applications</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-14-amazing-android-innovations-that-are-worth-your-attention/"><u>Top 14 Amazing Android Innovations That Are Worth Your Attention</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-cyclists-choice-ultimate-guide-to-the-premier-bicycle-smartphone-holders/"><u>Top-Rated Cyclist's Choice: Ultimate Guide to the Premier Bicycle Smartphone Holders</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/troubleshooting-text-message-issues-why-your-android-device-may-not-be-getting-sms/"><u>Troubleshooting Text Message Issues: Why Your Android Device May Not Be Getting SMS</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-elite-selection-of-google-pixel-6-pro-cases-in-2e23/"><u>Ultimate Guide: Elite Selection of Google Pixel 6 Pro Cases in 2E23</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/rafting-team-videos-to-foster-viewership-and-following/"><u>[New] Crafting Team Videos to Foster Viewership and Following</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-screen-streaming-showdown-whos-the-champion-in-2024-obs-or-shadowgl/"><u>[Updated] Screen Streaming Showdown Who's the Champion, In 2024 OBS or ShadowGL?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-speed-up-your-photo-journey-creating-rapid-google-collages/"><u>2024 Approved Speed Up Your Photo Journey Creating Rapid Google Collages</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/40l-desktop-for-just-550-less-top-deal-of-the-day/"><u>40L Desktop for Just $550 Less – Top Deal of the Day!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/in-depth-walkthrough-correcting-errors-in-user-profile-logon-services/"><u>In-Depth Walkthrough: Correcting Errors in User Profile Logon Services</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-samsung-galaxy-s23-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Samsung Galaxy S23 Phone FRP Lock</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/meet-the-finest-featherweight-lgs-latest-svelte-gram-laptop-revolutionizes-portability-digital-chronicles/"><u>Meet the Finest Featherweight: LG's Latest Svelte Gram Laptop Revolutionizes Portability - Digital Chronicles</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/over-23-unbeatable-labor-day-promotions-on-laptops-spotted/"><u>Over 23 Unbeatable Labor Day Promotions on Laptops - Spotted!</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-future-of-podcasts-starts-with-smart-name-generation/"><u>The Future of Podcasts Starts with Smart Name Generation</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/top-4-video-amplifier-web-apps-elevate-your-audio-experience-for-2024/"><u>Top 4 Video Amplifier Web Apps Elevate Your Audio Experience for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-49-unbeatable-christmas-bargains-on-newegg-insights-from-zdnet/"><u>Top 49 Unbeatable Christmas Bargains on Newegg - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-picks-the-ultimate-lightweight-laptop-for-seamless-remote-working-insights-from-our-testing-at-zdnet/"><u>Top Picks: The Ultimate Lightweight Laptop for Seamless Remote Working - Insights From Our Testing at ZDNet</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/whats-new-in-vr-in-2024/"><u>What's New in VR, In 2024</u></a></li>
 </ul></div>
 

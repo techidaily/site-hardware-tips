@@ -1,7 +1,7 @@
 ---
 title: "Unbeatable Price Alert: Dell Latitude N 5491 Now for a Steal at $219 - Shop Smart with ZDNet's Deals!"
-date: 2025-02-12T20:51:03.849Z
-updated: 2025-02-15T19:48:12.949Z
+date: 2025-03-03T20:30:57.820Z
+updated: 2025-03-04T20:05:23.473Z
 tags:
   - laptops
 categories:
@@ -49,10 +49,6 @@ Finally, one of the best parts of the Vivobook line are these laptops' bold desi
 
 All in all, if you're looking for a sleek, lightweight travel laptop or a backup machine while working remotely, the [Vivobook Go 15.6](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FASUS-Vivobook-Go-15-6-PC-Laptop-Intel-i3-N305-8GB-256GB-Win-11-Home-S-mode-Mixed-Black-E1504GA-WS36%2F5727766555&subId1=zd-__COM_CLICK_ID__-dtp) has a nice-sized screen that's not too big or too small for only $249 ($80 off at the time of writing). The full-sized keyboard offers a comfortable work setup, and the generous port selections make this computer well-rounded enough for a variety of everyday use cases. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## When will this deal expire?
 
 Deals are subject to sell out or expire at any time, though ZDNET remains committed to finding, sharing, and updating the best product deals for you to score the best savings. Our team of experts regularly checks in on the deals we share to ensure they are still live and obtainable. We're sorry if you've missed out on this deal, but don't fret -- we're constantly finding new chances to score savings and sharing them with you at [ZDNET.com](https://www.zdnet.com/). 
@@ -87,14 +83,22 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-5-premium-4k-displays-for-the-hardcore-gamer/"><u>[New] In 2024, 5 Premium 4K Displays for the Hardcore Gamer</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-cutting-edge-speech-to-text-googles-pathway-for-precision/"><u>[Updated] In 2024, Cutting-Edge Speech-to-Text Google’s Pathway for Precision</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-jest-in-imagery-create-with-kapwing-for-2024/"><u>[Updated] Jest in Imagery Create with Kapwing for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/explore-asus-rog-allys-finest-docks/"><u>Explore ASUS ROG Ally's Finest Docks</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-seamless-aspect-ratio-adaptation-in-dev-workflows/"><u>In 2024, Seamless Aspect Ratio Adaptation in Dev Workflows</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/loongsons-cutting-edge-chip-a-competitive-match-to-intels-16-core-ice-lake-processor/"><u>Loongson's Cutting-Edge Chip: A Competitive Match to Intel’s 16-Core Ice Lake Processor</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-pulse-on-processors-memory-and-more-in-depth-hardware-reviews-by-tom/"><u>The Pulse on Processors, Memory & More: In-Depth Hardware Reviews by Tom</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-selection-of-2024s-most-efficient-cpu-coolers-all-in-one-and-air-variants/"><u>The Ultimate Selection of 2024'S Most Efficient CPU Coolers: All-in-One and Air Variants</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-technology-with-tom/"><u>Unveiling the Latest in Technology with Tom</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-behind-the-scenes-mastering-screen-recordings-in-games/"><u>[New] 2024 Approved Behind the Scenes Mastering Screen Recordings in Games</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-how-to-address-and-overcome-a-youtube-content-id-issue/"><u>[New] In 2024, How to Address and Overcome a YouTube Content ID Issue</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-the-ultimate-guide-to-peak-performance-on-instagram/"><u>[New] In 2024, The Ultimate Guide to Peak Performance on Instagram</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-jumpstart-your-photo-editing-skills-with-these-must-have-pixlr-tips/"><u>[New] Jumpstart Your Photo-Editing Skills with These Must-Have Pixlr Tips</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1-comprehensive-guide-viewing-options-summer-games-online-all-about-streaming/"><u>1. Comprehensive Guide: Viewing Options Summer Games Online – All About Streaming</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-vivo-v27-pro-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Vivo V27 Pro to New Android? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/masterful-movies-on-the-move-optical-image-correction-tech-leaders-for-2024/"><u>Masterful Movies on the Move Optical Image Correction Tech Leaders for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-mysterious-0x80004005-error-proven-solutions-for-your-email-woes/"><u>Resolving the Mysterious 0X80004005 Error - Proven Solutions for Your Email Woes</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/swift-guide-to-chromakey-and-background-separation-for-2024/"><u>Swift Guide to Chromakey and Background Separation for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-buying-a-high-quality-smart-tv-for-2nnd-century-insights-from-zdnets-tech-experts/"><u>Ultimate Guide to Buying a High-Quality Smart TV for 2Nnd Century: Insights From ZDNet's Tech Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-choosing-the-ideal-lg-tv-model-for-your-home-insights-from-zdnet/"><u>Ultimate Guide: Choosing the Ideal LG TV Model for Your Home – Insights From ZDNET</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/universal-unlock-pattern-for-honor-x50i-by-drfone-android/"><u>Universal Unlock Pattern for Honor X50i</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unleash-entertainment-up-to-170-off-on-high-definition-amazon-fire-tv-omni-series-qled-viewing-shop-now-at-zdnet/"><u>Unleash Entertainment: Up to $170 Off on High-Definition Amazon Fire TV Omni Series (QLED) Viewing - Shop Now at ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlock-the-latest-deal-highly-recommended-qled-tv-sale-for-labor-day-at-a-1-000-markdown-discover-more-inside-zdnets-in-depth-analysis/"><u>Unlock the Latest Deal: Highly Recommended QLED TV Sale for Labor Day at a $1, 000 Markdown | Discover More Inside ZDNET's In-Depth Analysis</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unmissable-tv-bargains-for-seniors-your-guide-to-the-best-2024-labor-day-specials/"><u>Unmissable TV Bargains for Seniors - Your Guide to the Best 2024 Labor Day Specials</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-game-changer-how-samsungs-discounted-s95c-oled-blows-away-all-competitors-save-up-to-1500/"><u>Unveiling the Game-Changer: How Samsung's Discounted S95C OLED Blows Away All Competitors - Save Up To $1,500!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnets-top-recommended-economical-sony-bravia-tv-for-superior-viewing-experience-smart-choice-in-home-entertainment/"><u>ZDNet's Top Recommended Economical Sony Bravia TV for Superior Viewing Experience | Smart Choice in Home Entertainment</u></a></li>
 </ul></div>
 

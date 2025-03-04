@@ -1,7 +1,7 @@
 ---
 title: Discover Amazing Back-to-School Laptop Bargains for Q3/Q4 | TechRadar
-date: 2025-02-11T16:37:56.423Z
-updated: 2025-02-15T17:56:08.136Z
+date: 2025-03-01T19:57:15.376Z
+updated: 2025-03-04T19:08:07.965Z
 tags:
   - laptops
 categories:
@@ -23,10 +23,6 @@ If you see something that looks like a great deal, we recommend adding it to you
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Best laptop deals
 
@@ -99,10 +95,6 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-Low-Blue-Processor-Ethernet-Bluetooth%2Fdp%2FB0CVN88CFX%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C9586302c-2428-498d-9e19-20e580697010%7Cdtp&dtb=1) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Alternative laptop deals
 
 ### Amazon laptop deals
@@ -131,10 +123,6 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 
 [HP Chromebook X360 14-inch FHD touchscreen 2-in-1 laptop deal for $279 (save $120) $279 at Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FHP-Chromebook-X360-14-inch-FHD-IPS-Touch-2-in-1-Laptop-Intel-Processor-N100-4GB-RAM-64GB-eMMC-Sky-Blue%2F5123764557&subId1=zd-__COM_CLICK_ID__-dtp)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Best Buy laptop deals
 
 [HP 15.6-inch touchscreen Full HD laptop deal for $630 (save $170) $630 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fhp-15-6-touch-screen-full-hd-laptop-intel-core-i7-16gb-memory-512gb-ssd-natural-silver%2F6550427.p%3FskuId%3D6550427&publisher%5Fslug=zdnet&article%5Fname=the%20best%20laptop%20deals%20of%20july%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Flaptop-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
@@ -156,10 +144,6 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 [Apple MacBook Pro, refurbished, 15-inch, 16GB RAM deal for $800 (save $2,000) $800 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-refurbished-macbook-pro-15-display-with-touch-bar-intel-core-i7-16gb-memory-amd-radeon-pro-560x-512gb-ssd-space-gray%2F6515403.p%3FskuId%3D6515403&publisher%5Fslug=zdnet&article%5Fname=the%20best%20laptop%20deals%20of%20july%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Flaptop-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 [Apple MacBook Air, 2023, refurbished, 13.3-inch deal for $340 (save $660) $340 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-geek-squad-certified-refurbished-macbook-air-13-3-display-intel-core-i5-8gb-memory-128gb-flash-storage-silver%2F6530194.p&publisher%5Fslug=zdnet&article%5Fname=the%20best%20laptop%20deals%20of%20july%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Flaptop-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How did we choose these laptop deals?
 
@@ -195,10 +179,6 @@ If you're a gamer who needs a high-spec laptop with a decent graphics card, top-
 ## What are the best deals right now?
 
 ZDNET experts split out the latest and greatest deals for you below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best deals by retailer
 
@@ -257,22 +237,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-utilizing-b-roll-to-enrich-narrative-arcs/"><u>[Updated] 2024 Approved Utilizing B-Roll to Enrich Narrative Arcs</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-finding-premium-free-music-without-breaking-copyrights-for-2024/"><u>[Updated] Finding Premium, Free Music Without Breaking Copyrights for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-guide-to-swiftly-acquire-and-save-youtube-watch-lists-for-2024/"><u>[Updated] Guide to Swiftly Acquire and Save YouTube Watch Lists for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-mac-and-pcs-top-10-supercharged-srt-systems-unveiled/"><u>[Updated] Mac & PC's Top 10 Supercharged SRT Systems Unveiled</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/a-comprehensive-guide-to-unveiling-the-secrets-of-stock-android-on-devices/"><u>A Comprehensive Guide to Unveiling the Secrets of Stock Android on Devices</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-8-surprising-benefits-of-leveraging-your-mobile-device-for-desktop-tasks/"><u>Discover 8 Surprising Benefits of Leveraging Your Mobile Device for Desktop Tasks</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/dont-miss-out-apple-slashes-prices-for-ipad-pro-making-it-an-unbeatable-prime-day-bargain-expert-analysis/"><u>Don't Miss Out! Apple Slashes Prices for iPad Pro, Making It an Unbeatable Prime Day Bargain - Expert Analysis</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/dusk-to-dawn-for-darkened-windows-11-win11/"><u>Dusk to Dawn for Darkened Windows 11 Win11</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/google-maps-hacks-pinpointing-your-abandoned-cars-location-made-simple/"><u>Google Maps Hacks: Pinpointing Your Abandoned Car's Location Made Simple</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/guide-setting-up-your-input-devices-on-android-mouse-keyboard-and-controllers/"><u>Guide: Setting Up Your Input Devices on Android – Mouse, Keyboard & Controllers</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-xiaomi-civi-3-disney-100th-anniversary-edition-get-deleted-pictures-back-with-ease-and-safety-by-fonelab-android-recover-pictures/"><u>How to Xiaomi Civi 3 Disney 100th Anniversary Edition Get Deleted Pictures Back with Ease and Safety?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/introducing-the-revolutionary-ai-powered-camera-system-in-new-google-pixel/"><u>Introducing the Revolutionary AI-Powered Camera System in New Google Pixel</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/lost-without-that-must-have-app-learn-how-we-can-help-restore-order-now/"><u>Lost Without That Must-Have App? Learn How We Can Help Restore Order Now!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-digital-wellness-how-to-implement-usage-controls-for-android-applications/"><u>Mastering Digital Wellness: How to Implement Usage Controls for Android Applications</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/streaming-tips-watching-the-2n4-summer-olympics-from-home-online/"><u>Streaming Tips: Watching the 2N4 Summer Olympics From Home Online</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/struggling-division-costs-intel-a-staggering-16-billion-loss-in-recent-quarter/"><u>Struggling Division Costs Intel a Staggering $1.6 Billion Loss in Recent Quarter</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/top-10-password-cracking-tools-for-oppo-a56s-5g-by-drfone-android/"><u>Top 10 Password Cracking Tools For Oppo A56s 5G</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-elevate-your-cinematic-voice-with-these-top-text-strategies/"><u>[New] In 2024, Elevate Your Cinematic Voice with These Top Text Strategies</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-trim-videos-with-flair-in-windows-11-photo-apps/"><u>[New] Trim Videos with Flair in Windows 11 Photo Apps</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-epic-finale-for-virtual-escapades/"><u>[Updated] In 2024, Epic Finale for Virtual Escapades</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-innovative-strategies-to-optimize-youtube-edits-after-upload-for-2024/"><u>[Updated] Innovative Strategies to Optimize YouTube Edits After Upload for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1725288975051-winx-dvd-ripper-platinum-dvd/"><u>【公式】無料でダウンロード可能なWinX DVD Ripper Platinum - 最新動作を持つリーチャプライヤソフト、継続的開発中のDVDコピーツール</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/easy-collaborative-folder-management-with-shared-access-feature/"><u>Easy Collaborative Folder Management with Shared Access Feature</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-ready-to-upgrade-your-viewing-experience-a-highly-acclaimed-samsung-tv-goes-for-an-unbelievable-43-off-heres-why-it-made-our-top-list/"><u>Get Ready to Upgrade Your Viewing Experience: A Highly Acclaimed Samsung TV Goes for an Unbelievable 43% Off - Here's Why It Made Our Top List!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-your-hands-on-a-deal-exclusive-150-off-sale-for-the-top-rated-amazon-fire-tv-omnni-series-qled-shop-now/"><u>Get Your Hands on a Deal: Exclusive $150 Off Sale for the Top-Rated Amazon Fire TV Omnni Series QLED – Shop Now!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-lgs-latest-mini-led-television-triumphs-over-the-samsung-g2-oled-for-labor-day-get-300-off-zdnet/"><u>How LG's Latest Mini LED Television Triumphs Over the Samsung G2 OLED for Labor Day – Get $300 Off | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-to-reflect-iphone-content-onto-your-samsung-television/"><u>How to Reflect iPhone Content Onto Your Samsung Television</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/however-we-found-that-it-was-possible/"><u>However, We Found that It Was Possible,</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/huge-sale-alert-save-150-on-the-amazing-fire-tv-omnia-series-qled-shop-now-on-zdnet/"><u>Huge Sale Alert: Save $150 on the Amazing Fire TV Omnia Series QLED - Shop Now on ZDNet</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-boxed-bliss-reinventing-the-art-of-first-contacts/"><u>In 2024, Boxed Bliss Reinventing the Art of First Contacts</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Sony Xperia 10 V | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-of-the-hisense-u8h-4k-television-stunning-picture-quality-at-a-wallet-friendly-price-zdnets-exclusive-review/"><u>In-Depth Analysis of the Hisense U8H 4K Television: Stunning Picture Quality at a Wallet-Friendly Price - ZDNET's Exclusive Review</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721471654468-iphone-pics-persist-despite-deletions-uncover-these-8-safeguards/"><u>IPhone Pics Persist Despite Deletions? Uncover These 8 Safeguards</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/limited-time-offer-register-now-for-invite-only-amazon-prime-day-savings-top-tips-revealed/"><u>Limited Time Offer: Register Now for Invite-Only Amazon Prime Day Savings - Top Tips Revealed!</u></a></li>
 </ul></div>
 

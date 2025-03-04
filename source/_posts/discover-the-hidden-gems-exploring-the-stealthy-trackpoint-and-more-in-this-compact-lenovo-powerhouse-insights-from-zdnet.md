@@ -1,7 +1,7 @@
 ---
 title: "Discover the Hidden Gems: Exploring the Stealthy TrackPoint and More in This Compact Lenovo Powerhouse - Insights From ZDNet"
-date: 2025-02-14T21:08:39.171Z
-updated: 2025-02-15T16:57:18.972Z
+date: 2025-03-02T21:45:20.458Z
+updated: 2025-03-04T19:31:22.625Z
 tags:
   - laptops
 categories:
@@ -19,10 +19,6 @@ Cesar Cadenas/ZDNET
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -76,10 +72,6 @@ The red TrackPoint on the keyboard has a new function to it. You can still use i
 
 Lastly, there are only three ports available: two USB-C inputs and a headphone jack. That may sound rather disappointing, but keep in mind that the ThinkPad Z13 is an ultraportable laptop. You have to expect such sacrifices on a computer this thin.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## ZDNET's buying advice
 
 I do recommend the [Lenovo ThinkPad Z13 Gen 2](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-21D2001RUS-Notebook-Board%2Fdp%2FB0B7YQC7CC%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cf169cf74-93ad-47a4-86fd-6049162230fe%7Cdtp&dtb=1) if you're looking for a lightweight laptop for work, school, or as an entertainment machine while traveling. It's currently on sale on Lenovo's website in Artic Grey, with prices starting at $1,241\. 
@@ -116,24 +108,18 @@ It is configurable so you can add more to the laptop -- such as larger storage s
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-20plus-free-business-slideshow-templates-makers-and-ideas/"><u>[New] 20+ Free Business Slideshow Templates, Makers, and Ideas</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-pros-choice-review-the-ultimate-4k-dslr-rigs/"><u>[New] 2024 Approved Pro's Choice Review The Ultimate 4K DSLR Rigs</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-elevate-video-aesthetics-to-meet-instagram-standards/"><u>[New] In 2024, Elevate Video Aesthetics to Meet Instagram Standards</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-top-8-free-video-calling-applications-recommended-for-businesses/"><u>[New] Top 8 Free Video Calling Applications Recommended for Businesses</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-avoiding-threats-while-grabbing-gratis-vlc-player-for-apple-machines/"><u>[Updated] Avoiding Threats While Grabbing Gratis VLC Player for Apple Machines</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-step-by-step-guide-to-background-dimming-in-videos/"><u>[Updated] Step-by-Step Guide to Background Dimming in Videos</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/2024s-most-effective-cable-modem-models-reviewed-for-optimal-internet-speed/"><u>2024'S Most Effective Cable Modem Models Reviewed for Optimal Internet Speed</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/3d-ideal-printer-selection-for-startup-enterprises/"><u>3D: Ideal Printer Selection for Startup Enterprises</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-a-step-by-step-guide-to-finding-your-apple-id-on-your-apple-iphone-6-plus-by-drfone-ios/"><u>In 2024, A Step-by-Step Guide to Finding Your Apple ID On Your Apple iPhone 6 Plus</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-direct-from-device-to-digital-world-recording-your-apple-gadgets/"><u>In 2024, Direct From Device to Digital World Recording Your Apple Gadgets</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Xiaomi 14 Ultra | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/understanding-the-role-and-benefits-of-placeholder-memory-chips-for-personal-computing-enthusiasts/"><u>Understanding the Role and Benefits of Placeholder Memory Chips for Personal Computing Enthusiasts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/undetected-backdoor-discovered-how-a-security-glitch-endangers-amd-cpu-users-with-stealthy-malware/"><u>Undetected Backdoor Discovered: How a Security Glitch Endangers AMD CPU Users with Stealthy Malware</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/universal-unlock-pattern-for-xiaomi-redmi-note-13-pro-5g-by-drfone-android/"><u>Universal Unlock Pattern for Xiaomi Redmi Note 13 Pro 5G</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unwind-with-bargains-top-deals-on-noise-canceling-earbuds-for-better-sleep/"><u>Unwind with Bargains: Top Deals on Noise-Canceling Earbuds for Better Sleep</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/upgrade-your-tablet-experience-discover-why-the-zagg-pro-stylus-2-is-an-essential-accessory-for-every-ipad-owner/"><u>Upgrade Your Tablet Experience: Discover Why the ZAGG Pro Stylus 2 Is an Essential Accessory for Every iPad Owner</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/week-in-review-changes-to-netflix-plans-and-top-tips-for-upgrading-iphone-repairs/"><u>Week in Review: Changes to Netflix Plans & Top Tips for Upgrading iPhone Repairs</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/why-i-overcame-my-dislike-of-subscriptions-with-oura-ring/"><u>Why I Overcame My Dislike of Subscriptions with Oura Ring</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/why-thunderbolt-technology-will-revolutionize-your-laptop-experience-what-you-need-to-know/"><u>Why Thunderbolt Technology Will Revolutionize Your Laptop Experience - What You Need to Know!</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-economic-approaches-to-online-educational-broadcasting/"><u>[New] 2024 Approved Economic Approaches to Online Educational Broadcasting</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-clearsnapzoom7-master-your-photographic-scaling/"><u>[New] ClearSnapZoom7 Master Your Photographic Scaling</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-essential-tips-for-replying-on-discord-desktopmobile/"><u>[New] In 2024, Essential Tips for Replying on Discord Desktop/Mobile</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-perfect-phone-imaging-choose-the-best-camera-additions/"><u>[New] In 2024, Perfect Phone Imaging Choose the Best Camera Additions</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-instant-image-perfection-advanced-cropping-guide/"><u>[New] Instant Image Perfection - Advanced Cropping Guide</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-unpacking-twitter-video-sharing-the-whatsapp-connection-for-2024/"><u>[New] Unpacking Twitter Video Sharing The WhatsApp Connection for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/acer-laptop-impresses-with-stunning-oled-display-and-top-notch-webcam-quality-latest-reviews/"><u>Acer Laptop Impresses with Stunning OLED Display & Top-Notch Webcam Quality - Latest Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-latest-at-ces-2e-new-alienware-gaming-laptops-teased-release-insights/"><u>Discover the Latest at CES 2E: New Alienware Gaming Laptops Teased Release | Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dual-world-mastery-in-frameworks-latest-chromebook-merging-power-and-portability/"><u>Dual-World Mastery in Framework's Latest Chromebook: Merging Power and Portability</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-honor-x50-gt-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Honor X50 GT Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranked-mini-chromebook-unleashes-surprising-power-and-flexibility-a-zdnet-review/"><u>Top-Ranked Mini Chromebook Unleashes Surprising Power & Flexibility: A ZDNet Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-college-laptops-insider-ratings-tests-and-expert-choices-zdnet/"><u>Ultimate Guide to College Laptops: Insider Ratings, Tests, and Expert Choices - ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-apples-latest-tech-marvel-the-macbook-pro-upgraded-with-m2-pro-and-mn-max-chips-key-insights-revealed/"><u>Unveiling Apple’s Latest Tech Marvel: The MacBook Pro Upgraded with M2 Pro & Mn Max Chips - Key Insights Revealed</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Advanced Gadget Insights with Tom – Your Go-To Source for Hardware Knowledge
-date: 2024-08-15T06:31:24.964Z
-updated: 2024-08-16T06:31:24.964Z
+date: 2025-03-01T20:43:59.799Z
+updated: 2025-03-04T17:38:44.410Z
 tags:
   - best-picks
 categories:
@@ -48,15 +48,9 @@ When buying a Raspberry Pi HAT, ask yourself these questions:
 11. Adafruit Capacitive Touch HAT
 12. Raspberry Pi M.2 HAT+
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Best Raspberry Pi HATs
 
 ![Pimoroni Inventor HAT Mini](https://cdn.mos.cms.futurecdn.net/Pdgb5CBBk68VjxQGeN8GFE-320-80.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -116,9 +110,6 @@ Simple Python module
 
  (Image credit: Tom's Hardware)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ### 2\. Build HAT
 
 Best Raspberry Pi HAT for Lego Projects
@@ -179,9 +170,6 @@ Incompatible with some HATs
 
 Pimoroni IO Expander  (Image credit: Tom's Hardware)
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. Pimoroni IO Expander
 
 ADC and 14 Extra GPIO Pins for Your Pi
@@ -227,15 +215,9 @@ Add 14 GPIO pins
  There is nothing not to like about the Pimoroni IO Expander, which is small in size but big in features and it should be in the bits box of every Raspberry Pi enthusiast.
 
 ![Best Raspberry Pi HATs](https://cdn.mos.cms.futurecdn.net/m7hyCqNXZXwVbdfCjGR8wb-320-80.jpg)
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  (Image credit: Pimoroni)
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 4\. Pimoroni Picade X HAT
 
 Best Raspberry Pi HAT for Retro Gaming
@@ -284,9 +266,6 @@ Blocks CPU and raises temperature
 
  (Image credit: Raspberry Pi Trading)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 5\. Raspberry Pi Sense HAT
 
  Best Raspberry Pi HAT for Learning, Experiments
@@ -328,24 +307,9 @@ Works with Python and Scratch
  If you’re working with kids or just want to have fun getting started with a Pi, the Sense HAT should be at the top of your shopping list. The amount of learning offered by this board is superb. Two Sense HATs live aboard the International Space Station and every year students compete to have their code run on it . . . from the AstroPi, a Raspberry Pi in space.
 
 ![Best Raspberry Pi HATs](https://cdn.mos.cms.futurecdn.net/nnELAU9czPx2B3uyGbnzPc-320-80.png)
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  (Image credit: Pimoroni)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ### 6\. Pimoroni Breakout Garden
 
  Best Raspberry Pi HAT for Using Multiple Sensors
@@ -476,9 +440,6 @@ Initial purchase is expensive
 
  (Image credit: Les Pounder)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ### 9\. Cyntech Pibrella
 
 Best Raspberry Pi HAT for Younger Makers
@@ -522,15 +483,9 @@ Designed for older Raspberry Pi
  To program Pibrella we can use Python or Scratch and quickly bring a project to life. This Raspberry Pi HAT can be used to build simple robotic projects and teach logic, core concepts using the LEDs. The ideal board for kids who just want to build their first project.
 
 ![Best Raspberry Pi HATs](https://cdn.mos.cms.futurecdn.net/SaHprzZd3GTCwshUTz5Eyc-320-80.jpg)
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  (Image credit: Adafruit)
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 10\. Adafruit Perma-Proto HAT
 
 Best for Creating Your Own Raspberry Pi HATs
@@ -573,9 +528,6 @@ Expensive for multiple boards
 
  (Image credit: Adafruit)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### 11\. Adafruit Capacitive Touch HAT
 
  Best Raspberry Pi HAT for Inspiring Creativity
@@ -724,8 +676,6 @@ powered by
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -733,4 +683,23 @@ powered by
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-the-best-ways-to-record-and-preserve-internet-radio/"><u>[New] The Best Ways to Record and Preserve Internet Radio</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-best-asmr-apps-for-android-and-ios-you-should-know/"><u>[Updated] 2024 Approved Best ASMR Apps for Android and iOS You Should Know</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-real-time-capture-mastery-discover-the-top-4-livestream-strategies/"><u>[Updated] In 2024, Real-Time Capture Mastery Discover the Top 4 Livestream Strategies</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-xiaomi-11-a-new-era-of-high-fidelity-video-recording/"><u>2024 Approved Xiaomi 11 A New Era of High Fidelity Video Recording</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Samsung Galaxy A05 | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/cultural-etiquette-for-successful-socializing-in-south-america/"><u>Cultural Etiquette for Successful Socializing in South America</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/how-abbyys-powerful-technology-secures-a-spot-on-cio-100-mastering-the-source-to-pay-process/"><u>How ABBYY's Powerful Technology Secures a Spot on CIO 100: Mastering the Source-to-Pay Process</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/onyx-boox-duo-exploring-the-combined-strength-of-max-lumi2-and-note-air2-for-avid-readers-and-writers-zdnet-gadgets/"><u>Onyx Boox Duo: Exploring the Combined Strength of Max Lumi2 & Note Air2 for Avid Readers and Writers | ZDNet Gadgets</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/prime-day-extravaganza-check-out-zdnets-list-of-top-36plus-tablet-deals-still-available-amazon-prime-shopping-spree/"><u>Prime Day Extravaganza! Check Out ZDNet's List of Top 36+ Tablet Deals Still Available Amazon Prime Shopping Spree</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolving-vanished-icons-a-step-by-step-guide-for-iphone-users/"><u>Resolving Vanished Icons: A Step-by-Step Guide for iPhone Users</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/rethink-kids-tech-with-our-advanced-tablet-exceptional-performance-meets-limited-time-sale-discover-now-on-zdnet/"><u>Rethink Kids' Tech with Our Advanced Tablet: Exceptional Performance Meets Limited Time Sale - Discover Now on ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/reviewing-the-ultimate-sturdy-windows-tablet-for-creative-professionals-with-built-in-pen-support-cnet/"><u>Reviewing the Ultimate Sturdy Windows Tablet for Creative Professionals with Built-In Pen Support | CNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/samsungs-hidden-gem-a-top-tier-affordable-tablet-for-labor-day-specials-zdnets-inside-look/"><u>Samsung’s Hidden Gem: A Top-Tier, Affordable Tablet for Labor Day Specials - ZDNet's Inside Look</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/scoring-a-bargain-snag-your-own-amazon-fire-tablet-at-just-50-after-labor-day-insider-details-on-the-incredible-trade-in-offer/"><u>Scoring a Bargain: Snag Your Own Amazon Fire Tablet at Just $50 After Labor Day - Insider Details on the Incredible Trade-In Offer</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/secure-your-childs-next-big-toy-grab-the-amazon-kids-fire-tablet-at-just-90-in-our-exclusive-offer/"><u>Secure Your Child's Next Big Toy: Grab the Amazon Kids Fire Tablet at Just $90 in Our Exclusive Offer!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-connection-between-memory-timings-and-your-computers-agility/"><u>Unveiling the Connection Between Memory Timings and Your Computer's Agility</u></a></li>
+</ul></div>
 

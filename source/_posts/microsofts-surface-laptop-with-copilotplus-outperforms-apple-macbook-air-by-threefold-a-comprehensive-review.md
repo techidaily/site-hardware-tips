@@ -1,7 +1,7 @@
 ---
 title: Microsoft's Surface Laptop with Copilot+ Outperforms Apple MacBook Air by Threefold - A Comprehensive Review
-date: 2025-02-10T19:25:26.853Z
-updated: 2025-02-15T19:36:44.440Z
+date: 2025-03-02T16:21:26.574Z
+updated: 2025-03-04T19:40:56.342Z
 tags:
   - laptops
 categories:
@@ -32,10 +32,6 @@ You'll hear and see more about these branded laptops over the coming weeks, mont
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. More seamless on-device AI features
 
 Kerry Wan/ZDNET
@@ -50,10 +46,6 @@ Having a dedicated Copilot key certainly adds to this burdenless experience. As 
 
 Perhaps the most important aspect of these new Copilot+ AI features is that they operate [on-device](https://www.zdnet.com/article/5-top-mobile-trends-in-2024-on-device-ai-the-new-smartphone-and-more/#:~:text=to%20take%20shape.-,1.%20On%2Ddevice%20AI%20puts%20the%20%27smart%27%20in%20smartphone,-The%20new%20Samsung) \-- based on local data, providing more private, secure, and faster processing capabilities. To everyday users, this may not be as significant. If, however, keeping your personal data protected (and away from any [remote cloud servers](https://www.zdnet.com/article/ai-is-changing-cybersecurity-and-businesses-must-wake-up-to-the-threat/)) is a priority, you'll feel a little better using the AI features on these new Copilot+ PCs.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Windows Hello feels faster than ever
 
 Kerry Wan/ZDNET
@@ -66,10 +58,6 @@ Comparing my M3 MacBook Air with the Surface Laptop is not exactly an apples-to-
 
 The best part is that Windows Hello automatically triggers when I lift the laptop lid open, and it's able to scan my face even in dimmer environments thanks to the IR camera.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Touchscreen support
 
 Kerry Wan/ZDNET
@@ -81,10 +69,6 @@ I know. Much like Windows Hello, touchscreen support has always been a key advan
 For example, the new Cocreator tool in Paint requires you to both write a prompt for image generation _and_ draw a base sketch for Copilot to work with. Normally, I'd struggle with drawing circles and straight lines on a trackpad, but I didn't have to on the Surface Laptop. Instead, I just pulled the laptop closer and began sketching with my finger. 
 
 While I've always found touchscreen functionality to be more beneficial on larger screens, using the smaller [13.8-inch Surface Laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMicrosoft-Surface-Touchscreen-Snapdragon-Sapphire%2Fdp%2FB0CXKYTQS2%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc9919522-685b-4aa9-983b-c7ff321ae869%7Cdtp&dtb=1) feels more like a 2-in-1 tablet. When my typing space is confined, like on a bus, plane, or crowded café, being able to simply reach over and tap, swipe, and drag elements on the screen is very helpful and intuitive. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Bonus: Benchmarks (for now)
 
@@ -125,22 +109,18 @@ For the following benchmark tests, the higher the score, the better.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-from-casual-to-expert-your-path-with-obs-gaming-capture/"><u>[New] 2024 Approved From Casual to Expert Your Path with OBS Gaming Capture</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-xiaomi-redmi-a2plus-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Xiaomi Redmi A2+? Fix Now | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/comprehensive-tutorial-how-to-set-up-site-blocklists-on-an-android-smartphone-or-tablet/"><u>Comprehensive Tutorial: How to Set Up Site Blocklists on an Android Smartphone or Tablet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-if-your-device-supports-5g-a-step-by-step-guide/"><u>Discover If Your Device Supports 5G: A Step-by-Step Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-best-android-wallpaper-applications-a-refresh-for-your-smartphones-look/"><u>Discover the Best Android Wallpaper Applications: A Refresh for Your Smartphone's Look</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/embracing-extended-battery-life-by-regularly-utilizing-phone-power-conservation-modes/"><u>Embracing Extended Battery Life by Regularly Utilizing Phone Power Conservation Modes</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expanded-release-next-generation-qualcomm-snapdragon-8-gen-2-boosts-android-phone-performance/"><u>Expanded Release: Next-Generation Qualcomm Snapdragon 8 Gen 2 Boosts Android Phone Performance</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-opinions-on-the-google-pixel-6-top-reviewer-insights-and-praises/"><u>Expert Opinions on the Google Pixel 6: Top Reviewer Insights and Praises</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/fixing-the-pixel-6-pro-resolving-screen-flicker-issues-soon/"><u>Fixing the Pixel 6 Pro: Resolving Screen Flicker Issues Soon</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-emotion-to-entertainment-the-artisans-approach-to-making-memes-gifs-for-2024/"><u>From Emotion to Entertainment The Artisan’s Approach to Making Memes (GIFs) for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/guide-downloading-discontinued-apps-from-alternative-sources/"><u>Guide: Downloading Discontinued Apps From Alternative Sources</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Xiaomi Redmi Note 12 4G? | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-solitary-voice-collective-applause-a-podcast-journey/"><u>In 2024, Solitary Voice, Collective Applause A Podcast Journey</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/new-easy-tutorial-how-to-make-a-talking-cartoon-video-step-by-step/"><u>New Easy Tutorial How To Make a Talking Cartoon Video Step-by-Step</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/prime-color-balancer-suite-for-2024/"><u>Prime Color Balancer Suite for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-magic-behind-transparent-xbox-streaming/"><u>The Magic Behind Transparent Xbox Streaming</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/transform-your-home-networking-game-with-the-amplifi-hd-wireless-mesh-solution-zero-dead-zones/"><u>Transform Your Home Networking Game with the Amplifi HD Wireless Mesh Solution – Zero Dead Zones</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-facebook-news-the-latest-updates-unveiled/"><u>[Updated] 2024 Approved Facebook News The Latest Updates Unveiled</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-turning-time-on-its-ear-unique-approaches-to-reversed-youtube-content/"><u>[Updated] 2024 Approved Turning Time on Its Ear Unique Approaches to Reversed YouTube Content</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-guide-to-delete-discord-server-from-mobile/"><u>[Updated] In 2024, Guide to Delete Discord Server From Mobile</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlocking-the-potential-of-windows-10-for-aspiring-filmmakers/"><u>[Updated] Unlocking the Potential of Windows 10 for Aspiring Filmmakers</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/7-ways-to-unlock-a-locked-realme-note-50-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Realme Note 50 Phone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/a-list-editors-for-android-pics-for-2024/"><u>A-List Editors for Android Pics for 2024</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/software-de-clonacion-de-datos-ultra-actualizado-con-sincronizacion-en-tiempo-real-manten-tu-inventario-actualizado-continuamente/"><u>Software De Clonación De Datos Ultra-Actualizado Con Sincronización en Tiempo Real - Mantén Tu Inventario Actualizado Continuamente</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-why-wont-my-hp-laptop-recognize-usb-devices-a-step-by-step-guide-to-repairing-usb-connectivity-issues/"><u>Solved! Why Won’t My HP Laptop Recognize USB Devices? A Step-by-Step Guide to Repairing USB Connectivity Issues.</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-affordable-televisions-expert-picks-from-zdnet/"><u>Top Rated Affordable Televisions : Expert Picks From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-fireplace-media-consoles-in-2-the-ultimate-guide-zdnet/"><u>Top-Rated Fireplace Media Consoles in 2# # - The Ultimate Guide [ZDNet]</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-lg-television-models-comprehensive-review-by-tech-experts/"><u>Top-Rated LG Television Models - Comprehensive Review by Tech Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-choosing-the-best-live-tv-streamers-of-2024-expert-ratings-and-insights-zdnet/"><u>Ultimate Guide to Choosing the Best Live TV Streamers of 2024: Expert Ratings and Insights | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-hosting-a-memorable-labor-day-bash/"><u>Ultimate Guide to Hosting a Memorable Labor Day Bash</u></a></li>
 </ul></div>
 
